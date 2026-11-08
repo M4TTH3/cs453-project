@@ -1,0 +1,108 @@
+Business Rates Retention (NNDR)
+
+
+Information for Local Authorities: 
+
+Business Rates Collected
+
+The amount of Business Rates payable by shops, offices, warehouses, etc is currently calculated as follows:
+(Rateable Value of the property) x NNDR Multiplier
+
+where, 
+RV is set by the Valuation Office based on the individual characteristics of the property. The current rateable values were set in 2010, with the next valuation in 2017 and every 5 years thereafter, and;
+The NNDR multiplier for 2013/14 is 0.471 (0.462 for small businesses)
+
+The Business Rates Baseline
+
+Business Rates Aggregate for England
+The Secretary of State has estimated that the total business rates to be collected by all billing authorities in England for the year 2013/2014 (“the Estimated Business Rates Aggregate”) is £21,797,108,887.
+For each billing authority in England:
+their central share for 2013/2014 will be 50%;
+their local share for 2013/2014 will be 50%; thus The local share amount for 2012/13 is: £10,898,554,444 
+
+In order to determine tariff and top up amounts for every relevant authority it is necessary to establish individual authority business rates baselines for each authority. The Business Rates Baseline is calculated by the following formula:
+( Individual Proportional Share ) x (Local share of the Estimated Business Rates Aggregate ), minus (share to be paid to upper tier authority),
+
+where, 
+the Individual Proportional Share is calculated based on each authority's contribution to the pool, increases/reductions in rate yield due to transitional arrangements, relief schemes, and schedules of payments.
+40% of charging authority’s local share must go to the Upper Tier authority.
+A relevant authority will receive a payment (a “top up”) from the Secretary of State if its Individual Authority Business Rates Baseline is less than or equal to its Baseline Funding Level. 
+The top up or tariff amount is calculated by the following formula:
+(Baseline funding level) – (Individual Authority’s Business Rates Baseline)
+
+
+How to model Business Rates
+
+STEP 1
+Calculate the number of square metres that will pay business rates. Remember to separate these by use!
+Remember… Residential uses DO NOT pay business rates!
+
+STEP 2
+Make appropriate assumptions of the approximate rateable value (RV) per square metre that new development is likely to get. You can do this by taking a sampling of the surrounding area. You need to do this for every use that the new development will deliver.
+Remember… Different uses get different RV rates. RVs are set by the VOA, and are reviewed every 5 years.
+
+STEP 3
+Multiply the square metres of each use by the appropriate Rateable Values per square metre to get the potential rateable value of the property.
+For example: In a certain area, the average RV for retail uses is £50 per sqm. A new development of 100 sqm of retail is being delivered in the area. Therefore, the rateable value of the whole development will be £5000.
+
+STEP 4
+Multiply the Rateable Value of the property by the NNDR multiplier. This will give you the total annual Business Rates payable.
+For example: 
+£5000 x 0.471 = £2355 payable in Business Rates
+Remember… If you’re modelling business rates over time, remember that this is an annual charge, therefore, once a development is built it will continue to pay business rates over time!
+
+
+
+Community Infrastructure Levy (CIL)
+
+
+The community infrastructure levy is a new levy that local authorities in England and Wales can choose to charge on new developments in their area. In areas where a community infrastructure levy is in force, land owners and developers must pay the levy to the local council.
+The charges are set by the local council, based on the size and type of the new development.
+The money raised from the community infrastructure levy must be used to support the development of the area by funding infrastructure that the council, local community and neighbourhoods want.  A proportion of the income must be spent in the area where the development is taking place (15% or 25% depending on whether a neighbourhood plan is in place).  
+
+How to model CIL income
+STEP 1
+Filter your development trajectory by removing the types of development that are not liable to pay CIL in your area. 
+Your charging schedule will tell you this. 
+Remember… Developments that were already permitted when your charging schedule went live and affordable housing DO NOT pay CIL!
+
+STEP 2
+Calculate the total amount of additional floorspace, in square metres, that is being delivered by the development. You can use design standards to estimate the total area of housing, for example.
+Remember… CIL is payable only on Gross Internal Area! Also, replacement floorspace does not pay CIL!
+
+STEP 3
+Multiply the number of square metres by the appropriate CIL rate for that specific use type.
+For example:
+3,000 sqm of new retail floorspace X £100 per sqm (your CIL rate for retail) = £300,000 CIL!
+
+
+New Homes Bonus (NHB)
+
+
+The New Homes Bonus is a grant paid by central government to local councils for increasing the number of homes and their use.
+The New Homes Bonus is paid each year for 6 years. It is based on the amount of extra Council Tax revenue raised for new-build homes, conversions and long-term empty homes brought back into use. There is also an extra payment for providing affordable homes. There are no restrictions on how the money can be spent.
+The baseline for each local authority is set every year and is based on the previous year's collection of Council Tax.  The grant is calculated by multiplying the annual net change in housing stock (adjusted for Band D equivalency) by the average Band D Council tax in England for the previous year. For 2013/14, this is £1,444.13, with a £350 supplement for affordable homes.  To estimate future income for NHB the 2013/14 calculation is applied to the council’s housing trajectory and project specific housing growth data.
+There is currently a proposed top slice to LEP of  approximately 35%.
+
+How to model New Homes Bonus
+STEP 1
+Filter your development trajectory by separating the number of homes that are private housing and the number of homes that are affordable. 
+
+Remember…
+New Homes Bonus guidance, on the gov.uk website, will tell you what is considered “affordable”
+
+STEP 2
+Find out what the national average Band D Council tax rate is. The current rate is £1,444 per dwelling. This changes every year.
+Remember…
+You can also find this in the New Homes Bonus section of the GOV.UK website
+
+STEP 3
+Multiply the number of private homes by the national avg. Band D Council Tax rate. 
+Multiply the number of affordable homes by the Band D rate PLUS £350. 
+For example: 
+1 private homes x £1444 = £1444
+1 affordable homes x (£1444 + £350) = £1794
+Remember…
+New homes bonus is received by local authorities for 6 years!
+
+

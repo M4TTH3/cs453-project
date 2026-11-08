@@ -1,0 +1,34 @@
+
+Med City Target Analysis
+
+
+Background  
+
+Analysis by PA Consulting Group makes clear that the GVA of life science research and the number of jobs delivered are alternative approaches to assessing the value of outputs and outcomes.
+
+In order to develop a target for jobs or for GVA, it would therefore be sensible to decide which of these is the preferred “final” outcome. Either is in principle fine, but GLA Economics analysis is nearing completion on the GVA per job based on assessment of the ONS data (at SIC two digit level). In terms of consistency with Cost Benefit Analysis for the GLA’s own Investment and Performance Board, benefits are better assessed via the GVA figure.
+  
+A further issue concerns the extent to which aspirations for jobs reflect significant job retention. More generally, there is a problem in estimating (both ex ante and ex post) the extent of genuine additionality. This applies particularly to the indirect jobs identified as deriving from activity.
+
+Whilst the impact on London is an important focus for analysis, Treasury Green Book guidance is very clear that the most important type of assessment is of costs and benefits for “UK plc”. Hence a most important issue and assumption is that of true additionality: a job retained in London is a job potentially denied to (say) Teesside.
+
+Some illustrative calculations
+
+
+Notes:
+Job build-up assumed as shown
+Job persistence assumed to be three years
+
+Value of direct jobs is given by discounted job years multiplied by GVA per job in this sector (GLA Economics central value) of £94,300 in 2014 prices.
+
+Hence GVA in present value terms is 332.37 x £94,300 = £31.342 million
+
+The other variable here is additionality. If this is assumed to be 25%, then the PV of benefits reduces to £7.84 million. If we take MedCity’s costs to be  £5.5 million (GLA) plus 25% contribution by partners, that is £6.875 million in total. Note that if the costs are profiled, the PV of costs will be reduced. This gives a positive NPV of £0.965 million, with a benefit-cost ratio of 1.14.
+
+Some illustrative sensitivity testing: - 
+
+If account is taken of indirect jobs, the value of benefits becomes £7.84 million x 1.66 = £13.01 million.
+NPV rises to £5.135 million and BCR to 1.89.
+If now, additionality is set at 18% (instead of 25%) PV (B) is £9.367 million; NPV is £2.492 million and BCR is 1.36. 
+
+Once the additional value from FDI, clinical trials and spinouts, and their associated jobs and GVA, has been verified we will be in a position to finalise the targets. 

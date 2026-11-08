@@ -1,0 +1,299 @@
+
+
+St Asaph Flood Risk Management Scheme (FRMS) 
+
+
+
+Environmental Assessment Summary
+
+Environmental Assessment Team
+
+Rev No P01
+
+
+
+
+CONTENTS
+
+1.0 	Introduction	3
+2.0 	Background to the Scheme	4
+3.0 	The Study Area	8
+4.0 	Reaching the Preferred Option	13
+5.0 	Environmental Assessment Summary	20
+6.0 	Conclusions	32
+
+
+
+
+
+
+1.0 	Introduction
+This report is the non-statutory environmental assessment of St Asaph Flood Risk Management Scheme (FRMS).  The report provides a summary of the environmental assessment work undertaken to aid the selection of the preferred option and guide the subsequent design of the Scheme.  
+Natural Resources Wales (NRW) has a duty under the Environment (Wales) Act 2016 to apply the principles of sustainable management of natural resources (SMNR) (Figure 1.1) through the exercise of our functions. This is a non-statutory environmental assessment, which allows us to transparently demonstrate the application of the principles of sustainable management of natural resources.  The report draws together the wide range of evidence and assessments that have been undertaken in appraising and selecting the preferred option and in reaching the final design.  It presents them in a format for stakeholder consultation.   
+Figure 1.1 Principles of Sustainable Management of Natural Resources
+
+This report documents the key environmental risks and opportunities and signposts the reader to the detailed reports that support decision making.   In this way the report can be kept succinct but refers the reader to specialist areas that may be of particular concern or interest.
+Further information is contained on the Scheme website  
+Or from the Environmental lead for the Scheme: 
+
+Marianne Jones
+Senior Environmental Project Manager
+Natural Resources Wales
+
+
+If you wish to receive this document in Welsh, please contact us.
+
+2.0 	Background to the Scheme
+
+Drivers for the Scheme
+The River Elwy has flooded St Asaph on a number of occasions.  During the 20th century, flooding was reported during 1964 and 1965.  This prompted construction of the original defences through the city.  These defences were raised again during 1975.  During November 2012, the defences were overwhelmed when prolonged heavy rainfall caused the Elwy to rise to 3m above its normal level and flooded over 300 properties (residential and commercial) and 70 caravans within the city; see Figures 2.1 and 2.2 below.
+
+Figure 2.1: November 2012 Flooding at St Asaph
+
+
+
+The November 2012 flood was estimated to have had between a 1 in 100 (1%) and 1 in 200 (0.5%) chance of occurring in any given year.  Overtopping of the defences during November 2012 gave rise to severe flood damages throughout the city.  The reported flood extent for the event in St Asaph is presented in Figure 2.2 below.  
+
+
+Figure 2.2: November 2012 Flood Extent at St Asaph
+
+
+© Crown copyright and database rights 2016 Ordnance Survey 100019741
+© Hawlfraint y Goron a hawliau cronfa ddata 2016 Arolwg Ordnans 100019741
+
+
+Level of Flood Risk
+Flood modelling undertaken for the St Asaph FRMS Project Appraisal Report (PAR) showed that there are around 430 properties in St Asaph at risk from a flood with a 1 in 200 (0.5%) chance of occurrence in any given year.  This includes 293 homes and 135 businesses, together with locally important highway infrastructure.  
+
+The existing defences would be overtopped by a flood with a 2% (1 in 50) chance of occurrence in any given year.  
+
+The defences are generally in a reasonable condition however some sections, notably a section from Lower Denbigh Road to St Asaph Old Bridge are in a relatively poor condition.  Private gardens have encroached over parts of the defence, limiting access to maintain it.  To date, NRW have been reliant on private landowners mowing the embankment to prevent heavy stands of vegetation establishing, which might compromise its integrity.
+
+Climate change is predicted to increase the frequency with which severe floods occur in St Asaph.  Future climate change will both significantly reduce the standard of protection provided by the existing defences and increase the number of properties at risk from flooding.  If the defences remain at their present height, by 2070, the consequences for St Asaph would be:
+
+The city’s defences would only provide around a 6.7% (1 in 15) annual chance standard; and  
+Some 520 residential and 180 commercial properties would be at risk in the 0.5% (1 in 200) annual chance flood.
+
+It was concluded in the St Asaph FRMS PAR that a Scheme is required to reduce both the present risk of flooding in St Asaph and to allow for it to be managed for the effects of future climate change.
+
+
+Scheme Objectives
+The Scheme objective is to provide St Asaph with improved flood defences that protect the city against a flood with a present day 0.5% (1 in 200) chance of occurrence in any given year.  Future climate change will reduce the standard of protection provided by the defences.  The defences are designed so they can be raised again the future to maintain a 1% (1 in 100) annual chance standard of flood protection to St Asaph.
+
+The Scheme should also ensure no net increase in flood risk (detriment) to properties located up- and downstream of St Asaph.
+
+In addition to providing a reduction in flood risk, the Scheme has identified opportunities to deliver wider environmental and community benefits including:
+
+Setting-back defences, where practicable, to improve the appearance of St Asaph Old Bridge, which is a Grade II Listed Building and Schedule Ancient Monument (SAM).
+Providing access improvements by widening and/or resurfacing existing foot and cycle paths which are linked to the existing flood defences.
+Providing environmental enhancements to the Scheme area and wider catchment, including provision of bird/bat boxes, addition of wild flower seed mix to embankment cover, contribution towards local sculpture, provision of dual waste/litter bins, tree and hedgerow planting including planting of native black poplars and community orchard, and provision of interpretation board for St Asaph Old Bridge SAM in collaboration with Cadw. 
+
+
+Screening and Environmental Requirements
+An Environmental Impact Assessment (EIA) Screening Assessment has been undertaken for the St Asaph FRMS which concluded that the Scheme will not give rise to significant environmental effects. Denbighshire County Council (DCC) provided a formal screening opinion for the St Asaph FRMS, dated 13th October 2015, indicating that: 
+‘It is the opinion of the Council that the proposed development:
+is not considered to be a major development of more than local importance;
+is not proposed within an environmentally sensitive or vulnerable location;
+is not likely to give rise to particularly complex and potentially hazardous effects;
+is not likely to have significant effects on the environment by virtue of factors such as its nature, size and location.
+
+Consequently the proposed development is not Environmental Impact Assessment development requiring the submission of an Environmental Statement.’
+Opinions were also sought from NRWs’ protected sites and marine licencing teams who confirmed that no assessment under the Habitat Directive or Marine Consent would be required respectively.  
+
+It is anticipated that the Scheme will require the following consents:
+
+Planning Consent under the Town and Country Planning Act, 1990.
+Flood Defence Consent for both temporary and permanent works under the Water Resources Act 1991 and applicable NRW bylaws. 
+Listed Building Consent for works which tie into St Asaph Old Bridge.  
+Consent for the demolition of boundary walls within the Conservation Area.
+Scheduled Monument Consent for works under the St Asaph Old Bridge arches, from Cadw.
+Section 38 Consent for development within St Asaph Common Land, from Welsh Assembly Government.
+
+
+
+3.0 	The Study Area
+The full study area for the St Asaph FRMS PAR extended along the River Elwy from properties at Wigfair Isaf in the south to Rhuddlan in the north; refer to Figure 3.1.  This area was determined to ensure that all properties and land which could be affected by a Scheme to reduce the flood risk to properties in St Asaph could be considered.
+It is noted that the Elwy catchment upstream of St Asaph is a trial catchment for the implementation of Natural Flood Risk Management (NFRM) techniques.  NRW undertook the Elwy Natural Flood Risk Management and Ecosystems Services Study (AECOM 2014) which showed that implementation of a range of NFRM measures within the Elwy catchment could deliver a small reduction in flood risk through St Asaph.  Consideration was given during the St Asaph FRMS development to include of some of the measures proposed by the NFRM study.  Priority has been given however to funding environmental enhancements within the immediate Scheme area with the anticipation of NFRM measures being undertaken via separate funding in the future.
+Following the St Asaph FRMS PAR, the study area for the St Asaph FRMS was focussed in on the Scheme footprint and working areas along the River Elwy through St Asaph; extending from Lower Denbigh Road through to Spring Gardens.  Works at two locations downstream of the city, namely Dol Afon and Rhuddlan, are also considered to ensure no increase in flood risk downstream of the main Scheme.  Figure 3.2 and Table 3.1 outline the specific Scheme extents considered in this report.
+Some specialist topic areas, e.g. ecology or landscape, have wider or smaller study areas; these are described within the relevant assessment reports.
+
+Table 3.1 – St Asaph FRMS Scheme Extent Grid Locations
+
+
+Figure 3.1 – St Asaph FRMS PAR Study Area
+
+© Crown copyright and database rights 2016 Ordnance Survey 100019741
+© Hawlfraint y Goron a hawliau cronfa ddata 2016 Arolwg Ordnans 100019741
+
+
+Figure 3.2 – St Asaph FRMS Scheme Extent (denoted by red line)
+
+© Crown copyright and database rights 2016 Ordnance Survey 100019741
+© Hawlfraint y Goron a hawliau cronfa ddata 2016 Arolwg Ordnans 100019741
+
+
+
+
+Scheme Area Constraints
+Constraints plans for the Scheme extent are provided in Appendix A.  Of particular note are: 
+The St Asaph Conservation Area (refer to Constraints Plans);
+St Asaph Common Land (refer to Figure 3.2, Constraints Plans and Plates 1 and 2)
+St Asaph Old Bridge with is Grade II Listed and a SAM (refer to Figure 3.2 and Plate 1).
+The River Elwy is characterised by tree lined banks which form an important landscape and habitat feature (refer to Plate 3).  
+
+
+
+4.0 	Reaching the Preferred Option
+The preferred option was determined as part of the St Asaph FRMS PAR.  This included long and short list assessments of potential options to identify a preferred approach.  An outline of this process is provided below.
+
+Long List Assessment
+A long list of options to reduce flood risk to St Asaph was formed for the St Asaph FRMS PAR.  The long list, together with a brief description of each option, is presented in Table 4.1 below. 
+Table 4.1: Options Long List 
+
+The options were assessed against the following criteria:
+Technical – does the option deliver an acceptable decrease in flood risk?
+Environmental – does the option give rise to any adverse or unacceptable environmental impacts?
+Economic – would the option attract sufficient funding so it could be delivered and maintained.
+A summary of the long list option assessment is presented in Table 4.2 below.  
+
+
+Table 4.2: Long List Assessment Summary
+
+Option L.1 was discounted as whilst it delivered a reduction in flood risk it required higher (and therefore more expensive) flood defences that Option L.2.  Options L.3 to L.6 were discounted primarily on economic grounds.  
+Short List Assessment
+Three of the options, namely Do Nothing, Do Minimum and L.2, were taken forward to the short list assessment and subject to a more detailed appraisal.  Six variations of Option L.2 were considered at the short list stage to determine the preferred standard of flood protection (either 1 in 100 (1%) or 1 in 200 (0.5%) annual chance) and approach to adapt the defences for resilience against future climate change. 
+Providing a higher standard of flood protection or making a larger allowance for future climate change makes the options progressively more challenging to deliver.  This is because it will require a higher and larger increase in the footprint of the defences.  For a typical flood embankment, an increase in the flood defence level by 0.3m equates to a 2m increase in the footprint of the embankment. This significantly increases the amount of material required to build the bank, but, more pertinently, is increasingly challenging to deliver along a river corridor when space is limited.
+Flood levels and extents for each short listed option were obtained using the River Elwy ISIS/Tuflow model. Economic analysis was undertaken for all of the short listed options and reported in the St Asaph Economics Benefit Report.
+The preferred option was determined through consideration of the flood modelling results and economic assessment, as well as looking at the potential environmental acceptability of each short list variant.
+Preferred Option
+The preferred option for the St Asaph FRM Scheme is to provide a present day 1 in 200 (0.5%) annual chance standard of flood protection with a freeboard allowance. Flood defence improvement works are also to be undertaken at Dol Afon and Rhuddlan to ensure no increase in flood risk downstream of the main Scheme works.  The works are designed so they can be raised again in around 50-years for future climate change.
+The managed adaptive approach will be applied to allow the defences to be raised for climate change to maintain a 1 in 100 (1%) annual chance standard of protection in the future.  This means floodwall foundations are, for example, designed and built to accommodate future raising without the need for replacement.
+The main Scheme elements/details are outlined, per section, within Table 4.3 below. A map of these Scheme elements is provided in Figure 4.1. 
+Whilst a single Scheme, the St Asaph FRMS is being delivered as two discrete packages of work: 
+
+Package A consists of works to replace Spring Gardens Bridge, which is located immediately downstream of St Asaph and impedes flow within the River Elwy. 
+
+Package B consists of work to provide new, and improve existing, flood defences throughout St Asaph to protect it from flooding from the River Elwy.
+
+This report considers the whole Scheme, including Package A and B.
+
+
+Table 4.3: Summary of Scheme Elements for the Preferred Option
+
+Figure 4.1: Map of Scheme Elements (not including downstream mitigation)
+
+
+Consultation
+Two public consultation events have been held in St Asaph to inform the local community of the proposals and invite their comments upon the St Asaph FRMS.
+The first of these events was held in the Oriel Hotel in St Asaph on 10th December 2014. This included a session of presentations by NRW and other collaborative parties to a group of key external stakeholders as well as a public open drop-in session during the afternoon and evening. 
+The second public consultation event was an open drop-in session held at the Roe Park meeting rooms in St Asaph on the 4th February 2016. This included an update on design progression since the previous event and details of the proposed Scheme.
+In addition to consulting on the main Scheme, a separate public drop in session was held on 17th May 2016 to publicise and invite any comments and discussion on the Section 38 Common Land application, prior to this being submitted for all flood defence works proposed within St Asaph Common.
+A stakeholder engagement plan was developed at for the St Asaph FRMS PAR and all key stakeholders and affected landowners have been engaged individually by NRW and their agents, as the Scheme has progressed through detailed design stage.  
+Key stakeholder groups consulted to date include:
+Affected landowners
+Afon Elwy Environmental group (AEEG)
+St Asaph City Council
+Clwyd and Powys Archaeological Trust (CPAT)
+Cadw
+DCC Archaeology, Conservation and Footpaths officers
+Rhyl and St Asaph anglers
+NRW Fisheries and Geomorphology teams
+NRW Biodiversity and Protected Sites teams
+Sustrans
+Service providers (BT, DCWW)
+All feedback received from consultees and members of the public has been thoroughly considered and wherever possible the Scheme has been adapted to accommodate all reasonable requests and consideration given to any specific requirements of landowners or users.  Some specific examples of this include:
+Re-design of the defences in the Cattle Market to retain the existing slurry tanks in their current location as requested by the owner;
+Resurfacing of a footpath between the A55 and Spring Gardens Bridge as proposed by Sustrans;
+Alignment of the Scheme’s enhancements with the Afon Elwy Environmental Group (AEEG) plans for the city; and
+Improve setting of St Asaph Old Bridge (which is a Listed Building and SAM) as requested by Cadw and DCC’s Conservation and Archaeological officers.
+In addition to the public consultation events and individual landowner discussions, the local community has been updated on the development and progress of the St Asaph FRMS via NRW’s website and through regular updates from NRW to the St Asaph Flood Partnership.
+Prior to the planning application for Package B being submitted, a period of 28 days consultation will be undertaken on the draft planning submission (including planning application and associated documents) in line with the Planning (Wales) Act 2015. Notices will be displayed on site and statutory consultees and affected landowners will be contacted at the start of this consultation, and documents will be provided via NRW’s website. A planning consultation report will be produced following this consultation, for submission with the planning application, documenting all consultation responses and how these have been addressed.
+
+
+
+5.0 	Environmental Assessment Summary
+The following environmental studies and documents have been undertaken to inform the development of the Scheme:
+Water Framework Directive (WFD) Compliance Assessment
+Archaeological Desk Based Assessment
+Arboriculture surveys
+Bat roost surveys
+Great crested newt surveys
+Phase 1 Habitat survey (part of Preliminary Ecological Assessment)
+Indicative Landscape Plans / Constraints Plans
+Geotechnical Investigation (GI) Factual Report
+An EIA Screening Assessment was undertaken for the St Asaph FRMS PAR. This concluded that the Scheme will not give rise to significant environmental effects. The following potential effects were considered within the screening assessment:
+Flora and Fauna;
+Cultural Heritage;
+Landscape and Visual Amenity;
+Human Beings; and
+Land Use.
+
+The potential environmental opportunities, impacts and constraints highlighted within the screening assessment have been further assessed taking account additional surveys and detailed consultation with key stakeholders and statutory bodies, e.g. Cadw. 
+The results of this environmental assessment are summarised within Table 5.1 below.
+  
+Table 5.1: Environmental Assessment Summary Table.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6.0 	Conclusions
+The objective of the St Asaph FRM Scheme is to raise existing and construct new defences in the city to provide a present day 1 in 200 (0.5%) annual chance standard of flood protection. Flood defence improvement works are also to be undertaken at Dol Afon and Rhuddlan to ensure no increase in flood risk downstream of the main Scheme works.
+The key negative impact resulting from the Scheme (and corresponding mitigation) is tree loss along the river corridor to enable construction of the Scheme; which will impact on local amenity value, landscape, fisheries, birds and bats. Whilst tree losses have been minimised as far as possible through the design, some tree loss is inevitable due to the proximity of the existing defences to the tree lined river corridor. Approximately 80-90 trees will be removed throughout the length of the scheme. Mitigation planting will be undertaken to compensate for this loss.
+The following key benefits will be delivered through the Scheme:
+Improved protection to the community of St Asaph from the risk of flooding.
+Improved setting of St Asaph Old Bridge as a result of setting back defences and removal of existing high wall which currently encroaches on the western arch of the bridge.
+Improvements to footpaths along the river corridor.
+Landscaping of embankments within the recreation ground to improve appearance and encourage access to the river in a less formal manner by reducing embankment slope gradient.
+Other opportunities are detailed within Table 5.1 above.
+In order to increase the benefits delivered by the Scheme, NRW have consulted closely with other bodies and groups such as the Afon Elwy Environmental Group and the City Council to ensure that enhancement opportunities can be aligned in an efficient and collaborative manner, to achieve the best outcomes. 
+All mitigation (including embedded mitigation and environmental enhancements, where relevant) will be documented within a site specific Environmental Action Plan (EAP) which will form part of the contract documents for the appointed contractor. An Environmental Clerk of Works (ECoW) will be appointed to monitor the contractor’s adherence to the EAP on behalf of NRW.
+Environmental outcomes are also shown within the Landscape Masterplans contained within Appendix B.
+
+
+
+
+
+
+
+
+
+
+
+
+Published by:
+Natural Resources Wales
+Cambria House
+29 Newport Road
+Cardiff
+CF24 0TP
+
+0300 065 3000 (Mon-Fri, 8am - 6pm)
+
+enquiries@naturalresourceswales.gov.uk
+www.naturalresourceswales.gov.uk 
+
+© Natural Resources Wales
+
+All rights reserved. This document may be reproduced with prior permission of
+Natural Resources Wales
+

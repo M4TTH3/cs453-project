@@ -1,0 +1,241 @@
+
+
+
+
+St Asaph FRMS 
+Contaminated Land Preliminary Risk Assessment
+
+CONTENTS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Details of document preparation and issue:
+
+
+
+
+
+St Asaph FRMS
+Contaminated Land Preliminary Risk Assessment
+
+Introduction
+Background
+There have been a number of reported instances of flooding in St Asaph. Most recently, a significant flood event occurred during November 2012. This event is estimated to have been between a 1 in 100 and 1 in 200 annual chance event (i.e. an event with a 0.5 to 1% chance of occurring in any given year) and affected 320 properties and 70 caravans. 
+
+The St Asaph Flood Risk Management Scheme (FRMS) (‘the Scheme’) is being developed by Natural Resources Wales (NRW) to reduce the risk of flooding in St Asaph from flood events of a similar level to that seen in 2012 through the improvement of existing, and addition of new sections of, flood defences along the River Elwy.
+
+Purpose of Document
+This report provides a Preliminary Risk Assessment (PRA) of the proposed St Asaph FRMS area, including a tabulated conceptual site model. This is further supplemented by information obtained from ground investigation work undertaken throughout the site, including limited (targeted) contamination testing of soil samples; however, this report does not form a full Qualitative Risk Assessment (QRA). 
+
+This assessment follows the principles outlined in the following guidance:
+BS10175:2011 Investigation of Potentially Contaminated Sites. Code of Practice.
+CLR11, Model Procedures for the Management of Land Contamination (Environment Agency, 2004).
+GPLC1 Guiding Principles for Land Contamination (Environment Agency, 2010).
+Development of Land Affected by Contamination: A Guide for Developers (Welsh Local Government Association and Environment Agency Wales, 2012).
+
+
+Existing conditions
+The Site
+The site is situated on existing flood embankments along the eastern and western banks of River Elwy as it flows from south to north through the city of St Asaph.  The site also extends beyond the existing embankments along Lower Denbigh Road to the south. Two smaller sections of work will also be required downstream (north) at Station Road in Rhuddlan and along existing flood embankment on the east side of Dol Afon footbridge. The Constraints Plans in Appendix A show the site location and layout.
+
+Current Land Use
+Site walkovers throughout the proposed FRMS area were undertaken on a number of occasions in 2015 and 2016. Photographs of the site area are provided within Appendix B.
+
+The linear Scheme runs through or adjacent to a number of existing land uses including: 
+tree lined river banks,
+existing flood defence embankments,
+footpaths,
+areas of open amenity green space, 
+residential gardens, 
+a cattle market, 
+a caravan park,
+commercial properties (Co-operative supermarket and BT building), 
+a vehicle servicing garage (Fountain Garage),
+a sewage treatment works, and
+agricultural grazing land.
+
+Historic Land Use
+A review has been undertaken of available historical Ordnance Survey (OS) maps. A copy of the historical maps is provided within Appendix C.
+
+The earliest map (1871) shows footpaths adjacent to the River Elwy on the eastern and western banks, one of which crosses the river as a ford downstream of the St Asaph Old Bridge. The St Asaph Old Bridge, St Asaph Common and Corn Mill to the East of Fountains Garage are all present on this earliest map. The New Inn, Ruby Terrace properties, cattle market and Spring Gardens property are marked on by 1900. The addition of the bowling green and play areas within St Asaph Common is shown on maps dated 1963, along with the first portion of the sewage treatment works at Spring Gardens. The A55 is constructed and shown on maps dating 1984. The later addition of Roe Park residential properties and Mill Street bungalows is denoted on the 1994 maps.  
+
+Flood defence embankment construction began with a small section of embankment to the north of St Asaph Common on the east side of the river by 1899, and some works had taken place to the north of Spring Gardens along the west bank of the River Elwy by 1914. The main phase of flood embankment construction was undertaken between 1963 and 1968. Further lengths of embankment were added by 1971 and then between 1985 and 1989. 
+
+There is no record within the historic maps of any large scale heavy industries or landfill sites within or immediately adjacent to the Scheme area. 
+
+Geology
+The BGS geology mapping (BGS Sheet No. 107 (Denbigh) Solid and Drift Edition 1:50,000 scale) indicates that the site is underlain by Till deposits and Glaciofluvial deposits of devensian age and Alluvium.  The Till deposits are described as diamicton, meaning poorly sorted deposits that contain a wide range of particle sizes.  The bedrock underlying the site consists of the Warwickshire Group which includes mudstones, siltstones and sandstones.
+
+The geological map does not show Made Ground deposits to be present on the site, but due to the history of the site Engineering Fill will be present as part of the flood defence embankments.
+
+Information provided as part of the ground investigation Works Package Order highlighted that Made Ground is to be expected in the recreational areas (St Asaph Common), consisting of both cohesive and granular types.
+
+Surface Water and Groundwater
+The bedrock and superficial deposits are designated as Secondary ‘A’ Aquifers which are defined as permeable layers capable of supporting water supplies at a local rather than strategic scale, and in some cases forming an important source of base flow to rivers.
+
+Groundwater was encountered during the 2016 ground investigation boreholes at between 0.6m to 4m below ground level, mainly within the glaciofluvial deposits.
+
+The Scheme is in close proximity to the River Elwy throughout St Asaph and downstream of the city. The River Elwy meets the River Clwyd beyond the downstream portion of the Scheme at Dol Afon (upstream of Rhuddlan).
+
+The Water Framework Directive (WFD) waterbodies in the Scheme area have the following classifications/status: 
+Elwy - Clwyd to Afon Melai (River Elwy), GB110066060020, Good Ecological Status.
+Clwyd (Transitional), HMWB, GB541006608000, Moderate Ecological Potential.
+Clwyd Permo-Triassic Sandstone (Groundwater), GB41001G202100, Good status.
+
+
+Proposed Development/Use
+Scheme details
+The St Asaph FRMS consists of work to provide new and improve existing flood defences throughout St Asaph to protect it from flooding from the River Elwy.
+
+The work will comprise a combination of new concrete flood walls, raised and widened existing embankments, new concrete flood walls on top of existing embankments, and a section of new flood embankment. Work will include replacing Spring Gardens Bridge with a higher and wider bridge that does not impede flow within the river channel.
+
+The project objective is to provide St Asaph with improved flood defences that will protect the city against a flood with a present day 0.5% (1 in 200) chance of occurrence in any given year.  The defences are designed so they can be raised again in the future to maintain this standard of flood protection to St Asaph, taking into account the potential effects of climate change. This means floodwall foundations are, for example, designed and built to accommodate future raising without the need for replacement.
+
+Work will extend along both sides of the River Elwy between Lower Denbigh Road south of New Inn, to Spring Gardens Caravan Park. Works will also include two sections of work downstream of St Asaph, namely a short section of embankment raising at Dol Afon footbridge and low level embankment along Station Road in Rhuddlan.
+
+Detail of what work is required throughout the different areas of the Scheme is provided within Table 3.1 below. Figure 3.1 indicates the location of these work elements referred to in the table. 
+
+
+Table 3.1: Summary of proposed Scheme by section/construction type
+Figure 3.1: Map of Scheme Elements (not including downstream mitigation)
+
+
+As described within Table 3.1, ground breaking elements of the Scheme will include earthworks and piling works. 
+
+The main earth works to be undertaken as part of the proposed Scheme are located within the existing flood embankment, with the following exceptions:
+Shallow excavation to remove topsoil adjacent to embankments where increased footprints are proposed, so the new embankment material can key into the underlying soils.  
+Removal of topsoil for the installation of access ramps up and over the flood defences, and for the replacement Spring Gardens Bridge.
+Upstream of the St Asaph Old Bridge there will be an area of excavation work to lower ground levels between the existing wall and the new wall alignment (west side, at rear of Co-Op and BT). 
+Installation of L shaped reinforced concrete wall foundations within agricultural land along Lower Denbigh Road.
+
+Piling work is proposed at the following locations: 
+Along Lower Denbigh Road (bored piles).
+New wall upstream of St Asaph Old Bridge (west side, at rear of Co-Op and BT) (bored piles).
+Short section of shallow piling around existing tanks within Cattle Market to create retaining wall (sheet piles).
+Along Roe Park embankment (sheet piles).
+Abutments for the replacement bridge at Spring Gardens Bridge (sheet piles).
+Dol Afon (downstream section) (sheet piles).
+
+
+Ground Investigation Results
+Trial Pit and Borehole Log Summary
+Two ground investigations (GI) have been undertaken as part of the St Asaph FRMS design development, in 2014 (White Young Green, 2015) and 2016 (White Young Green 2016).  GI locations are shown in Appendix D.
+
+The 2014 GI Factual Report described that “almost every position encountered material described as Made Ground. There was a wide range of materials encountered in the Made Ground; on the drilling of a number of holes in the town centre areas of historic landfill were also encountered. The general Made Ground material found was described as brown and black clays, silts, sands and gravels of sandstone. Thirteen investigation positions (BH4, BH5, BH7, TP06, HP07, WS10 – WS17) encountered landfill material which is a highly variable mixture of black, brown, locally orange sandy with fine to coarse angular to sub-angular gravel and cobbles. The gravel and cobble material identified includes, but is not limited to ash; slag; building materials (including asbestos containing materials); ceramics; pottery; glass; metals; plastics and coal”. 
+
+Whilst the 2014 GI report describes ‘landfill’ material there is no evidence that the area was used for the tipping of waste products. Given the locations the made ground was encountered in it is considered more likely to be relatively low quality fill material, typical of the type of material used to build flood bunds in the 1960’s and 1970’s.
+
+The 2014 GI report suggests that asbestos containing materials were encountered. However this is not reflected by the descriptions of materials in the exploratory hole logs. No testing for asbestos was undertaken as part of this investigation. However the 2016 GI investigation did carry out testing and no asbestos was detected. It is therefore considered the risk of encountering asbestos containing material is low.
+
+Ash material was recorded within BH4 (near Mill Street bungalows) at 1.0-2.4m bgl, within BH7 (within BT land upstream of St Asaph Old Bridge) at 0.4-2.0m bgl and within WS10 (near Mill St bungalows) at 1.45-2.8m bgl. 
+
+The 2016 GI Factual Report documented that “no visual or olfactory evidence of contamination was encountered in any of the exploratory positions”. It was noted that “Made Ground was encountered comprising firm brown clay and stiff reddish brown silty sandy gravelly clay overlying dark brown black ashy silty very sandy gravel of brick coal mudstone, glass and pottery”. 
+
+Ash material was recorded within HD1608 (west side of river upstream of St Asaph Old Bridge) at 0.4-0.9m bgl, within HD1610 (by bowling green on east side of river downstream of St Asaph Old Bridge) at 0.7-0.8m bgl and within TP1604 (recreation ground on west side of river downstream of St Asaph Old Bridge) at 0.4-0.95m bgl.
+
+In addition to the GI exploratory holes, a trial trench was undertaken for the purpose of archaeological information (CPAT, May 2016), within BT land to the southwest of St Asaph Old Bridge. In this location it is proposed that the existing wall will be removed, ground levels lowered by up to approximately 1.5m and a new wall constructed on a setback alignment with scour protection and topsoil instated on the riverward side of the flood wall. The trail trench measured 13.8m by 1.5m and was approximately 1.5m deep. The trail trench contained evidence of made ground containing some layers of ash and cinder deposits and pottery fragments. No visual or olfactory evidence of hydrocarbon or other contamination was documented within the trail trench. 
+
+Contamination Test Results
+The GI undertaken in 2014 and 2016 tested a total of fifteen soil samples (eight and seven samples from the 2014 and 2016 GI’s respectively), for a range of heavy metals, sulphate, Polyaromatic Hydrocarbons (PAH’s), Total Petroleum Hydrocarbons (TPH’s), BTEX (benzene, toluene, ethylbenzene and xylenes) as well as pH and Total Organic Carbon (TOC). Test results are presented within Appendix E.
+
+These results were compared with contaminant thresholds for Public Open Space (Parkland) land use (as defined in Defra Category 4 Screening Levels (C4SL) Report), which are presented in Appendix F. Thresholds are derived from the LQM/CIEH Suitable 4 Use Levels (S4ULs) for Human Health Assessment (Nathanail et al, 2015) with the following exceptions:  
+Lead: derived from the Defra Category 4 Screening Levels (Defra, 2014)
+Asbestos: based on threshold for defining hazardous waste, following ‘Technical Guidance WM3 Guidance on the classification and assessment of waste (1st edition 2015)’. Published by NRW, SEPA, EA, NIEA.
+
+Of the fifteen samples tested three locations showed exceedances of these thresholds, and one near to the threshold:
+(2014) TP06 at 0.4 and 1.2m depth showed an exceedance in lead concentration of 626mg/kg and 739mg/kg respectively, compared to a threshold value of 580mg/kg.
+(2014) WS11 at 2.4m depth showed an exceedance in lead concentration of 642mg/kg, compared to a threshold value of 580mg/kg.
+(2016) WS1601A at 1.96-2.80m depth showed an exceedance in concentration of Benzo(a)anthracene, Chrysene, Benzo(a)pyrene and Dibenzo(ah)anthracene of 129.5mg/kg, 134.3mg/kg, 102.95mg/kg, 14.55mg/kg compared to thresholds of 62mg/kg, 120mg/kg, 13mg/kg and 1.4mg/kg respectively (for >6%SOM). This is an eight to tenfold exceedance in the threshold for Benzo(a)pyrene and Dibenzo(ah)anthracene. 
+The window sample log shows the soil at this depth to contain coal, so it is possible that these elevated results are from the testing of a sample particularly high on coal. These results indicate a contamination hotspot.
+(2016) TP1604 at 0.95m showed lead concentration of 504mg/kg near to the limit of 580mg/kg.
+
+All samples showing levels above the threshold values are within the recreation ground (St Asaph Common), with TP06 being situated on the east bank of the river and WS11 and W1601A and TP1604 on the west bank of the river.  Sample locations are shown in Appendix D.
+
+It is noted that no asbestos was detected (“NAD”) in any of the seven samples tested in the 2016 GI.  None was tested in the 2014 GI.
+
+
+Conceptual SIte Model
+Potential Source-Pathway-Receptor Linkage Table
+Table 5.1 identifies potential source-pathway-receptor linkages within the proposal area as a result of the proposed Scheme. The pathways identified are further discussed below. 
+
+Discussion of Conceptual Site Model
+Two activities during the construction of the Scheme were identified as having the potential to create pathways for contamination to impact upon receptors, namely excavation of soil and piling.  There are no other potential impacts identified as a result of the operation of the Scheme.
+
+Two areas of identified Made Ground containing elevated concentrations of contaminants have been identified, namely within the southern portion of the St Asaph Common on both the east and west banks for the river.
+
+Excavation work undertaken as part of the Scheme proposals are generally shallow and largely within existing flood embankment material which is comprised of clean structural fill. Some shallow excavation work extends beyond the toe of the embankment, comprising removal of topsoil, so that the widened embankments can key into the underlying soils.  
+
+Work proposed within the southern portion of St Asaph Common (on both sides of the river) is shown in the cross sections provided in Appendix G. This includes excavation work at the crest of the embankment for the installation of a low wall structure for a portion of the flood defences. It also includes removal of topsoil on the embankment and beyond the toe of the embankment in order that additional soil material can be placed to widen and slacken the existing embankments. The excavation work in this area is therefore not to a depth that would result in encountering contamination, or alter ground conditions (including depth or permeability of ground cover) from the existing situation. 
+
+One area of deeper excavation work (excavating material to approximately 1m bgl) is located within the BT land southwest of the St Asaph Old Bridge. This location was investigated by BH7 which was shown to contain no heavy metals or Polychlorinated Biphenyls (PCBs). The archaeological trial trench through this area also showed no visual or olfactory evidence of contamination. The risk of excavation work creating pathways between any contaminants and receptors is therefore considered to be very low within this location. 
+
+There is no piling work proposed within any areas of known contamination. Due to the extensive GI work undertaken throughout the scheme area (totalling 28 window samples, 16 trial pits, 19 hand dug pits and 11 boreholes) it is considered that the risk of piling work resulting in the creation of preferential pathways between unknown contamination within shallow made ground and deeper soil or groundwater is very low.
+
+
+Table 5.1: Tabulated Conceptual Site Model (S-P-R linkages)
+
+
+
+Conclusions and Recomendations
+Two areas of contamination have been identified within St Asaph Common. Excavation work within these areas is limited to shallow removal of topsoil and will not give rise to any risk from, or create any new pathways for exposure to, these hotspots of contamination.
+
+A series of ground investigations (GI’s) have been undertaken throughout the site totalling 74 investigation points and fifteen soil samples analysed for the presence of contamination. No other contamination has been identified within the Scheme area throughout the GI’s.
+
+It is concluded that there is a very low risk of contamination being encountered during the construction of the proposed Scheme.
+
+It is assessed that the Scheme will not create any risk or new exposure pathways.
+
+Any unidentified contamination that is encountered during the work would be dealt with according to best practice and further investigation undertaken as required.
+
+
+References
+CPAT (2016) Report no 1414 St Asaph Flood Risk Management Scheme Archaeological Watching Brief, May 2016.
+
+Defra (2014). SP1010 – Development of Category 4 Screening Levels for Assessment of Land Affected by Contamination. Final Project Report. Contaminated Land: Applications in Real Environments (CL:AIRE) for Defra, 2014.
+
+Nathanail, C.P.; McCaffrey, C.; Gillett, A.G.; Ogden, R.C. and Nathanail, J.F. (2015) The LQM/CIEH S4ULs for Human Health Risk Assessment. Land Quality Press, Nottingham.
+
+White Young Green (2015) St Asaph FRMS (PAR) – Ground Investigation 2014 Factual Report, January 2015.
+
+White Young Green (2016) St Asaph FRMS (Detailed Design) Ground Investigation, May 2016.
+
+APPENDICES
+
+Constraints Plans
+Photographic Record of Site
+Historic MapS
+GI Location Plans
+Contamination Test Results
+Threshold Values
+Scheme Cross Sections
+

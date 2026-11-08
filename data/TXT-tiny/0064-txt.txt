@@ -1,0 +1,207 @@
+                                                              		                                            12566/13
+COM (2013) 532 final
+
+EXPLANATORY MEMORANDUM (EM) ON JUSTICE  HOME AFFAIRS MATTERS
+
+Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the European Union Agency for Criminal Justice Co-operation (Eurojust)
+ 
+Submitted by the Home Office on                  August 2013
+
+SUBJECT MATTER
+
+This Explanatory Memorandum (EM) concerns a proposal, in the form of a Regulation, from the European Commission to reform the European Union (EU) body Eurojust. Eurojust was established by Council Decision 2002/187/JHA, which was later amended by Council Decisions 2003/659/JHA and 2009/426/JHA. This new proposal would repeal and replace those existing measures. In doing so it would provide a single legal framework for the European Union Agency for Criminal Justice Co-operation (Eurojust) which would be the legal successor of Eurojust as it is now. 
+
+Eurojust was established in 2002 to support cooperation between Member States in cross-border criminal investigations and prosecutions, particularly in cases involving multiple jurisdictions. Its current role can involve advising on the requirements of different legal systems, supporting the operation of Mutual Legal Assistance (MLA) (judicial cooperation) arrangements, bringing together national authorities in coordination meetings, and providing funding and technical support to Joint Investigation Teams (JITs). 
+
+The new proposal retains many of the core functions, but also makes reforms to: the governance and management structure of the Agency; the powers of National Members; its accountability to the European Parliament and national Parliaments; and its working arrangements with a new body, the European Public Prosecutor’s Office (EPPO). The EPPO would be established by a parallel proposal published simultaneously by the Commission as part of a package (see below) The Government has confirmed in its Coalition Agreement that it will not participate in the EPPO proposal, which is the subject of EM 12558/13.
+
+The Commission had indicated its intention to bring forward a proposal to reform Eurojust, under Article 85 of the Treaty on the Functioning of the European Union (TFEU), for some time. It was referenced in their 2012 Work Programme. The proposal that has been published comes as part of a package from the Commission under the policy narrative of protecting the EU’s financial interests. The associated elements of the package are a legislative proposal to create an EPPO (document 12558/13) and a Communication on Improving OLAF’s (the EU’s anti-fraud office) Governance and reinforcing procedural safeguards in investigations: A step by step approach to accompany the establishment of the European Public Prosecutor’s Office (document 12555/13). The Eurojust and EPPO proposals have separate legal bases in the TFEU and can be considered as separate, albeit related, negotiations. 
+
+SCRUTINY HISTORY
+
+Dossier 10663/08 – An EM on draft Council Decision on the strengthening of Eurojust amending Council Decision 2002/187/JHA of 28 February 2002, as amended by Council Decision 2003/659/JHA, setting up Eurojust with a view to reinforcing the fight against serious crime was deposited on 26/06/2008. It cleared the Commons on 02/07/2008 as legally and politically important and cleared the Lords on 16/07/2008.
+
+MINISTERIAL RESPONSIBILITY
+
+The Home Secretary has responsibility for policy on policing and the fight against crime (except in Scotland and Northern Ireland), including mutual legal assistance and extradition. The Justice Secretary and Attorney General have an interest in respect of the criminal justice system, and the Chancellor of the Exchequer also has an interest in respect of the budget of the European Union and OLAF.
+
+INTEREST OF THE DEVOLVED ADMINISTRATIONS
+
+Scotland and Northern Ireland have an interest and the Devolved Administrations have been consulted in the preparation of this EM.   
+
+LEGAL  PROCEDURAL ISSUES
+
+Legal base
+
+Articles 85 of the Treaty on the Functioning of the European Union.
+
+This proposal triggers the JHA opt-in (Protocol 21 to the Treaties) and the UK will therefore have three months from the date of publication of the final language version of the proposal to decide whether to participate.
+
+European Parliament procedure
+
+The proposal for a Regulation will be subject to the ordinary legislative procedure
+i.e. what was formerly co-decision. 
+
+Voting procedure in the Council
+
+ Qualified Majority Voting (QMV).
+
+Impact on United Kingdom law
+
+Elements of these proposals include requiring all Eurojust National Members to be given powers to order investigative measures or authorise and coordinate controlled deliveries in certain circumstances.  This would require changes to criminal justice systems within the UK, particularly with regard to the separation of functions as between law enforcement and prosecutors in England, Wales and Northern Ireland. Similarly, these proposals would also require changes to criminal justice arrangements in Scotland, where law enforcement has separate functions, although the prosecutor can direct the police in relation to investigations. 
+
+Application to Gibraltar
+
+If the UK chooses to exercise its JHA opt-in in respect of the new Regulation, it will automatically apply to Gibraltar in accordance with the Treaties. 
+
+Fundamental Rights Analysis
+
+ It is the Government’s view that this Regulation engages Article 7 (respect for private and family life), Article 8 (protection of personal data), Article 17 (right to property), Article 42 (right to access to documents), Article 48 (presumption of innocence and right of defence) and Article 50 (right not to be tried or punished twice in criminal proceedings for the same criminal offence) of the Charter of Fundamental Rights. Any engagement with these rights must be justified in accordance with Article 52 of the Charter. The criteria for such a justification are the following: the interference must be provided for by law and respect the essence of the particular right in question; and the interference must comply with the requirements of necessity and proportionality. 
+
+The data exchange provisions in this proposal risk interfering with rights enshrined under Article 7 (respect for private and family life), Article 8 (protection of personal data), Article 17 (right to property) and Article 42 (right to access to documents) of the Charter. Some of the language in the Eurojust proposal seems to provide scope and flexibility for Member States to provide conditions and restrictions on the use and processing of data provided to Eurojust, which illustrates that there are mechanisms to restrict the use of data where the sharing of it is not strictly necessary or proportionate. The purpose of Eurojust’s data exchange and processing powers appear to be directly related to its general functions. However, given that both the draft EU Data Protection Directive and Regulation dossiers are currently under negotiation themselves, it is difficult to assess the full implications of the data protection provisions in the Eurojust proposal at the moment. 
+
+There is a risk that providing the National Members with mandatory powers to order investigative measures, issue and execute MLA requests, authorise and coordinate controlled deliveries and participate in joint investigation teams (JITs), for example, will interfere with the private and personal property rights mentioned above and the rights of the defence and the principle of ne bis in idem as enshrined in Articles 48 and 50 of the Charter. This is because the powers set out in the Eurojust proposal could, for example, lead to an MLA request being executed by a National Member without agreement with the competent national authorities and without sufficient regard for Charter rights. For example, a Greek National Member could, without consulting the Greek competent national authorities, execute an MLA request from Poland for the search and seizure of a suspect’s home in relation to an offence that he has already been convicted for, which would, of course, not respect Article 50 of the Charter. Therefore, further analysis will need to be done on the extent of the restrictions and safeguards in place for the exercise of these newly drafted powers and the impact that this may have on the Charter rights of affected individuals. Article 7(3) states that it is for the competent national authorities to grant the National Members with the relevant powers outlined in the Regulation but there is no corresponding provision which subjects such powers to the same conditions and restrictions that are set out in national law. It is also arguably unnecessary and disproportionate to grant the National Members these mandatory powers if the discretionary powers set out in the current Eurojust measure work effectively as they are now. 
+
+It should also be noted that although Recital 8 of the proposal confirms that the Eurojust proposal respects Charter rights, there is currently an absence of a substantive provision within the main body of the text that states that the activities of Eurojust and National Members should in all instances be carried out in full respect of Charter rights.
+
+APPLICATION TO THE EUROPEAN ECONOMIC AREA
+
+Not applicable.
+
+SUBSIDIARITY
+
+Given Eurojust is an existing EU Agency it can be argued that the case for subsidiarity has been met.  However, the Government questions the necessity of the Commission’s proposal that all National Members should have certain specified powers without the discretion afforded by the current Council Decision, which enables certain powers not to be applied where they would be contrary to fundamental aspects of the criminal justice system.
+
+POLICY IMPLICATIONS
+
+The Government has said previously that  the current Eurojust Council Decision should be evaluated before a new proposal is brought forward. The Government notes, however, that the Commission has published its proposal before the ongoing evaluation is completed, where that is not due to be completed until next year. 
+
+Application of the JHA Opt-in
+
+In accordance with the Protocol on the position of the UK and Ireland in respect of the area of Freedom Security and Justice, annexed to the Treaties, this Regulation will only apply to the UK if we choose to opt in to it.  The deadline for making that decision will be provided to the Committees as soon as we receive the date of the publication of the last language version but will not be earlier than 16 October, i.e. 3 months from the day the Commission College presented the proposal.
+
+The Government is committed to taking all opt-in decisions on a case-by-case basis, putting the national interest at the heart of our decision making. The Government decision on the exercise of the opt-in in relation to this proposal will consider whether participation in the measure as drafted would benefit the security of the UK and its citizens including the protection of their civil liberties and rights as well as the extent of the impact on our criminal justice systems. The Government has said that it sees the current Eurojust measures as a positive model of cross-border co-operation.  That is why the Government has announced it will seek to rejoin the current Eurojust measures as part of the decision on Protocol 36 to the Treaties (the 2014 decision).  However, we are concerned by elements of the new proposal, particularly to extend the powers of National Members and what this will mean at an operational level.    
+
+We expect this proposal will be of particularly strong interest to Parliament and therefore, in line with the Minister for Europe’s statement of 20 January 2011, the Government can confirm our commitment to offer Government time for a debate on the opt-in decision, known as a ‘Lidington’ debate. 
+
+Structure and governance of Eurojust 
+
+The Commission’s proposed reforms to Eurojust’s structure do not include the creation of a Management Board with a Director, which is the common model for EU Agencies as described ‘in the common approach to EU decentralised Agencies’, which has been agreed by the UK Government. Instead, the reforms centre on the creation of an Executive Board, whilst retaining the current model of a College of National Members headed by a President (elected by the College) to oversee Eurojust’s collective management and operational responsibilities. 
+
+The Executive Board would consist of: the President and Vice-Presidents of the College, one representative of the Commission and one other representative of the College. This deviation from the common approach to EU decentralised Agencies is explained by the Commission on the basis that the retention of the College is necessary for operational functions, whilst the introduction of an Executive Board would support the administration and overall management of the agency. The Executive Board would have responsibility for certain administrative decisions, such as rules relating to staff regulations, and assisting the College with its management functions (described in Article 14), such as adoption of Eurojust’s programming document and budget. 
+
+The Government notes in particular the proposal for the Executive Board to prepare the decisions to be adopted by the College in accordance with Article 14. When the College takes management decisions, the Commission’s proposal also foresees two representatives of the Commission sitting on the College.  The Government will want fully to explore the Commission’s rationale for not creating a Management Board, similar to that of Europol, and examine carefully how the Executive Board would operate in practice. We have some concerns about whether the model proposed is best suited to good governance.  Additionally, the risk remains that involvement of National Members in management decisions will continue to detract them from core operational casework.
+
+The Government also notes that the European Public Prosecutor (EPP) shall receive agendas of all Executive Board and College meetings and is free to participate but not vote in meetings that he or she considers of relevance to the functioning of the EPPO. The EPP may address written opinions to the Executive Board and the College which are to be responded to in writing without delay. There are no corresponding provisions for the Eurojust President to attend EPPO meetings or address opinions to the EPP in the EPPO Regulation and the Government questions this disparity. 
+
+Powers of National Members 
+
+The Commission proposal (Article 8) requires that all National Members shall be given certain powers. In particular, Article 8(2) and (3) would require National Members to be given the power to order investigative measures and authorise and co-ordinate controlled deliveries either “in agreement” with competent authorities or without prior agreement in urgent cases. This is a significant issue since it would remove the discretion currently available to Member States not to grant certain powers to their National Members where to do so would, for example, be contrary to fundamental aspects of a Member State’s criminal justice system. 
+
+The mandatory power for National Members to order investigative measures and/or authorise and co-ordinate controlled deliveries is inconsistent with the common law systems in England, Wales and Northern Ireland. The UK National Member is a prosecutor (and we believe a prosecutor is best suited to the role), but the responsibility for ordering investigative measures (including making an application to court) and authorising and coordinating controlled deliveries is the responsibility of law enforcement officials. Similarly, these proposals are also inconsistent with criminal justice arrangements in Scotland, where law enforcement has separate functions, although the prosecutor can direct the police in relation to investigations. 
+
+Additionally, Article 8(1) would require all National Members to be given the powers to facilitate or otherwise support the issuing and execution of any mutual legal assistance or mutual recognition request, or issue and execute them themselves. The Government will want to explore the Commission’s rationale, and evidence base, for such mandatory powers. The UK’s practices regarding the ordering of investigative measures and controlled deliveries is established, structured, and works well. Even with these powers in place, it is highly unlikely the UK National Member would ever wish or need to use them.
+
+Joint Investigation Teams (JITS)
+
+Although JITs are established under a separate EU instrument, Eurojust has in recent years been responsible for administering an EU JIT funding project, although that will shortly expire. Between December 2009 and July 2013, UK applications for JIT funding from Eurojust led to receipt of around £1.56m. The draft Regulation includes provision for Eurojust to continue funding JITS in Article 4(1)(e), which is welcome.
+
+Operational functions of Eurojust 
+
+As under the current arrangements, Eurojust (acting either as a College or through the national desks), may ask Member States to: 
+a) undertake an investigation or prosecution of specific acts;
+b) accept that one of them may be in a better position to undertake an investigation or to prosecute specific acts;
+c) coordinate between the competent authorities of the Member States concerned;
+d) set up a joint investigation team in accordance with the relevant cooperation
+instruments;
+e) provide it with any information that is necessary to carry out its tasks;
+f) take special investigative measures; and
+g) take any other measure justified for the investigation or prosecution.
+
+The College can also issue ‘written opinions’ to help resolve conflicts of jurisdiction between Member States, or on ‘recurrent refusals or difficulties’ regarding execution of mutual legal assistance requests. In the current arrangements, if the recipient authority of such a request or opinion does not follow it, they must ‘inform Eurojust without undue delay of their decision and the reasons for it.’  
+
+This is replicated in the new proposal, albeit in Article 23, where the initial requests from Eurojust are dealt with in Article 4(2), and there is an argument for consolidating these provisions for ease of reference.  Article 23 of the proposed Regulation also retains the existing right to not give a reason, other than citing “operational reasons”, where to provide more would harm essential national security interests or would jeopardise the safety of individuals. The draft Regulation does however lose the explicit reference to College decisions being ‘non-binding’; we will want to ensure in negotiations however that College opinions are indeed non-binding. 
+
+Legal personality and capacity
+
+The Government notes that there has been a change in the wording of the provision which deals with the legal personality and capacity of Eurojust. The current Eurojust instrument says that “Eurojust shall have legal personality”, whereas the new proposal says “In each of the Member States, Eurojust shall enjoy the most extensive legal capacity accorded to legal persons under their laws” (Article 1 (3)). Although it appears this could have the effect of increasing the legal capacity of Eurojust in some Member States, the purpose and full implications are not yet clear. The Government will seek full clarification on this in negotiation. 
+
+Relations with other bodies
+
+EPPO
+The Government has made clear that it will not participate in the Commission’s parallel EPPO proposal, as confirmed in the Coalition Agreement. The draft Eurojust Regulation envisages a “special relationship” between the EPPO and Eurojust. The Government will want to examine the Commission’s proposals for the interaction of these two bodies very carefully during negotiation. 
+
+The Commission has interpreted the obligation in Article 86 TFEU to establish the EPPO “from Eurojust” by creating an “operational, administrative and management link” between them. This includes the following:
+
+The ability of the EPPO to request Eurojust or its competent National Members to use their powers under Union or national law regarding acts of investigation that may fall outside the EPPO’s scope of competence and/or to support the transmission of EPPO requests or decisions for Mutual Legal Assistance. 
+The ability for the EPPO to attend Eurojust College and Executive Board meetings (Articles 12 (3) and 16 (7) & (8));
+Eurojust treating any requests for support from the EPPO as if they had been received from a national competent authority (Article 41(2);
+Exchanging information, including personal data; 
+Automatic cross-checking of data held by Eurojust and the EPPO on a shared Eurojust Information Technology (IT) platform known as the Case Management System;
+A role for Eurojust in “facilitating agreement” between the EPPO and Member States that participate in the EPPO over the EPPO’s competence on “ancillary offences” – i.e. offences linked to offences against the EU’s financial interests; and
+Use by the EPPO of elements of Eurojust’s administration and infrastructure.
+
+The Eurojust and EPPO proposals as published by the Commission would also see the EPPO have exclusive competence for offences against the EU’s financial interests (PIF offences). As drafted the EPPO proposals would appear to mean that Eurojust would no longer have responsibility for PIF offences. This does not take account, however, of the fact that the UK will not participate and Denmark cannot participate in the EPPO, and will need to be fully examined in negotiation. 
+
+Europol
+The draft Eurojust Regulation provides for the enhancement of operational cooperation between Europol and Eurojust (Article 40) in relation to the exchange of information within their respective mandates. It proposes that indirect access to Eurojust data should be granted to Europol on a “hit/no hit” basis.  Eurojust would only share information subject to the authority granted by the Member State or law enforcement body that originally provided the information, though such consent would be presumed unless the Member State placed explicit restrictions on the onward transmission of the information.   The draft Regulation would restrict searches of its information to designated employees of Europol. 
+
+An agreement between Europol and Eurojust already exists within the framework of the current Council Decisions governing each organisation. The Government believes that it is sensible for the two organisations to co-ordinate in order to avoid duplication in their respective roles and to ensure an effective, joined up response to the criminality affecting the UK and other Member States.
+
+Enhanced Parliamentary Scrutiny
+
+The draft Regulation also seeks to enhance and lay down the rules governing the European Parliament’s and national Parliaments’ scrutiny of Eurojust (Article 55), and seeks to ensure that consultation is undertaken adequately. The draft proposal stipulates that the President of Eurojust shall appear before the European Parliament. Eurojust would also be obliged to transmit the results of studies and strategic projects elaborated or commissioned by Eurojust, working arrangements concluded with third parties, the annual report of the European Data Protection Supervisor and its own Annual Report to national Parliaments.
+
+In general, these proposals are in line with the common approach to EU decentralised Agencies that has been agreed by the UK Government. However, we would take a cautious approach to the disclosure of classified information given the operational sensitivity of law enforcement intelligence. The Government would want assurances in this area.
+
+Third Country cooperation agreements
+
+Another key change between the Eurojust Regulation and the current measure is to transfer the power to negotiate third country cooperation agreements from Eurojust, relying instead on the standard provisions in the TFEU. There is no provision for Eurojust to negotiate agreements in its own right, as it is currently able to do. We believe that the Commission will argue that this reflects the position on third country negotiations following the Lisbon Treaty. Article 216 of the TFEU states that “[t]he Union may conclude an agreement with one or more third countries or international organisations where... [it] is provided for in a legally binding Union act”. The Government’s view, however, is that this does not prevent individual EU Agencies such as Eurojust being given the power to negotiate their own agreements, which may be important in supporting efforts to cut crime. 
+
+Liaison Magistrates posted to Third Countries
+
+The Government notes that the provisions here are very similar to the current Eurojust measure, but given the context of this new negotiation and the reforms to Eurojust we will want to examine the implications carefully in negotiation. Eurojust has yet to post a Liaison Magistrate to a third country.
+
+Relations with European Judicial Network
+
+The provisions broadly replicate the current measure. 
+
+Data Protection – abolition of Joint Supervisory Body 
+
+Under the current Eurojust Council Decision, the Joint Supervisory Body is responsible for the independent monitoring of Eurojust’s data protection compliance. The draft proposal would abolish this body and instead make Eurojust subject to the jurisdiction of the European Data Protection Supervisor (EDPS). As a whole, data protection provisions in the proposal focus on internal Eurojust policies rather than obligations on Member States in numerous Articles between 27 and 37. References deal with how Eurojust ensures appropriate safeguards to guarantee data security and the responsibilities of the Agency in relation to national supervisory authorities and the European Data Protection Supervisor (EDPS).
+ 
+The Commission’s intention is to enable Eurojust better to establish links between data already in its possession.  In the view of the Commission, the rights of individuals affected by data processing by Eurojust will be strengthened. 
+
+The full implications of the data protection provisions are currently unclear given that both the draft EU Data Protection Directive and Regulation dossiers are currently under negotiation themselves and will need to be agreed by Member States and the European Parliament. Some of the language in the draft text seems to mirror these data protection proposals, suggesting scope and flexibility for Member States to provide conditions and restrictions on the use and processing of data which they have provided to Eurojust.  However, we take a cautious approach with respect to the data protection principles contained within this draft Regulation since the data protection dossiers, when agreed at EU level, will set the direction for those principles to be applied to Member States.
+
+Exchange of information with Member States and between National Members
+
+ The provisions here are almost identical to the current Eurojust measure, and in particular retain the right not to provide information in a particular case where it would harm essential national security interests or jeopardise the safety of individuals. However, the ongoing evaluation round of the implementation of the current Council Decision has shown that the working of the current provisions is not necessarily well suited to the operational environment. Therefore, the Government will want to ensure that the drafting of this text is appropriate for operational partners. 
+
+IMPACT ASSESSMENT
+
+The Government has noted that the Commission has not published a bespoke Impact Assessment (IA) for their Eurojust proposal. This is inconsistent with accepted practice and we will seek an explanation from the Commission. 
+
+FINANCIAL IMPLICATIONS
+
+As there has not been a dedicated IA from the Commission it is problematic to examine the financial implications on the basis of the proposal alone. One issue we have identified is that Member States that do not participate in the EPPO proposal, but do participate in Eurojust will want to ensure appropriate recharges for any costs incurred as a result of the reliance by EPPO on the support and resources of the administration of Eurojust including technical support in the preparation of its budget and management plan, human resources, security services, information technology and financial management, accounting and auditing services. We are also concerned about the consequential impact on the level of service provided to Eurojust National Desks. 
+
+CONSULTATION
+
+The Crown Prosecution Service, The Serious Organised Crime Agency, Border Force, College of Policing, the Ministry of Justice, Her Majesty’s Revenue & Customs, Her Majesty’s Treasury, the Metropolitan Police Service, the Devolved Administrations, the Crown Office and Procurator Fiscal Service, the Public Prosecution Service for Northern Ireland and Gibraltar have been consulted in the drafting of this EM.
+
+TIMETABLE
+
+This proposal is expected to be presented by the Commission at the Justice and Home Affairs Council in October and then be discussed at Working Group level. The Government will keep Parliament informed of developments. 
+
+          
+
+
+
+
+
+
+
+Mark Harper 
+Minister of State for Immigration
+HOME OFFICE

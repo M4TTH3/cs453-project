@@ -1,0 +1,165 @@
+
+							    12044/13
+COM (2013) 462
+SWD (2013) 230
+
+
+EXPLANATORY MEMORANDUM ON EUROPEAN UNION LEGISLATION 
+
+PROPOSAL FOR A REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL ON EUROPEAN LONG TERM INVESTMENT FUNDS
+
+COMMISSION STAFF WORKING DOCUMENT IMPACT ASSESSMENT ACCOMPANYING THE DOCUMENT PROPOSAL FOR A REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL ON EUROPEAN LONG-TERM INVESTMENT FUNDS
+
+
+					August 2013 
+Submitted by HM Treasury
+
+
+SUBJECT MATTER
+
+On 26 July 2012, Directorate General for Internal Markets and Services published a consultation on a possible future amendment to the Undertakings for Collective Investments in Transferable Securities (UCITS) Directive. This included a series of questions regarding a possible regulatory framework for investment funds that invest primarily in long term assets that benefit the real economy such as infrastructure, unlisted SMEs, and social schemes.
+
+This proposal creates an optional framework that would permit firms already authorised under the Alternative Investment Fund Managers Directive (AIFMD) to establish and manage an investment fund and market it under the name “European Long Term Investment Fund” (ELTIF).
+
+The ELTIF must be established in an European Economic Area (EEA) state and must be authorised by the competent authority of the jurisdiction in which it is established. The fund manager must also apply to the ELTIF’s competent authority for approval to manage the fund.  This authorisation is separate from the AIFMD authorisation of the firm managing the ELTIF.
+
+The ELTIF must also adhere to certain investment rules, in particular: 70% of the fund’s capital must be in “qualifying portfolio undertakings” which are undertakings that are neither financial undertakings nor admitted to trading on a regulated market or multilateral trading facility; no more than 10% of the ELTIF’s capital can be invested in a single undertaking or any individual real asset; and no fund of funds structure is permitted (i.e. where an ELTIF invests exclusively or predominantly in other ELTIFs).
+
+An ELTIF may borrow cash but the amount must not exceed 30% of the capital of the ELTIF and may not be secured on the ELTIF’s assets. Cash may also only be borrowed for the purpose of acquiring a participation in qualifying assets.
+
+The ELTIF shall be established for a set life cycle and investors may not redeem their units or shares before the end of the life of the ELTIF. Instead investors will be expected to invest for a set period of time and would typically receive a dividend payment during the life of the ELTIF. The ELTIF may, however, permit investors to trade their units or shares on a secondary market.
+
+The ELTIF must also produce a prospectus that includes, at least, a statement setting out how the ELTIF’s investment objectives and strategy for achieving these objectives qualify the fund as long term in nature; any costs to be borne directly or indirectly by investors; and other information required to be disclosed by closed-ended collective investment undertakings in accordance with the Prospectus Directive.
+
+If these requirements are met, the ELTIF may be marketed to professional investors as defined in the Markets in Financial Instruments Directive throughout the EEA.
+
+The ELTIF may additionally market to retail investors if it meets certain additional requirements –
+
+It must not be structured as a partnership.
+There must be a two week cooling off period during which investors may have their investment returned to them with no penalties.
+The rules of the ELTIF must provide for equal treatment for all investors
+Retail investors must be provided with a Key Information Document in accordance with the Regulation on Key Information Documents for Investment Products (PRIPs).
+
+MINISTERIAL RESPONSIBILITY
+
+The Chancellor of the Exchequer has responsibility for United Kingdom policy on European Union monetary and economic issues. The Foreign and Commonwealth Secretary is responsible for overall United Kingdom policy towards the European Union.
+
+INTEREST OF DEVOLVED ADMINISTRATIONS
+
+Financial services policy is a reserved matter under the UK's devolution settlements and no devolved administration interests arise. On their request, the NI Executive were provided a draft EM for comment. The other devolved administrations have not been consulted. 
+
+LEGAL AND PROCEDURAL ISSUES
+
+Legal basis
+
+This draft Regulation has its legal basis in Article 114 of the Treaty on the Functioning of the EU.
+
+ii. Legislative procedure
+
+Ordinary legislative procedure is applicable.
+
+iii. Voting procedure
+
+Member States are required to vote by Qualified Majority Voting (QMV).
+
+iv. Impact on United Kingdom Law 
+
+We will need to consider further the impact of the draft regulations on UK legislation. Our initial analysis shows that there may be consequential changes needed to at least the “The Financial Services and Markets Act 2000 (Regulated Activities Order) 2001”.
+
+v. Application to Gibraltar
+
+This draft Regulation applies to Gibraltar
+
+vi. Analysis of Fundamental Rights Compliance
+
+No issues arise in relation to any of the fundamental rights.
+
+APPLICATION TO THE EUROPEAN ECONOMIC AREA
+
+The Regulation applies to the European Economic Area.
+
+SUBSIDIARITY
+
+The Government is of the view that this proposal accords with the principles of subsidiarity.
+
+POLICY IMPLICATIONS
+
+The UK notes the Commission’s work to create a European brand for funds investing in infrastructure, unlisted SMEs and other long term illiquid assets.
+
+We agree that the creation of a standalone ELTIF scheme is a more appropriate way of achieving this goal rather than incorporating new investment rules into the existing UCITS framework. Investment in liquid assets and immediate redemption are fundamental principles of UCITS funds and introducing new rules for long term investment in this framework would undermine the UCITS brand.
+
+The proposed Regulation is optional and firms will only have to fulfil the requirements if they wish to market funds as “ELTIF”s. This will therefore not force any UK firms or business models to adapt unnecessarily.
+
+While the proposal will not cause any detriment to UK firms, it is unlikely to offer any new opportunities in its current form.
+
+We do not expect that many UK firms will opt to manage “professional only” ELTIFs. Equally it is we do not expect that ELTIFs established in other EEA jurisdictions will bring new investment opportunities for UK professional investors in any significant way. Firms may already manage funds with such an investment strategy and market them to professional investors in the EEA with an AIFMD authorisation and without having to also seek an ELTIF authorisation and having to comply with the other ELTIF regulatory requirements.
+
+From discussions with stakeholders, we do not believe that there is widespread demand from retail investors for such a scheme, however certain institutional investors, in particular pension funds, are commonly required under their investment mandates to invest only in retail products. There already exist less onerous means of setting up retail schemes investing in long term asset classes under existing UK regulation, however this may make it easier for UK firms to market to such investors on a cross border basis.
+
+Appropriateness for retail
+
+While an ELTIF would be a specialist product, we do not believe that it would necessarily be inappropriate for retail investors to participate in such a scheme as part of a diversified investment portfolio.
+
+Given the long term nature of the scheme with no possibility of redemption, there must be sufficient safeguards in place to ensure it is only sold where appropriate.
+
+Existing UK safeguards in this regard will continue to apply and protect UK investors, in particular the Financial Promotion Regime.
+
+Investment restrictions
+
+Some of the product rules and investment restrictions are quite restrictive and could damage the attractiveness of the regime.
+
+It is not clear why the proposals do not allow for funds of funds. Institutional investors often do not have the expertise or resources to seek a diversified range of investment funds to place capital, so they instead seek out a fund of funds structure, as it is a simpler method of achieving diversification. Permitting a fund of fund in ELTIFs would make it easier to get institutional participation and make the regime more likely to succeed.
+
+It is also commonplace for infrastructure funds in particular to secure lending on assets. They key restriction we apply in the UK as that any borrowing secured on a single asset must only be used to invest in and improve that asset.
+
+The European Venture Capital Fund Regulation and European Social Entrepreneurship Regulation both had a similar 70 / 30 ratio of qualifying investments and non-qualifying investments. However in those cases, the substantive requirement was that the fund should not invest more than 30% of its capital in non-qualifying investments. For ELTIFs, the substantive requirement is that the ELTIF must invest 70% of its capital in qualifying investments. It is unclear why this new less flexible approach has been proposed. In particular, this could lead to an ELTIF being forced to make rushed investments simply for the purpose of reaching the 70% threshold.
+
+Supervision and enforcement
+
+If the ELTIF does not have its own legal personality, the text is ambiguous as to whether the competent authority of the ELTIF would investigate and sanction the ELTIF or the AIFMD authorised firm managing it.
+
+If it is the former, it is unclear how the ELTIF could be sanctioned without using investor capital to pay any pecuniary sanctions.
+
+The latter would be a more sensible approach. There is, however, no detail of how this would work in practice. It is unclear what powers the Financial Conduct Authority would have to investigate or sanction an AIFMD authorised firm in another EEA state that managed an ELTIF authorised in the UK, or what powers another EEA regulator would have against FCA authorised managers operating ELTIFs in other jurisdictions.
+
+Greater detail, possibly based on the equivalent provisions in the UCITS Directive, would give greater legal certainty and ensure any regulatory breaches could be addressed in a timely and consistent manner with fewer disputes.
+
+REGULATORY IMPACT ASSESSMENT
+
+The summary and full text of an impact assessment carried out by the Commission are attached as an annex.
+
+The Government broadly agrees with the findings, although we have not seen evidence for widespread retail demand for such a scheme.
+
+FINANCIAL IMPLICATIONS
+
+The Financial Conduct Authority is likely to incur some one-off costs as it will need to put systems in place to allow for the authorisation of ELTIFs.
+
+No financial implications arise for UK firms from this proposal. The obligations the Regulation places on long term collective investment funds are optional. 
+
+CONSULTATION
+
+The Commission consulted on this issue on 26 July 2012. The consultation and the responses received can be found here –
+
+ 
+
+The Government met extensively with stakeholders while preparing a response to the Commission’s consultation and has continued to meet with industry on an ongoing basis to discuss this issue.
+
+TIMETABLE
+
+The Lithuanian Presidency has not indicated that it regards this proposal as a priority. It is likely that Council Working Groups will not commence until 2014.
+
+
+
+
+
+
+
+
+
+
+
+SAJID JAVID MP
+ECONOMIC Secretary
+HM Treasury
+
+

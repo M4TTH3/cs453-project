@@ -1,0 +1,170 @@
+
+							12990/13 + ADD 1, 3 & 4
+		                               COM (2013) 547 final
+ SWD (2013) 282 final
+SWD (2013) 289 final
+SWD(2013) 288 final Volume 2/2
+
+12991/13 + ADD 1-3
+                                                     COM (2013) 550 final
+SWD (2013) 289 final
+ SWD(2013) 288 final Volume 1/2
+
+COM (2013) 549 final
+
+EXPLANATORY MEMORANDUM ON EUROPEAN UNION LEGISLATION 
+
+PROPOSAL FOR A DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL ON PAYMENT SERVICES IN THE INTERNAL MARKET AND AMENDING DIRECTIVES 2002/65/EC, 2013/36/EU AND 2009/110/EC AND REPEALING DIRECTIVE 2007/64/EC
+
+PROPOSAL FOR A REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL ON INTERCHANGE FEES FOR CARD-BASED PAYMENT TRANSACTIONS
+
+REPORT FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT AND THE COUNCIL ON THE APPLICATION OF DIRECTIVE 2007/64/EC ON PAYMENT SERVICES IN THE INTERNAL MARKET AND ON REGULATION (EC) NO 924/2009 ON CROSS-BORDER PAYMENTS IN THE COMMUNITY
+
+					September 2013 
+
+
+Submitted by HM Treasury
+
+SUBJECT MATTER
+
+Payment Services Directive II
+
+This draft Directive constitutes a Commission proposal to modify the substance of the Payments Services Directive (“PSD”) which has been law in the UK since 2009. The PSD will be repealed and replaced by the draft Directive, “Payment Services Directive II” or “PSD II”, which will contain the bulk of the PSD’s substance with modifications.
+
+The underlying aim of the Payment Service Directive was to enhance competition and transparency in the payments industry across the EU, and to ensure that the level of consumer protection was sufficient and harmonised. The PSD has two main sections; the first section (Title II) established the licensing regime for Payment Institutions. It applies to firms offering payments services, but which are not licensed as Credit Institutions or E-Money Issuers. It includes rules on administrative procedures and business plans and a right of access to payment schemes. The second section (Titles III and IV) introduced conduct of business rules for all payment service providers. These apply to new Payment Institutions, Credit Institutions and E-Money Issuers. They include requirements on transparency, authorisation of payments, execution of payments and liability.
+
+The draft PSD II proposes modifications to the PSD to ensure consumer protection keeps up with innovations in the market, and to streamline previous sections that the industry found cumbersome, unnecessary or unclear. The Commission has also published a report on how the PSD has been applied by different member states, and identifies the main issues arising from this application. The report suggests that a number of changes could be envisaged to the PSD to enhance its effect and to clarify a number of its aspects. It also highlights the need to accommodate technological business development within the payments industry. The draft PSD II deals with the following matters:
+
+Increased scope - The Commission propose to extend the scope of the PSD to cover payments being made where one provider is outside the EU and to cover any payments in the EU which are denominated in a currency outside the European Economic Area. The proposal also brings new payment types into scope of the PSD, most notably digital payments such as mobile payments. The Commission’s aim of the proposal is to develop further an EU-wide market for electronic payments, which will enable consumers, retailers and other market players to realise the full benefits of the EU internal market. 
+
+The Commission also proposes to bring third party payment service providers into the scope of the PSD. Third party payment providers make payments on a customer’s behalf following provision of their banking details, usually online. However, the fact that these payment providers can access consumers’ bank details but remain outside the existing legal framework has raised a number of concerns around privacy and security. The Commission’s proposal aims to address these concerns.
+
+Small Payment Institutions - It is proposed that the threshold for businesses that qualify as Small Payment Institutions, and are therefore largely exempt from the requirements of the PSD be reduced from businesses transacting payments worth less than EUR 3 million a month (£2.62m) to those businesses transacting payments worth less than EUR 1 million (£0.874m) a month.
+
+Surcharges - The Commission’s proposals ban surcharges that exceed the cost borne by the payment service provider for use of a specific instrument. Surcharges are additional fees applied by merchants to payment transactions on top of the cost of the item being purchased.
+
+Security measures - The proposal also introduces a new chapter setting out security measures required by payment service providers when initiating a payment. These include procedures for identifying and authenticating customers, approving transactions and carrying out audit trails.
+
+European Banking Authority – the proposal states that the European Banking Authority will issue guidelines and draft regulatory technical standards in various fields, for example in order to clarify the rules on ‘passporting’ for payment institutions operating in several Member States.
+
+Regulation of interchange fees for card-based payment transactions
+
+The proposed draft Regulation constitutes a Commission proposal to regulate interchange fees that are applied to debit and credit card transactions within the EU, including a cap on the level of interchange fee that can be applied to a card transaction.
+
+Interchange fees are fees set by the card network and paid by the merchant’s bank to the customer’s bank for the acceptance of card-based transactions. They are passed on to the retailer in the form of a service charge and, in turn, passed onto consumers in the form of higher prices. Multilateral interchange fees are set by the card schemes (VISA and MasterCard). Bilateral interchange fees are agreed between card issuers and card acquirers.  
+
+Cap on interchange fees – The Commission proposes to cap interchange fees at 0.20% of the transaction value on debit cards and 0.30% of the transaction value on credit cards. The proposal states that the caps on interchange fees should apply to cross-border card transactions within two months of the draft Regulation’s entry into force, and within two years for domestic card transactions.
+
+Separation between scheme and processing – The draft Regulation proposes that there should be an organisational separation between the card scheme brand and the entities processing the transactions. This means the two shall be totally independent in terms of legal form, organisation and decision making. 
+
+Co-badging – The draft Regulation bans card schemes from preventing card issuers from co-badging two or more different brands on a payment device.
+
+Honour all cards rule – The draft Regulation prevents a payment scheme or payment service provider from applying rules that oblige a merchant that is accepting one of their payment instruments to also accept other payment instruments of the same brand or category, except if the brand or category is subject to the same regulated interchange fee as the former. For example, merchants accepting consumer debit cards may not be forced to accept consumer credit cards but can be required to accept other consumer debit cards.
+
+Steering – The draft Regulation states that payment schemes and payment service providers cannot prevent merchants from steering consumers towards the use of specific payment instruments preferred by the retailer. 
+
+Related EM 15625/05 Proposal for a directive of the European Parliament and of the Council on Payment Services in the internal market was submitted by HM Treasury on 10 January 2006. It was cleared by the House of Commons European Scrutiny Committee on 6 July 2006 as politically important. It was cleared by the House of Lords EU Select Committee at the Chairman’s sift on 29 November 2006.
+
+MINISTERIAL RESPONSIBILITY
+
+The Chancellor of the Exchequer has responsibility for United Kingdom policy on European Union monetary and economic issues. The Foreign and Commonwealth Secretary is responsible for overall United Kingdom policy towards the European Union.
+
+INTEREST OF DEVOLVED ADMINISTRATIONS
+
+The regulation of financial services is a reserved matter under the UK's devolution settlements and no devolved administration interests arise. The devolved administrations have therefore not been consulted in the preparation of this EM.
+
+LEGAL AND PROCEDURAL ISSUES
+
+Legal basis
+
+ Both proposals for the Payment Services Directive II and the Regulation of interchange fees on card-based payment transactions have their legal base in Article 114 Treaty on the Functioning of the European Union.
+
+ii. Legislative procedure
+
+The PSD II and Regulation of interchange fees for card-based payment transactions would be adopted by the Ordinary Legislative Procedure, with the joint agreement of the Council and the European Parliament.
+
+iii. Voting procedure
+
+Qualified Majority Voting (QMV).
+
+iv. Impact on United Kingdom Law 
+
+The Regulation on interchange fees will be directly applicable in the UK on the date that it comes into effect (on the day following its publication in the Official Journal of the European Union). It is possible that some provisions may require transposition in order to be effective, for example where they confer discretion on Member States; however this depends on the final proposal.
+
+The PSD II will need to be transposed into UK law by way of amendments to the Payment Services Regulations 2009.
+
+v. Application to Gibraltar
+
+Both the Regulation and PSD II will be applicable to Gibraltar. 
+
+vi. Analysis of Fundamental Rights Compliance
+
+This proposal does not appear to engage any rights contained in the European Convention on Human Rights or Protocol 1 or Protocol 13 to the Convention.
+
+APPLICATION TO THE EUROPEAN ECONOMIC AREA
+
+The Regulation and PSD II would apply to the European Economic Area.
+
+SUBSIDIARITY
+
+Payment Services Directive II
+
+The Commission argues that its proposals are in accordance with the principle of subsidiarity, as the major objective of the proposals is the further integration of a single market in payment services which cannot be sufficiently achieved by the Member States because it requires the harmonisation of a multitude of different rules and requirements currently existing in different Member States.
+
+The Government believes that the modification to the business rules for payment service providers throughout the EU is justified in accordance with the principle of subsidiarity set out in Article 5 of the EU Treaty.
+
+By its scale, Community action should guarantee uniformity of treatment for users of payment services and regulation of payment service providers throughout the EU compared with piecemeal action at the level of the Member States. PSD II covers international aspects that cannot be regulated by separate action of Member States. Uncoordinated action of Member States could impact adversely on the functioning of payment services at the EU level and could adversely affect the functioning of the internal market in the field of financial services.
+
+Regulation of interchange fees
+
+The Commission argues that its proposals are in accordance with the principles of subsidiarity as the major objective of the proposals to lay down uniform requirements for card transactions cannot be sufficiently achieved by the Member States and can therefore, by reason of the scale of the action, be better achieved at an EU level.
+
+The Government believes that the regulation of interchange fees for card-based transactions throughout the EU is justified in accordance with the principle of subsidiarity set out in Article 5 of the EU Treaty. Recent undertakings offered by the card schemes following the EU competition investigation cover cross-border transactions only (in the case of MasterCard), and cross-border and domestic transactions in 10 Member States (excluding the UK) in the case of Visa. 
+
+However, this leaves a number of domestic interchange fees that remain in control of the card schemes. If each Member State were to seek different options for lowering fees, it is unlikely to result in a coherent and consistent outcome across the EU. Only an EU-wide lowering of fees by all market players could assure alignment of the market based on the undertakings offered by VISA and MasterCard mentioned above. This would result in the highest level of legal certainty on business models for existing card schemes and new entrants. That is why the Government believes that the proposed regulation is justified in accordance with the principle of subsidiarity.
+
+POLICY IMPLICATIONS
+
+Payment Services Directive II
+
+The Government supports the Commission’s aim of modifying the Payment Services Directive in order to address gaps in consumer protection, promote growth through the development of the next generation of payment services and simplify the regulatory structure.
+
+The Government plans to seek improvements to the Commission’s proposal during negotiations to ensure that the directive avoids imposing any unnecessary burdens on the UK financial services industry. 
+
+Regulation of interchange fees
+
+The Government supports the aims to improve transparency and competition in the card market. However, the Government is still considering the detail of the proposal, for example, whether the proposed caps will achieve the aims of the Commission.
+
+The Government is also considering the implications of the organisational separation between the card scheme brand and the entities processing the transactions, and whether the competition concerns of the Commission can be addressed in another way.
+
+During negotiations, the Government will look to ensure that the Regulation reflects the different sized card markets in the different Member States. The UK has one of the largest card markets in the European Economic Area, whereas the use of card payments is less developed in other Member States. These differences need to be considered during negotiations.
+
+REGULATORY IMPACT ASSESSMENT
+
+The Commission has published an Impact Assessment alongside the proposed Directive and Regulations that details the proposal’s impacts. The Government will work with UK industry (including small businesses), regulators and consumer groups to further understand the impact on the UK.
+
+FINANCIAL IMPLICATIONS
+
+As drafted this proposal does not have fiscal implications for the UK, beyond monitoring and implementation.
+
+CONSULTATION
+
+The Commission published its Green Paper, ‘Towards an integrated European market for card, internet and mobile payments’ in January 2012 to which the UK Government responded in April 2012 setting out its position on a numbers of key issues in this area.
+
+The Government is liaising with affected stakeholders to give them an opportunity to share their views on the Commission’s proposals.
+
+TIMETABLE
+
+No Council working groups have been scheduled as yet. The Government expect negotiations to start in late September once the European Parliament has returned from recess.
+
+
+
+
+
+
+
+
+
+SAJID JAVID MP
+ECONOMIC Secretary
+HM Treasury

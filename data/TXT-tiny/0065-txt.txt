@@ -1,0 +1,112 @@
+
+EXPLANATORY MEMORANDUM (EM) ON EUROPEAN UNION DOCUMENTS 
+
+Proposal for a Council decision on the signature of the Agreement between Canada and the European Union on the transfer and processing of Passenger Name data										12645/13
+
+Proposal for a Council decision on the conclusion of the Agreement between Canada and the European Union on the transfer and processing of Passenger Name Record data									12637/13
+
+
+
+Submitted by the Home Office on          August 2013.
+
+SUBJECT MATTER
+
+This Explanatory Memorandum (EM) relates to a draft Agreement between Canada and the European Union to allow the use and transfer of Passenger Name Record () data to the Canadian Competent Authority. PNR is a record of each passenger's travel requirements which contains all information necessary to enable reservations to be processed and controlled by air carriers.
+
+The EU signed an initial PNR Agreement with Canada in March 2006; however a key provision of the agreement relied on the existence of a Commission Decision on data protection adequacy, which lapsed in September 2009.  The Agreement has since that time been applied on the basis of an exchange of letters between the Commission and the Canadian authorities.
+
+SCRUTINY HISTORY
+
+The UK opted in to negotiating mandates for PNR Agreements with the USA, Australia and Canada in December 2010 and announced this decision to Parliament on 20 December 2010.  The UK opted in to the EU/Australia Agreement on 23 August 2011 and to the EU-US Agreement on 8 February 2012 .  A Written Ministerial Statement (WMS) was published on 5 September 2011 regarding the EU-Australia Agreement and a further WMS was published in relation to the EU-US Agreement on 27 February 2012.
+
+MINISTERIAL RESPONSIBILITY
+
+The Home Secretary has overall responsibility for . This Communication is also of particular interest to the Secretary of State for Justice, the Secretary of State for Transport, the Foreign Secretary and the Financial Secretary to the Treasury.
+
+INTEREST OF THE DEVOLVED ADMINISTRATIONS
+
+The UK’s border security is not a devolved matter and nor is data protection; however the devolved administrations have an interest in justice matters including serious crime, which this Agreement aims to tackle.  In Scotland, the Scottish Cabinet Secretary for Justice has responsibility and in Northern Ireland the Justice Minister in the Northern Ireland Executive has responsibility. Both the Scottish Government and Northern Ireland Executive have been consulted.
+
+LEGAL  PROCEDURAL ISSUES
+
+i) Legal basis
+
+The legal basis for the proposed Council Decision to sign are Articles 82(1)(d) and 87(2)(a), in conjunction with Article 218(5), of the TFEU.
+
+The legal bases for the proposed Council Decision to conclude are Articles 82(1)(d) and 87(2)(a), in conjunction with article 218(6)(a), of the TFEU.
+
+Both proposals trigger the JHA opt-in (Protocol 21 to the Treaties) and the UK will therefore have three months from the date of publication of the final language version of the proposal to decide whether to participate.
+
+ii) European Parliament procedure
+
+The Consent Procedure applies to this Agreement.
+
+iii) Voting procedure in the Council 
+
+Qualified Majority Voting.
+
+iv) Impact on United Kingdom Law 
+
+The UK has the ability to obtain passenger, crew and service data from carriers in advance of all movements into and out of the UK under paragraphs 27 and 27B of Schedule 2 to the Immigration Act 1971 (as amended), section 32 of the Immigration, Asylum and Nationality Act 2006 and the powers of the HMRC Commissioners under sections 35 and 64 of the Customs and Excise Management Act 1979. Section 36 of the Immigration, Asylum and Nationality Act 2006 also creates a duty for the UK’s immigration authorities, the police and HM Revenue and Customs to share that data among themselves where it is likely to be of use for immigration, customs, or police purposes.
+
+The Immigration and Police (Passenger, Crew and Service Information) Order 2008 (SI 2008/5) specifies the travel-related data that an immigration officer or a police officer can require from ships, aircraft and trains, entering and leaving the United Kingdom. The data are divided into: 
+mandatory data which includes Advance Passenger Information () which must be collected and supplied when requested, and;
+additional data which includes  and must be supplied only to the extent to which the carrier knows the data.
+
+This legal framework will not need to be amended if the Agreement is adopted. The Agreement will not require implementation through UK legislation. Indeed, we are already applying the arrangements proposed through the provisional Agreement from 2007.  
+
+v. Application to Gibraltar
+
+The proposed Agreement, if adopted and if the UK opted in, would apply automatically to Gibraltar. 
+vi. Fundamental Rights Analysis
+
+The Agreement provides for the processing and transfer of personal data. Therefore it engages in particular Article 7 (right to respect for private and family life) and Article 8 (right to protection of personal data) of the Charter of Fundamental Rights of the European Union.  Any engagement with these rights must be justified in accordance with Article 52 of the Charter. The criteria for such a justification are the following: the interference must be provided for by law and respect the essence of the particular right in question; and the interference must comply with the requirements of necessity and proportionality.  
+
+The purpose of the Agreement is to set out the conditions for the transfer and use of the data, to ensure the security and safety of the public and prescribe the means by which the data shall be protected. Article 3 of the Agreement provides that Canada shall ensure that its competent authority processes PNR ‘strictly’ for the prevention, detection, investigation and prosecution of terrorism and other serious crime that is transnational in nature.  This would constitute a legitimate objective for the purposes of Article 52.  data has a clear value in combating these types of crime, which goes to the necessity of the measure to protect the public. The Agreement also contains a number of data protection safeguards which are relevant to determining the proportionality of the measure. In particular: 
+
+The Non-discrimination safeguards (Article 7) will ensure Canada applies the same protection to the processing of all passengers’ information.
+Additional protection will be afforded to sensitive data (Article 8), which cannot be further processed except when the data is indispensible because an individual’s life is in peril or there is a risk of serious injury.  
+Canada will implement regulatory measures to protect PNR data against inappropriate processing or loss (Article 9) and they will ensure compliance verification, and the protection, security, confidentiality and integrity of the data.  
+An independent public authority with effective powers to investigate compliance will oversee the data protection safeguards for the processing of PNR under the agreement (Article 10).  
+Canada shall ensure transparency by their competent authority by making information relevant to the processing of PNR available on its competent authority’s website (Article 11).  It will include details such as a list of legislation authorising the collection of PNR, reasons for its collection, the manner of protecting the data, the extent to which the data may be disclosed, and contact details for enquiries.  Moreover, Canada shall encourage carriers to adopt a similar approach and promote transparency, preferably at the time of booking.
+Passengers will have the right to request their PNR data from the competent authority (Article 12)
+Data Subjects will be able to request the correction of their PNR data and the competent authority shall consider all written requests for correction within a reasonable time (Article 13).
+Complaints shall be investigated and responded to by an independent authority (Article 14).  Canada shall ensure that the relevant authority will notify the complainant of their right to judicial redress.
+Canada shall not retain data for more than 5 years and access will be restricted to a limited number of authorised personnel (Article 16).  Moreover, the data shall be depersonalised by masking names after 30 days and further details relating to the passenger will be masked after 2 years.  
+Canada will log all processing (Article 17) of PNR data to ensure its correct usage and the quality of the processing.
+Disclosure of European PNR within Canada shall only occur if the requirements in Article 18(1) are met, e.g. the disclosure is to a government authority whose functions are directly related to tackling serious transnational crime or terrorism, it is disclosed on a case-by-case basis and only the minimum amount of information necessary is provided.
+Disclosure of European PNR outside of Canada shall only take place if, inter alia, the foreign authority receiving the PNR data applies standards to protect the PNR data that are equivalent to those set out in the EU-Canada Agreement or the foreign authority applies the standards to protect the PNR data that it has agreed with the EU (Article 19).
+
+APPLICATION TO THE EUROPEAN ECONOMIC AREA
+
+This proposal will not apply to Iceland, Liechtenstein or Norway.
+
+SUBSIDIARITY
+
+The Government believes that the establishment of a regime for the processing and transfer of  data to the Canadian Competent Authority  is a matter appropriate for action at the EU level. If Member States were to act in this area unilaterally, then this could lead to differing requirements being imposed on carriers across the EU. It could also frustrate the success of such an arrangement if there is no clear legal basis for passenger data to be transferred from a carrier in one Member State to the Canadian Competent Authority.   The objectives of this proposed Agreement could not therefore be sufficiently achieved by individual Member States acting alone.
+
+POLICY IMPLICATIONS
+The Government supports the decision to enter this data sharing agreement with Canada.  Parliament has already agreed the negotiating mandate and the EU have operated within this.  Passenger Name Record data is already transferred between the UK and Canada, however this agreement would put the data sharing on a clearer legal footing.  Given the existence of data sharing arrangements with Canada, there are no additional policy implications for British carriers.  Moreover, a Council Decision, supporting this transfer of passenger data will give an added level of legal clarity. 
+
+IMPACT ASSESSMENT
+
+In January 2008, the UK Government published an Impact Assessment (IA) which considered the impact to the industry of the UK Data Acquisition Legislation introduced in early 2008. This legislation comprises the power to collect  data from carriers in advance of travel for all movement into and out of the UK. Of the two main options considered, the routine and comprehensive acquisition of data from all carriers was the preferred option to “no action”.
+
+FINANCIAL IMPLICATIONS
+
+ data is currently transferred between the EU and Canada. This Agreement replaces the provisional arrangements referred to in paragraph 2 of this EM.  As it does not impose any additional obligations on carriers, it is unlikely significantly to affect the existing costs for airline carriers. 
+
+CONSULTATION
+
+The Home Office remains in close contact with other government departments, the airline industry, and other affected partners as part of our e-Borders engagement strategy and is unaware of any issues arising from the transfer of  data to Canada under the Agreement which is provisionally in force. 
+
+TIMETABLE
+
+The Lithuanian Presidency will work towards signing this Agreement within its Presidency, which concludes in December 2013.
+
+
+
+
+
+
+Mark Harper

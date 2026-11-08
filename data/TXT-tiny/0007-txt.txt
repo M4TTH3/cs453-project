@@ -1,0 +1,103 @@
+
+This evidence requirement document which forms part of the Invitation to Tender (ITT) comprises of three individual sections: -
+
+THE EVIDENCE REQUIREMENT SPECIFICATION: An outline of the research question to be addressed
+
+PROCUREMENT TIMETABLE: An estimated timetable for the procurement of the proposed research
+
+TENDER REQUIREMENTS AND EVALUATION CRITERIA: Provides guidance to applicants on the information that should be included within tenders and on the evaluation criteria and weightings used by appraisers when assessing and scoring tenders
+
+Tenders for FSA funded projects must be submitted through the FSA electronic public procurement system, ePPS, using the following link: .  Please refer to the document ‘Guidance for the completion of on-line tenders for science and evidence gathering projects using the Food Standards Agency electronic public procurement system, ePPS’ before completing the application. Failure to do so may result in the tender response not being processed by the system or the response being automatically disqualified during the evaluation stage of the tender process.
+
+
+THE EVIDENCE REQUIREMENT, INCLUDING PROJECT TIMETABLE 
+AND EVALUATION OF TENDERS
+
+GENERAL INTRODUCTION
+The Food Standards Agency is a non-ministerial government department governed by a Board appointed to act in the public interest, with the task of protecting consumers in relation to food. It is a UK-wide body with offices in London, Aberdeen, Cardiff, Belfast and York. 
+
+The aim of this desk-based study is to gather and assess information on potential alternatives to currently permitted preservatives.  Overall the project links to the FSA Strategy outcome “Food produced or sold in the UK is safe to eat”, more specifically the priority on horizon scanning.  The project also links into the FSA’s Science and Evidence Strategy priority activity theme “Identifying and obtaining the information we need” since the outcomes of the project may be taken into account when developing UK policy on food additives.
+
+This project comes under the Additives sub-programme, which is part of the Chemical Safety Programme.  The aim of the additives sub-programme is to provide information to ensure the use of food additives, processing aids, flavourings and food enzymes does not prejudice food safety.  Information and evidence is also required to underpin policy work in these areas.
+
+A. THE EVIDENCE REQUIREMENT SPECIFICATION
+
+Background
+
+The aim of the project is to examine the availability and feasibility of alternative approaches to the currently permitted preservatives.  Currently the European Food Safety Authority (EFSA) is re-evaluating all food additives which may result in some changes to currently permitted authorisations.  Therefore this project should examine alternative processing techniques, new food additives under development and also food additives which may be permitted outside the European Union.  In addition, any limitations with current preservative techniques (food additives or processing methods) should be assessed.
+
+The Evidence Requirement
+
+Proposals are invited to carry out a desk based study on potential alternatives for permitted preservatives.
+
+The FSA has proposed this desk based study to gather information on the current use of preservatives (and production techniques) in food and drinks and to investigate any future developments.
+
+The existing practices in industry should be reviewed and hurdles/difficulties with existing permitted preservatives or production techniques (e.g. aseptic filling) should be assessed. 
+
+The information gathered on potential new preservatives, preservatives permitted in countries outside the European Union or new processing techniques should be critically assessed to ascertain its feasibility in food production taking into account:
+costs to industry
+usual storage practices (ambient conditions or refrigeration) which would affect the preservative requirements
+the required shelf-life for specific products and the drivers for this
+
+The information on current and new developments should be broken down into specific food types e.g. soft drinks, meats.  The potential for the extension of use of certain practices (e.g. current permitted additives or production techniques) to a wider range of food and drinks should be assessed.
+
+The Agency is committed to openness and transparency. As well as the final project report being published on our open access repository Foodbase, we encourage contractors to publish their work in peer reviewed scientific publications wherever possible. Also, in line with the Government’s Transparency Agenda which aims to encourage more open access to data held by government, the Agency is developing a policy on the release of underpinning data from all of its science- and evidence-gathering research projects.,. Underpinning data should also be published in an open, accessible, and re-usable format, such that the data can be made available to future researchers and the maximum benefit is derived from it. The Agency has established the key principles for release of underpinning data that will be applied to all new science- and evidence-gathering projects which we would expect contractors to comply with. These can be found at 
+
+Proposals are therefore invited to:
+Evidence Requirement Reference: FS102080
+
+Conduct a desk-based study to gather, review and critically assess information on the potential alternatives to permitted preservatives in foods and drinks.  Current preservative techniques should also be reviewed to identify possible issues.
+
+Applications from a proposal team should be submitted as a single tender on ePPS covering all the requirements outlined above.
+
+PROCUREMENT TIMETABLE
+Table 1 details an estimated project timetable for the project FS102080.  Tenderers should however be aware that the Agency needs to acquire the evidence outlined in this ITT in a timely manner and you should justify your timings in your work plan.
+
+
+
+* If a Tenderer wishes to raise any points of clarification over the procurement process, the actual project objectives or any other query these must be raised through the ePPS system.  
+** Queries will not be answered after this date.
+ 
+
+
+Further Information
+For any technical queries, points of clarification regarding the evidence requirement, queries regarding the use of the ePPS programme or the procurement procedures please send them through the clarification tab in the electronic Public Procurement System (ePPS). 
+
+
+Closing Date
+Proposals should be submitted on the ePPS system by 15:00 hrs on Thursday 2nd October 2014.
+  
+Proposals received after this time will not be considered or evaluated. Please allow sufficient time to upload your tender and all supporting evidence before the closing date.
+ 
+Notification of Submission of Proposal
+On successfully submitting your tender you should see a popup box appear on the screen indicating that your proposal has been successfully submitted and quoting a reference number.  In addition you will receive an automatic email from ePPS with a reference number.  
+EVALUATION OF TENDERS
+The Tenderers Application consists of the:
+Technical envelope (80% of overall value), in which applicants should detail the scientific approach, the work plan and their ability to undertake the work, and
+Financial envelope (20% of overall value), in which applicants should outline all costs to conduct the proposed work, and 
+any other relevant supporting information.  
+Tenders will be evaluated by FSA internal appraisers and external experts using a numerical system.  The table below shows the weightings that have been allocated to each section and will be used by the appraisers: 
+
+The Technical Envelope
+The Technical envelope is split in to 7 sections for evaluation.  Guidance on how to complete each section is provided within the actual application form.
+
+A numerical appraisal scoring system will be used to assess the information given in the Technical envelope of the tender.  Appraisers will allocate a score of 0, 30, 60, 80 or 100 to each part of the Technical envelope, depending on the quality and relevance of evidence provided.  The scores will then be subjected to the weightings given in Table 2.
+
+All technical criteria will be evaluated as follows:
+
+
+The Financial Envelope
+
+The Financial envelope is split in to 5 sections.  Guidance on how to complete each section is provided within the actual application form.
+
+A numerical appraisal scoring system will be used to assess the information given in the Financial envelope of the tender.  Appraisers will allocate a score of 0, 30, 60, 80 or 100 to the Financial envelope, depending on the quality and relevance of evidence provided.  The scores will then be subjected to the weighting given in Table 2.
+
+Requirement for the financial envelope
+Please complete the Finance template provided. Costs should be quoted excluding VAT for the purpose of comparison of tenders. The Agency’s financial year runs from 1 April to 31 March. All costings should be recorded in line with this timescale. 
+
+
+Evaluation of the financial envelope
+
+Financial criteria will be evaluated as follows:
+
+

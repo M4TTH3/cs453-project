@@ -1,0 +1,215 @@
+ 
+
+
+
+
+
+
+
+                       DRAFT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Audit Team
+
+David Esling, Head of Audit and Assurance
+Phil Drysdale, Audit Manager
+
+
+Report Distribution List
+
+Jeff Jacobs, Head of Paid Service and Executive Director
+David Lunts, Executive Director - Housing and Land
+Simon Powell, Assistant Director – Strategic Projects and Property
+Daniel Bridge, Principal Development Manager
+Paul Guest, Senior Development Manager
+Martin Clarke, Executive Director - Resources
+Doug Wilson, Head of Financial Services 
+Tom Middleton, Head of Governance and Performance 
+
+
+
+									     	      Page
+EXECUTIVE SUMMARY
+
+Background									1
+
+Review Objectives								1
+
+Scope										2
+
+Audit Opinion									2
+
+
+FINDINGS
+
+Mayoral Approval and Funding Agreement		 			3
+
+Agreement to the General Ledger						3
+
+Award of Contracts 								3
+
+Eligibility of Expenditure 							4
+
+Avoidance of Duplication in Claims						4
+
+
+
+
+APPENDICES
+
+Appendix 1	Grant Declaration						5
+
+
+
+Background
+
+This review has been carried out at the request of the Directorate of Housing and Land and is in addition to the Greater London Authority (GLA) 2015/16 audit plan.
+
+The GLA successfully bid for Department for Communities and Local Government (DCLG) funding under its Building Foundations for Growth (BFG) capital grant fund, receiving a grant of £12m in 2014/15.
+
+The aim of the BFG capital grant fund is to accelerate delivery of projects and schemes within Enterprise Zones by addressing specific needs, which include:
+
+Addressing barriers identified within Enterprise Zone action plans;
+Tackling specific market failures that are holding back site development;
+Unlocking sustainable private investment and employment within Enterprise Zones sites that would otherwise not see development before 2015;
+Providing value for money investment proposals that can be accelerated or scaled up;
+Providing evidence of demand for the site from both developers and occupiers;
+Claiming and legally committing funding in 2014/15;
+Demonstrating physical progress by 2015; and
+Demonstrating long term financial sustainability with a clear understanding of risks.
+
+ GLA funds were specifically intended to accelerate the redevelopment of Millennium Mills which is in the Royal Docks Enterprise Zone.  The Silvertown Quays site, which Millennium Mills is a part of, is under a Development Agreement with the Silvertown Partnership (TSP).  The GLA agreed to pay TSP, via a funding agreement, for asbestos removal, demolition, strip out and piling works at Millennium Mills.
+
+
+The GLA Head of Paid Service is required by the grant conditions set out in Enterprise Zones (London Royal Docks) Building Foundations for Growth CAPITAL GRANT DETERMINATION (2014/15) No 31/2411 to submit a signed declaration to DCLG certifying that BFG funds have been spent appropriately. Prior to signing the declaration, GLA Head of Paid Service is required to obtain assurances from Internal Audit that the grant has been spent in accordance with the conditions set out in the Grant Determination.
+
+Review Objectives 
+
+Our overall objective is to provide assurance that the control framework supporting compliance with the conditions attached to Building Foundations for Growth Capital Grant Determination (2014/15) No 31/2411 is effective.  In particular, we are looking to provide assurance that:
+
+There is Mayoral approval for the use of BFG funds and a signed funding agreement is in place.
+Grant income and expenditure per DCLG remittances and TSP claims agree with the GLA expenditure and income accounts.
+Contracts have been fairly awarded and there are signed contracts in place.
+There is an adequate and effective control framework in place to ensure that only eligible expenditure as specified in the Grant Determination is paid to TSP.
+Duplication with other claims and returns has been avoided.
+
+Scope
+
+We reviewed the adequacy and effectiveness of the control framework in place including a review of the governance and monitoring arrangements with TSP for ensuring that BFG funds were spent in accordance with the conditions attached to the Grant Determination. We checked appropriate authorisations and supporting documentation to support claims by TSP and we tested the eligibility of expenditure. We also reviewed the award of key contracts supporting the grant. 
+
+Audit Opinion
+
+We have reviewed the BFG expenditure and carried out appropriate checks and concluded that there is an adequate and effective control framework in place to ensure that, in all significant respects, the conditions attached to Building Foundations for Growth Capital Grant Determination (2014/15) No 31/2411 have been complied with.
+
+A Grant Declaration, signed by the Chief Internal Auditor, has been included at Appendix 1. Once the Head of Paid Service has concluded his review and is happy to sign the Declaration we will arrange submission to the DCLG. 
+
+
+Mayoral Approval and Funding Agreement
+
+Following DCLG award of BFG funds to the GLA in September 2014 the application of funds to the Millennium Mills project was approved by GLA’s Investment and Performance Board in September 2014, the London Enterprise Panel in October 2014 and by the Mayor via MD1410 in November 2014.
+
+MD 1410 approved the following:
+
+The GLA entering into a Funding Agreement with DCLG, acting as the Accountable Body on behalf of the London Enterprise Panel (LEP) for the monitoring and delivery of the project to achieve the agreed outputs.
+The GLA and GLAP entering into a Funding Agreement with TSP who will be responsible for the design, gaining planning consent and management of the works to Millennium Mills.
+The receipt of £12m from DCLG’s Building Foundations for Growth Enterprise Zones Capital Grant fund
+The expenditure of £12m towards the enhancement of Millennium Mills, on the Silvertown Quays site.
+
+A Funding Agreement between GLA, TSP and GLAP was signed November 2014 for the removal of asbestos, demolition, strip out and piling work at Millennium Mills
+
+Agreement to the General Ledger
+
+We confirmed that grant income totalling £12m, made up of three receipts from DCLG of £3.9m, £3.6m and £4.5m respectively, and actual expenditure totalling £4.326m at 31 March 2015 agreed to the GLA’s General Ledger, SAP. The balance of £7,674m is held on account for the future completion of the works at Millennium Mills.
+
+Award of Contracts
+
+Millennium Mills works were foreseen under the scope of the Silver Quays project awarded to TSP under a Master Development Agreement (MDA), which was approved by the Mayor via MD1205 in June 2013. The MDA with TSP followed an OJEU compliant competition and, as such, a separate OJEU compliant competition for subsidiary works at Millennium Mills was not required. Legal advice to support this decision was sought and acted on. 
+
+Clause 15 of the Funding Agreement requires all procurement by TSP to be
+
+“..based on value for money and suitable skills and experience and conducted using a fair and transparent documented decision making process taking account of public sector accountability and probity.”
+
+ TSP invited tenders for two contracts for asbestos removal and demolition works in October 2014 and January 2015 respectively. The tendering process was managed by an independent consultant.  A list of tenders for each procurement was agreed with the GLA prior to them being invited to tender.  Four compliant tenders were received for the asbestos contract and five for the demolition contract. On completion of the tender evaluation process the Consultants submitted tender reports for each contract which evaluated the bidders against a set of agreed criteria that included price, work methodology, health and safety and financial stability. On the basis of the independent consultant’s evaluation, as documented in the tender reports, both contracts were awarded by TSP to Rhodar Ltd.  The asbestos removal works commenced on site in November 2014 following the signing of contract.  The demolition and piling contract was signed on February 2015 and is due to start on site in August 2015.  Both contracts were subject to GLA approval prior to completion.
+
+The asbestos removal works do not require planning permission but are being monitored by the LB Newham’s environmental team.  TSP will require a licence to carry out the demolition and piling works.  An application has been submitted to the LB Newham’s planning department and an approval is expected in July 2015.
+
+Our review of the procurement process for works at Millennium Mills confirms that it was compliant with the requirements of Clause 15 of the Funding Agreement and that the process was fair and transparent, and used a documented decision making process that took into account public sector accountability and probity requirements. 
+
+Controls to Ensure the Eligibility of Expenditure 
+
+The Funding Agreement sets out the governance framework for Millennium Mills and specifies that the GLA:
+has final approval over contracts entered into by TSP
+is to receive monthly progress reports and independently certified Statements of Funding Usage
+will attend project meetings
+
+Our review of the six payment applications submitted up till May 2015 confirmed that Monthly Statements of Funding Usage reports, including payment applications, were made to the GLA by TSP in accordance with the Funding Agreement.  These were supported by invoices from Rhodar, supported by independent valuation certificates from TSP’s quantity surveyor together with invoices from the consultant team.  
+A senior development manager within Housing and Land’s Strategic Property and Projects team is responsible for monitoring the performance of TSP, reviewing and authorising payment requests and providing regular update reports via Dashboards to Housing and Land Senior Management Team. We reviewed the project dashboards for the period November 2014 to May 2015 and found that they reported relevant and up-to-date information on Delivery Progress, Project Risks, Project Milestone and Financial Performance.
+
+GLA Finance provide monthly budget monitoring reports which feed into the Dashboards and enable the Senior Development Manager to effectively monitor and scrutinise financial performance.
+
+Fortnightly asbestos works progress meetings are held, which are attended by the GLA Senior Development Manager and representatives of TSP, Rhodar and the consultant team as required.  We reviewed the meeting minutes and action notes for the period January to May 2015 and found that it provides an effective forum for the GLA to challenge and scrutinise project progress.
+
+Our review concluded there is an adequate and effective framework in place to ensure that BFG funds have been spent on goods and services that are eligible per the DCLG Grant Determination.
+
+Avoidance of Duplication in Claims
+
+We examined the coding structure on SAP to determine whether expenditure relevant to the BFG is clearly matched to income and that controls are in place to prevent and detect duplication. We found that expenditure is coded to a separate capital cost centre for BFG and as a result can be separately identified.
+
+Our reviews confirmed that each transaction has a clear description and purchase order number, which is matched to a related invoice and supporting documentation.  Regular review by GLA Finance ensures that where duplicate transactions are recorded they are detected and adjusted accordingly.
+
+
+
+ ##ISA4D87D77654C404A9A924F78FE705525##Finding
+
+
+Enterprise Zones (London Royal Docks) Building Foundations for Growth CAPITAL GRANT DETERMINATION (2014/15) No 31/2411
+
+
+DECLARATION
+
+
+To the best of our knowledge and belief, and having carried out appropriate investigations and checks, in our opinion there is an adequate and effective control framework in place to ensure that, in all significant respects, the conditions attached to London Royal Docks Enterprise Zone Building Foundations for Growth Capital Grant Determination (2014/15): No 31/2411 have been complied with.
+
+
+
+Name of Local Authority:		Greater London Authority
+
+
+
+
+Chief Internal Auditor Name:		Julie Norgrove.
+
+
+
+Chief Internal Auditor Signature: .………………………………..…  Date: ………………
+
+
+
+
+Chief Executive Name:			Jeff Jacobs
+
+
+
+Chief Executive Signature: ………………………………………….  Date: ………………
+
+
+
+REPLACE WITH COPY OF SIGNED ORIGINAL
+

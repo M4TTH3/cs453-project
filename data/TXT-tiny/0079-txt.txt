@@ -1,0 +1,332 @@
+COM (2013) 643 final – 13562/13
+COM (2013) 627 final – 13555/13
+SWD (2013) 331 final – 13555/13 ADD1
+SWD (2013) 332 final – 13555/13 ADD2
+
+Communication from the Commission to the European Parliament, the Council, the Economic and Social Committee and the Committee of the Regions on the Telecommunications Single Market
+
+Proposal for a Regulation of the European Parliament and of the Council laying down measures concerning the European single market for electronic communications and to achieve a Connected Continent, and amending Directives 2002/20/EC, 2002/21/EC and 2002/22/EC and Regulations (EC) no 1211/2009 and (EU) No 531/2012
+
+Commission Staff Working Document Impact Assessment Accompanying the document  Proposal for a Regulation of the European Parliament and of the Council laying down measures concerning the European single market for electronic communications and to achieve a Connected Continent, and amending Directives 2002/20/EC, 2002/21/EC and 2002/22/EC and Regulations (EC) no 1211/2009 and (EU) No 531/2012
+
+Commission Staff Working Document Executive Summary of the Impact Assessment Accompanying the document a Proposal for a Regulation of the European Parliament and of the Council laying down measures concerning the European single market for electronic communications and to achieve a Connected Continent, and amending Directives 2002/20/EC, 2002/21/EC and 2002/22/EC and Regulations (EC) no 1211/2009 and (EU) No 531/2012
+
+
+Submitted by Department for Culture, Media and Sport on [9th October 2013]
+
+SUBJECT MATTER
+
+This EM covers a suite of four related documents:
+
+A Communication which is a review of the existing telecommunications single market, issues that prevent the completion of same and what steps should be taken to address this issue;
+A Regulation that seeks to address the issues identified in the Communication;
+A Commission Staff Working Paper that is the Impact Assessment of the Regulation; and
+A Commission Staff Working Paper that is an Executive Summary of the Impact Assessment.
+
+The Communication…on the Telecommunications Single Market (13562/13)
+The Communication begins by setting out the political and economic importance of a fully functioning telecommunications single market and notes that the European Council of March 2013 placed a commitment on the Commission to bring forward proposals to establish such a single market and that these proposals seek to meet that commitment.
+
+It then provides a summary of the impacts of the liberalising measures that began in the 1980s and considers the importance of specific developments, such as the Global System for Mobile Communications (GSM) and Universal Mobile Telecommunications System (UMTS) standards, along with the existing telecommunications framework that was put in place in 2002 and reviewed in 2009.  It then states the importance of this sector in driving not only Europe’s competitiveness but also wider economic growth that is important in the current economic situation.  It then states that decisive further action is needed to prevent any further decline in this market and ’s global position.
+
+It then considers what remaining barriers exist, citing a study that claims that completion of the single market in this sector could add up to £92 billion (€110 billion) or 0.9%to the EU’s gross domestic product ().  It notes that despite the existing regulatory framework, many operators and networks operate on a national basis, with those who have a presence in more than one Member State continuing to operate as several ‘national’ operators rather than a single ‘European’ operator.  The Commission claims that such behaviour was not only having a negative effect of pricing, but also on consumer behaviour (though it does not adduce evidence of either). It also asserts that differences in national procedures for the management of spectrum have a negative effect on investment and the roll-out of new technologies, before considering the benefits that could arise from greater harmonisation of the application of the existing regulatory framework and procedures. 
+
+The Communication then sets out what the Commission believes are the characteristics of a true single market and what measures are needed to change the existing regulatory framework in order to drive the market to begin to exhibit those features.  It then notes a commitment made by the Commission at the conclusion of the 2009 review of the regulatory framework to act on the issue of open internet access before setting out four reasons why action is now needed and noting the proposals within the Regulation seek to address these.
+
+The Communication then considers matters relating to investment and competition, with the recently agreed Recommendation on Costing Methodologies and Non-discrimination playing a role in providing a framework that will help drive investment in new broadband infrastructure by providing legal certainty on the prices associated with network access.
+
+It then notes that the medium-term effects of the proposals will be greater freedom and opportunities for market participants and a trend towards consolidation within the sector, with the market developing in such a way that ex post application of competition law will be sufficient to ensure market functioning.  This situation will be addressed by the Commission further developing the existing Recommendation on relevant markets, with an expected reduction of ex-ante regulation. There is also an indication that the Commission will begin to consider what actions are needed to drive further coordination of regulatory remedies and once again raises the possibility of the creation of a single EU telecoms regulator through conducting a review.  This review will also seek to address issues relating to the perceived lack of a level playing-field for   ‘over-the-top’ services compared to telecoms services, as well as matters relating to the convergence of audio-visual and telecommunication services and markets.
+
+The Communication then concludes by reiterating the potential benefits to the EU, its businesses and its citizens from a completed telecommunications market and calls upon both Council and the European Parliament to examine and adopt the proposed Regulation as a matter of highest political priority.
+
+A proposal for a Regulation…(13555/13)
+
+The Regulation begins with the Commission’s own EM covering the Regulation (pgs 2 – 13), much of which is an reiteration of the points made in the associated Communication (covered in paragraphs 2 to 8 above). It contains a useful outline of the proposals and supporting arguments on pages 10 – 13 which is reproduced in Annex A of this EM, as well as explaining why the Commission of the view that a Regulation is the most appropriate instrument (page 10).
+
+ The Regulation then sets down the Recitals (pages 14 – 31) before moving onto the text of the Articles of the Regulation itself. The following is a summary of the Articles, as well as an outline of the effect of each. There are seven groupings of articles, each presented as a chapter and this EM follows the same format.
+
+Chapter I – General Provisions
+(Articles 1 - 2)
+
+ These Articles are self-explanatory and reiterate elements of the preceding Commission EM and associated Communication, as well as provide definitions for terms associated with the Regulation.
+
+Chapter II – Single EU Authorisation 
+(Articles 3 – 7)
+
+These articles seek to create a system whereby any provider of electronic communication services would require a single authorisation from the Member State’s national regulatory authority (NRA) in which they are based in order to be able to provide their services across the EU28; parallels to this scheme are the single banking licence and the CE-marking scheme.
+
+ The articles also set out provisions regarding the responsibilities of the authorising NRA and, in effect, gives responsibility to that NRA to take action, even if the activities that require intervention are conducted in another Member State, as well as placing an obligation on that NRA to behave in the same way as if the negative behaviour was occurring in its home Member State.
+
+Chapter  – European Inputs
+
+Section 1 – Coordination of use of radio spectrum within the single market
+(Articles 8 – 16)
+
+ This group of articles sets out a number of proposals related to the management of spectrum within the EU. They are:
+
+An obligation on Member States to notify the Commission whenever a general authorisation or individual rights to spectrum is being granted. This decision would be subject to approval or amendment by the Commission in a process that mirrors existing provisions with the current Framework for market measures;
+
+Harmonised procedures for broadband spectrum assignments that would cover not only new bands that would be harmonised (such as 700MHz) but also existing harmonised bands. Such actions would include common timetables for granting rights, harmonisation of licence durations (both new and existing), setting dates for the termination of existing uses of spectrum to enable the spectrum to be used for broadband and actions that the Commission can take to ensure Member State compliance with such measures.
+
+Section 2 – European virtual access products
+(Articles 17 – 20)
+
+ These Articles place on obligation on operators to provide two forms of wholesale access products for Next Generation Access (NGA) networks; the aim of which is to drive harmonisation of existing wholesale products which are subject to a variety of technical requirements.
+
+The first is an access product that should be provided by operators who have significant market power (SMP): the European virtual access product and the second to be provided by all NGA networks: the Assured service quality (ASQ) connectivity product.
+
+Chapter IV – Harmonised rights of end-users
+
+Costs of international calls and SMS (Article 21)
+
+ The Regulation proposes that all intra-EU calls from fixed lines should not be charged higher than domestic call rates unless higher rates can be objectively justified, eg by reference to reasonable extra costs associated with routing such calls. Rates for mobile calls and texts are similarly limited by reference to the Euro-tariffs set out in the Mobile Roaming Regulation (No 531/2012)
+
+
+Cross-border dispute resolution (Article 22)
+
+The Regulation extends the requirement in the Universal Services directive (2002/22/EC) to provide out-of-court procedures to resolve disputes between consumers and providers to include cross-border disputes.
+
+Open Internet Access, Traffic Management, Safeguards for Quality of Service, and Transparency and Publication of Information (Articles 23 – 25)
+
+ The Regulation proposes to introduce a form of ‘Net Neutrality’ that would allow users to freely access and distribute content, information, run applications and use services of their choice.  Whilst mirroring the text that is already contained the Framework, it places a new obligation on NRAs to ensure that this is the case.
+
+ It also seeks to prohibit blocking, slowing down or otherwise degrading access to any services and content, except in instances where there is a genuine need to do so for traffic-management and network-management reasons. It does, however, allow providers to charge extra for different data volumes and speeds, as well as allowing for charges associated with enhanced quality of service, as well as imposing a requirement to ensure that consumers are aware of any specific restrictions or similar by requiring operators to publish specific information regarding speeds, traffic volumes, impact on services and any traffic management policies in place.
+
+Information requirements for contracts, control of consumption and contract termination (Articles 26 - 39)
+
+ The proposals in these articles contain several provisions that are aimed at increasing consumer protection.
+
+The first (Article 26) sets out a series of specific minimum information requirements that need to be contained in a contract and, amongst other things,  include: tariff plans and costs; any after-sales services provisions; any restrictions on the use of terminal equipment; payment methods; charges for early contract termination or switching/porting; and compensation.
+
+The following Article sets out anti-Bill Shock measures that ensure that a consumer is made aware that they reaching their tariff’s limits and ensures that consumers are still able to access the emergency services through the European emergency number once limits are reached and provides for free-of-charge itemised bills.
+
+Articles 28 sets out new requirements covering contract termination by adding to the existing maximum contract term of 24 months and the requirement to provide 12-month contracts by granting consumers a right to terminate contracts after 6 months with one month’s notice.  However, end-users may need to reimburse the service provider for the residual value of subsidised equipment.
+
+
+Chapter V – Facilitating change of providers
+
+Switching & portability of numbers (Article 30)
+
+ This Articles sets out the requirements aimed at facilitating consumers switching between providers . 
+
+ It contains new provisions that places an obligation on service providers to forward any emails to the consumer’s new email account for a period of 12 months, as well as obligations on operators to reimburse any unused pre-paid credit. It also includes an obligation that all switching be gaining-provider-led. 
+
+Chapter VI
+
+Penalties, Delegation of Powers, Committee Procedure and Amendments to Directive 2002/20/EC (Articles 31 – 36)
+
+ These Articles set out the mechanism for penalties that can be imposed by NRAs, deals with powers of the Commission to bring forward delegating acts and indicates that the Communication Committee will play a comitological role for the management of the Regulation’s provisions. This section concludes by deleting provisions within the Authorisation, Framework and Universal Service directives that would be superseded by the Regulation.
+
+
+Amendments to Regulation (EU) No 531/2012 (Article 37)
+
+This Article contains two elements that would change the recently agreed third EU Mobile Roaming Regulation.
+
+The first is that, from 1st July 2014, consumers would not be charged to receive voice-calls.
+
+The second element provides an exemption for operators from the obligation to decouple roaming ie the third Regulation allows consumers to choice separate providers for their domestic and roaming provisions (from 1st July 2014).  In order to gain this exemption, service providers must form a commercial or technical agreement with other operators that create a ‘virtual’ cross-border network that covers at least 17 Member States and 70% of the EU population and offer at least one retail package that offers a roaming service charged at domestic rates.
+
+The Article also provides for a transitional period of three years and makes allowance for reasonable use provisions.
+
+Amendments to Regulation (EC) No 1211/2009 (Article 38)
+
+
+ This Article proposes changes to the Regulation that established the Body of European Regulators of Electronic Communications (BEREC).  The first change proposes that the term of the Administrative Manager of the BEREC office be extended from three to five years, renewable once.
+
+The second change proposes that the role of BEREC Chair be filled by a ‘full-time independent professional’ to be appointed for a three-year term.  The Chair is currently drawn from BEREC members ie the heads of NRAs and serves a one-year term.
+
+Review Clause and Entry into force (Articles 39 & 40)
+
+The first Article sets down a requirement that a review and report on the Regulation take place no later than 1st July 2018 and the final Article provides that the Regulation will come into force on 1st July 2014, except for Articles 21 to 30, which will come into force on 1st July 2016.
+
+Annexes I & II
+
+The Regulation concludes with two Annexes that set out the technical requirements for the wholesale broadband access products covered by paragraphs 15 to 16 and 57 to 61of this EM.
+
+Commission Staff Working Document Impact Assessment (13555/13 ADD1)
+
+ This 130+-page document is provides the economic and policy under-pinning to the proposed Regulation.
+
+Commission Staff Working Document Impact Assessment Executive Summary (13555/13 ADD 2) 
+
+This document is the executive summary, and in effect the first four pages, of the document covered by paragraph 36 of this EM.
+
+SCRUTINY HISTORY
+
+This is a new proposal and so there is no existing scrutiny history.
+
+ However, the proposals build on or alter the existing Telecom Framework (FWR)and its scrutiny is:
+
+ FWR History
+DTI submitted an EM covering the following three Commission 15379/07,  15387/07 and 15408/07 on 10 December 2007. The Commons European Scrutiny Committee cleared the proposal from scrutiny on 24 September 2009 and Lords EU Committee cleared the proposal on 13 May 2008.
+
+However, the proposals are linked to the Digital Agenda for Europe whose history is: 
+
+DTI submitted EM9981 on 22 June 2010 relating to ‘Communication from the Commission to the European Economic & Social Committee and the Committee of the Regions -  A Digital Agenda for Europe’.  The Commons European Scrutiny Committee cleared the proposal from scrutiny on 8 September 2010. The Lords EU Committee cleared the proposal on 6 July 2010.
+
+There is also a link to the existing Roaming Regulation and its scrutiny history is:
+
+BIS submitted EM on Council Doc 11711/10 on 15th July 2010 relating to the “Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions on the interim report on the state of development of roaming services within the European Union”.  The Commons European Scrutiny Committee considered it neither legally or politically important, then cleared it (Report 01, Session 2010/2011).  The Lords Select Committee on the EU cleared it (19th October 2010 – Session 2010/2011).
+
+BERR submitted EM on Council Doc No’s 13521/08 and 13531/08 on 16th October 2008 relating to the “Communication from the Commission to the European Parliament, the Council, The European Economic and Social Committee and the Committee of the Regions on the outcome of the review of the functioning of Regulation (EC) No 717/2007 of the European Parliament and of the Council of 27 June 2007 on roaming on public mobile telephone networks within the Community and amending Directive 2002/21/EC" and “Proposal for a Regulation of the European Parliament and of the Council amending Regulation (EC) No 717/2007 on roaming on public mobile telephone networks within the Community and Directive 2002/21/EC on a common regulatory framework for electronic communications networks and services“. The Commons European Scrutiny Committee considered it politically important and cleared it, (Report 40, Session 07/08).  The Lords Select Committee on the EU cleared it. (P.O.S. 27th November 2008 session 07/08).
+
+DTI submitted EM on Council Doc No 11724/06 on 12th September 2006 relating to the “Proposal for a Regulation of the European Parliament and of the Council on roaming on public mobile networks within the Community and amending directive 2002/21/EC on a Common Regulatory Framework for Electronic Communications Networks and Services + Commission Staff Working Paper - Impact Assessment of policy options in relation to a Commission proposal for a Regulation of the European Parliament and of the Council on roaming on public mobile networks within the Community + Commission Staff Working Document - Executive Summary - Impact Assessment thereto". The Commons European Scrutiny Committee considered it politically important and cleared it, (Report 23, Session 06/07).  The Lords Select Committee on the EU cleared it. (P.O.S. 24th May 2007 session 06/07).
+
+
+MINISTERIAL RESPONSIBILITY 
+
+The Secretary of State for Culture, Media and Sport has primary responsibility for the proposal.
+
+In addition, the Secretary of State for Business, Innovation and Skills has an interest as a European single market measure and consumer protection issues; and the Chancellor of the Exchequer has an interest in measures controlling national spectrum auctions
+
+INTEREST OF THE DEVOLVED ADMINISTRATIONS
+
+Matters relating to the European single market and telecommunications are a reserved matter. However, the Devolved Administrations were consulted whilst drawing up this EM; no specific views were expressed.
+
+LEGAL AND PROCEDURAL ISSUES
+
+
+	i.	Legal basis - Article 114 TFEU.
+	ii.	European Parliament Procedure - Ordinary legislative procedure
+	iii.	Voting procedure - Qualified majority voting
+Impact on United Kingdom Law – The proposed Regulation would be directly applicable in the UK.  It is likely that some consequential amendments would need to be made to UK legislation.
+
+Application to Gibraltar – Applies to Gibraltar
+
+vi.	Fundamental rights analysis – We do not consider that the proposal raises any fundamental rights issues.
+
+APPLICATION TO THE EUROPEAN ECONOMIC AREA
+
+ The proposed Regulation will be applicable in the EEA
+
+SUBSIDIARITY
+
+ In the accompanying Impact Assessment (para 6.1) it is noted that the general objective of the Regulation is  “to complete the Single Market for electronic communication services to ensure that: citizens and businesses have the right to access electronic communications services irrespective of from where they are provided in the Union, without being hampered by cross-border restrictions and unjustified additional costs; and providers of electronic communications services and networks have the right to operate their networks and provide services irrespective of where the company is established or its customers are situated in the Union.”  It would seem correct that this objective could not be sufficiently achieved other than action by the EU, rather than Member States, and therefore the proposal complies legally with the subsidiarity requirement in Article 5(3) TEU. We are nevertheless concerned that the harmonisation involved with certain elements of the proposals, specifically in relation to regulation of providers and spectrum, is excessive. This is discussed in the following sections.
+
+POLICY IMPLICATIONS
+
+The package’s aims do generally align with UK’s in terms of the completing the telecoms single market and how this would contribute towards the creation of the digital single market.  However, whilst there is an alignment in terms of aims and there are some opportunities in terms of the spreading of good practise from the UK across the EU, the issue of any net economic benefits to the EU market from both the package in its entirety and each individual element remains unproven. This situation requires further analysis and this nuance HMG’s position as negotiations progress and elements of the package evolve.
+The following paragraphs cover the policy implications for each strand of the Regulation, with each heading cross referencing where in the Regulation each proposal sits.
+
+Single EU Authorisation & Regulation of Providers (Chapter II – Articles 3 to 7)
+
+Despite the existing Authorisation Directive (adopted in November 2009) not allowing NRAs to require authorisations as a condition of operation, all Member States require such notification (with two exceptions: Denmark and the UK).  The main value of the single authorisation is stated as encouraging investment in the provision of pan-European services and reducing the unnecessary additional costs that providers of such services may currently bear, compared to local operators.  
+
+Nevertheless, HMG does not believe that the resource currently associated with national notification and compliance has hitherto been a material obstacle to pan-European operations.  The single authorisation cannot substitute for addressing ineffective or inconsistent regulation.  Industry, while expressing a positive view in terms of costs reduction, does not see this as a complete answer to pan-European working. Ironically, the administrative burden for operators in the UK and Denmark would increase radically.
+
+Additionally, the introduction of a pan-European enforcement regime would require a fundamental change to Ofcom’s legal duties and powers, currently focused on the interests of UK consumers, raising issues of jurisdiction and competence.  
+
+Whilst HMG supports the goal of eliminating unreasonable obstacles to pan-European service provision, there are risks that such a change could introduce delays in the monitoring, assessment, and enforcement of compliance with regulatory obligations, to the detriment to consumers and competing operators.  There is a clear risk that any savings from changes to the notification process will be minimal and might be out-weighed by the potential negative outcomes and so full support cannot be given until these concerns are addressed.
+
+Coordination of Use of Radio Spectrum (Chapter III – Articles 8 to 16)
+
+The proposals on spectrum do pose some serious concerns for HMG, in particular the idea of the Commission supervision of national plans for spectrum assignments, including the timing. This would represent a shift in competence from national regulators, which we would not want to see. The Commission would be able to mandate the (re-) assignment of spectrum for wireless broadband through EU harmonised procedures and timetables. Quite how this would work is not clear as spectrum is not solely “wireless broadband spectrum”. The Commission proposals give a power of veto over national draft decisions on spectrum assignment procedures and licence conditions if it considers they would damage the internal market. 
+
+HMG is therefore concerned about the proposals as drafted. The value of spectrum to Member States’ economy, and ability to manage the process of allocation within a coordinated framework is well documented.  A recent study put the value to the UK economy at over £50bn.  We are concerned that the Commission would be extending its competence into matters that are currently a national responsibility. At the same time we believe that there are tools open to the Commission to deliver a more effective single market that are not being deployed.  A pan-EU rollout of 4G mobile broadband services would have an immediate positive impact on the European economy and would be more effective than further harmonisation of rules on spectrum auctions. The Commission has not taken action with its existing powers to expedite the allocation of spectrum for 4G service in Member States that have not yet done so. 
+
+There are also alternatives to the proposal which could work without the need to take control, such as the wider use of the Radio Spectrum Policy Group to develop harmonised technical conditions and issue guidance on licence fees and durations. If the RSPG were invited to develop best practice guidelines of which Member States could be required to take utmost account, the poor auction design we have seen in other Member States might be addressed, without affecting Member States whose auctions are sufficiently well designed.
+
+European Virtual Access Products (Chapter III – Articles 17 – 20)
+
+Access services to enable pan-European provision for business customers are variable across the EU and HMG believes this issue should be addressed.  However, it is important to ensure that the scope of the proposals reflect the scope of the problem identified. 
+
+With this proposal, the Commission is seeking to encourage the availability of standardised European access products to be offered by SMP operators; in the UK’s instance BT.  The Commission is also prescribing the minimum parameters of such products in an annex to the Regulation. In addition, the Commission is proposing to have a veto over NRA decisions on access remedies for pan-European operators.
+
+UK operators will have a potential advantage when engaging in the new measures since they already operate in the UK.  Ofcom was the first NRA to introduce Virtual Unbundled Local Access (VULA) and, in principle, welcomes the Commission’s adoption of VULA. 
+
+However, HMG believes that the Commission will not succeed in ensuring the provision of harmonised products merely by prescribing the key parameters, as in the current proposal. HMG considers that the parameters are too high level to guarantee harmonised products.  A solution would be for BEREC to develop minimum reference offers in greater detail, in close consultation with industry, in order to ensure they reflect operators’ commercial needs. 
+
+A veto on remedies constitutes a significant transfer of power from NRAs to the Commission, and we do not believe that the Commission has not made a case for this power. One real risk of a veto on remedies is that NRAs will be prevented from being innovative. HMG therefore does not support this element of the proposal.
+
+Costs of ‘International’ (intra-EU) Voice-calls and SMS (Chapter IV – Article 21(3))
+Significant price differences continue to exist, both for fixed and mobile communications, between domestic voice and SMS communications and those terminating in another Member State. While there are variations between countries, operators and tariff packages, and between mobile and fixed services. 
+HMG is generally supportive of this measure, provided any significant retail tariff differences between domestic fixed long-distance communications and fixed communications terminating in another Member State are justified by reference to objective criteria.  Retail tariffs for international mobile communications should not exceed the euro-voice and euro-SMS tariffs for regulated roaming calls and SMS messages, respectively, provided for in Regulation (EU) No 531/2012; unless justified by reference to objective criteria.  Such criteria may include additional costs and a reasonable related margin.  
+
+Open Internet Access , Traffic Management, Safeguards for Quality of Service, and Transparency and Publication of Information (Chapter IV – Articles 23 – 25)
+
+Traffic management is often necessary in order for Internet Service Providers (ISP) to manage congestion on its network and ensure all users receive a good level of service.  HMG supports an open Internet, and to that end, agrees with the aims and objectives of the proposals.  However, HMG believes that this can be achieved through self-regulation, and that transparency of traffic management policies employed by ISPs is the key driver for this.  There is no evidence to date of consumer harm caused by traffic management policies, as market forces have been effective in ensuring consumers have choice.  
+
+Regarding Quality of Service, specialised services are not prevalent in the UK market currently, although these are developing.  We have concerns with the current proposals, as whilst the type of traffic management described is technically feasible, as yet there are no agreed standards and we have concerns that the Commission are proposing to regulate in this area until there is an evidence of need or agreed technical standards.
+
+Information Requirements for Contracts (Chapter IV – Article  26)
+
+ The Consumer Rights Directive (CRD) currently seeks to provide clarity and consistency in terms of information to be provided to consumers and the available rights and remedies where the services are not satisfactory or problematic. 
+
+That Directive also requires that the trader sets out the main characteristics.  However, the proposed Regulation is prescriptive about what must be given. Further, the CRD is still being implemented so this raises the question of whether such a prescriptive approach is needed at this stage.
+
+As such, HMG fully supports the principle of consumers being enabled to make informed choices about goods and services and believes this is an indicator of a healthy and properly functioning market. However, HMG would seek to avoid onerous requirements being place on businesses and consumers being provided with information that is not relevant to their needs. 
+
+Control of Consumption (Anti-Bill Shock Measures) (Chapter IV – Article 27)
+
+ Following publication of its strategy paper, HMG has, at this stage, opted not to legislate to require telecommunications providers to reduce the instances and impact of bill shock on consumers. However, we are very keen to see industry do more to prevent this increasing harm. 
+
+Contract Termination (Chapter IV – Article 28)
+
+ The proposals are in line with the Unfair Terms in Consumer Contracts Directive (CRD) , but are more detailed in nature.  As such, the proposed text would effectively set out in legislation the principles of the CRD that binds the service provider to the quality of the services advertised.
+
+Whilst HMG supports the principle behind the proposal, it may be necessary to examine the interplay between the proposal and the CRD before full support can be given.
+
+Switching and Portability of Numbers (Chapter V – Article 30)
+
+ For the most part the proposals mirror existing mechanisms. However, Article 30 (4) of the proposed Regulation also proposes that “The receiving provider of electronic communications to the public shall lead the switching and porting process.” That is not how switching currently works universally in the UK, and particularly not so in the mobile sector.
+
+In its strategy paper, the Government set out its objectives to move to Gaining Provider Led (GPL – the same as the ‘receiving provider’ system referenced in the Regulation) processes for switching ‘across the board’, and to ensure consistent and effective experiences for consumers switching between bundles.  Further, Ofcom undertook a strategic review of switching and porting in September 2010. This was aimed at identifying the key issues and problems with switching processes across fixed and mobile telecommunications, broadband and the pay TV sector. That review concluded “in principle, GPL systems are preferable to losing providing-led (LPL) systems when no legacy systems are in place”. However, switching and porting of mobile networks numbers is heavily dependent on legacy systems.
+ 
+Therefore, HMG supports this proposal in principle but would seek to ensure that any changes do not disrupt our current plans for change nor introduce any further complexity or administrative burden.
+
+Market Analysis Procedures and Harmonisation (Chapter VI – Article 35)
+
+Regarding market analysis procedures, the Commission is proposing to change the scope of the current ‘Three Criteria test’ to include consideration of the global competitiveness of the EU economy.  However, this is currently not a policy or regulatory objective of the current Framework.  Nor is it a NRA duty to ascertain how the Three Criteria test is applied and would therefore represent a fundamental change of direction of the Framework. 
+
+HMG believes that, at the least, this proposal requires full discussion; though ideally it would be removed and the issue saved for the next review of the Framework as a whole.
+
+Amendments to Regulation (EU) No 531/2102 – the third EU Mobile Roaming Regulation (Chapter VI – Article 37)
+The government is concerned that the full effect and success of the recently agreed Roaming Regulation remains untested. While the unspecified benefits to the consumer of the new proposals will appeal to consumers and business users, such a quick return to further regulation is unpopular with industry and may introduce costly and unnecessary burdens and encourage an anti-competitive market environment. The Roaming III Regulation was negotiated as a ten-year Regulation.
+HMG has recently announced that it believes that roaming charges have no place in a true single market and our preference would be for an eventual phasing out of all roaming charges under the current Regulation and within that regulatory framework rather than adding to the current existing Regulation.  
+Amendments to Regulation (EC) No 1211/2209 - Establishing the Body of European Regulators for Electronic Communications (BEREC) and the Office (Chapter VI – Article 38)
+The case for changing the role of the Chair of BEREC to that proposed is based around the argument that BEREC should  drive greater harmonisation of market remedies and provide strategic direction that is perceived by the Commission to be lacking under the current system. 
+Ofcom has expressed some serious concerns that the change may endanger the way in which BEREC operates; that being independently and rooted in its member NRAs. It carries the risk BEREC may no longer be able to act independently of the Commission and may represent the first step towards a centralisation of BEREC’s functions to Brussels and the erosion of national regulators’ discretion. HMG shares these concerns.
+
+CONSULTATION
+This package was widely leaked to governments and stakeholders, with consultation of major stakeholders taking place to drive HMG’s initial reactions to the proposals.  It is intended that further consultation of stakeholders will take place as negotiations commence.
+
+IMPACT ASSESSMENT
+
+ A full Impact Assessment has yet to be conducted on this series of proposals. Based upon a study conducted by Ecorys et al in 2011 it is estimated that the measures could add between 0.52% and 0.89% to European GDP each year. This study embodies the difficulties of quantifying the efficiency and welfare gains resulting from enhanced competition and is heavily reliant upon assumptions made. 
+
+However, an initial market assessment was conducted as the proposals were first trailed by the Commission and this provides a useful foundation. It showed that there is some evidence that: the EU market is fragmented and involves smaller players; the market capitalisation of EU telecoms firms is lower than, for example, Verizon or AT&T in the US and China Mobile; and overall, revenue growth is weaker for EU telecoms companies, as are their operating margins.  
+
+There is a drive for more industry consolidation that underlying some of the proposals but it is not clear that greater consolidation is the right answer. Initial market analysis from Ofcom suggests that these market differences stem from lower competition and greater pricing-power of incumbents in the US, rather than scale effects.  Further, fierce retail competition in domestic markets across the EU tends to drive down prices, margins and revenues but it also improves the quality of services.
+
+Therefore, competition is already a clear strength of the EU market and does not appear to inhibit investment, with EU operators also investing similar shares of their revenue as non-EU counterparts. These measures are unlikely to radically alter the prospects of those MS that already embrace competition in broadband markets. However, the EU is comparatively slow to roll out next generation technologies, in which it genuinely lags behind the US and parts of Asia. This results partly from uncertainty over demand, complex technical problems on co-existence and interference within spectrum, and poor coordination of spectrum allocation across Member States.
+
+It is also worth remarking that much of the growth found by Ecorys, et al stemmed from developments such as e Health, e Learning and e Government which are subject to other factors than the suggested measures. It is also worth noting that the Commission’s internal mechanisms initially expressed some concerns with the Impact Assessment, although these were later withdrawn.
+
+It, therefore, remained unclear whether the likely gains from the proposals are greater than the likely costs and whether the proposals themselves will address the issues the associated Communication identifies.
+
+The Commission have produced an Impact Assessment, along with an Executive Summary of same and both these documents are covered by this EM. 
+
+
+FINANCIAL IMPLICATIONS
+
+The package itself has no direct financial implications for the UK.  However, changes to the role of Ofcom, UK’s NRA, may cause such implications to arise.
+
+TIMETABLE
+
+It is the stated ambition of the Commission for this package to be approved in time for the elections of the European Parliament ie end-May 2014. 
+
+It is anticipated that the October European Council (24th/25th October 2013) will discuss this package as part of a wider debate on the digital single market and it is expected that Council Conclusions will be agreed that contain an element covering this package and  negotiations at Working Group level to begin in November 2013.  A Progress Report may be considered at the Telecommunications Council (6th December 2013).  It is worth noting that the European Parliament has indicated severe concerns regarding the timing of this package and a mismatch with its parliamentary timetable with any plenary vote needing to take place by April 2014.
+
+
+
+
+[leave enough space for the Minister’s signature here]
+
+
+
+
+Ed Vaizey
+
+Minister for Culture, Communications and Creative Industries
+
+Department for Culture, Media and Sport
+

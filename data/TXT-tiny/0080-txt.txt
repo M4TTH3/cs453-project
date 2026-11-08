@@ -1,0 +1,108 @@
+COM(2013) 5761 final – 13566/13
+
+EXPLANATORY MEMORANDUM (EM) ON EUROPEAN UNION DOCUMENT
+
+COMMISSION RECOMMENDATION ON CONSISTENT NON-DISCRIMINATION OBLIGATIONS AND COSTING METHODOLOGIES TO PROMOTE COMPETITION AND ENHANCE THE BROADBAND INVESTMENT ENVIRONMENT 
+(‘THE RECOMMENDATION’)
+
+Submitted by Department for Culture, Media and Sport on 9th October 2013
+
+SUBJECT MATTER
+Aim of measure
+The Commission’s primary objective is to enhance the broadband investment environment across Europe, by ensuring regulatory stability and consistency for telecoms operators across all Member States (MSs) and to protect and promote competition. In order to achieve these objectives, the Recommendation aims to deliver on:
+Competition - through the application of tougher non-discrimination rules; and 
+Investment - by allowing for flexibility in the pricing of new wholesale next generation access (NGA) services, while ensuring stable wholesale copper access prices.
+This Recommendation applies only to the following markets:
+The market for wholesale network infrastructure access; and
+The wholesale broadband access market.
+It consists of four sets of measures covering: 
+Non-discrimination;
+Compliance monitoring of the non-discrimination obligation;
+Costing methodology; and 
+The non-imposition of regulated wholesale prices on NGA networks.
+Non-discrimination
+The Recommendation states that an effective level playing field between an incumbent operator with a position of Significant Market Power (SMP) and alternative operators is best achieved through the application of Equivalence of Inputs (EOI).  It requires national Regulatory Authorities (NRAs) to examine whether it would be proportionate to provide relevant wholesale inputs on this basis.
+We agree that EOI is the surest way to achieve effective protection for non-discrimination.  BT’s NGA product (Virtual Unbundled Local Access - VULA) is already subject to the obligation of EOI and, as a result, the current UK regulatory framework already produces  outcomes that are consistent with the Recommendation.
+Compliance monitoring of the non-discrimination obligation
+The Recommendation states that compliance with the non-discrimination obligation is to be assured through the use of Key Performance Indicators (KPIs) agreed between incumbent (SMP) operators and alternative access seekers. These KPIs should be fostered by the NRA  if necessary. They should also be supplemented by Service Level Agreements (SLAs) and Service Level Guarantees (SLGs).
+Costing methodology
+The Recommendation provides guidance on the costing methods that NRAs should adopt when modelling the costs of wholesale NGA and copper access products providing detailed guidance on the following important elements:
+How to calculate the costs of an NGA network; 
+How to value re-usable civil engineering assets, such as ducts;  and
+How calculate the costs of wholesale copper access services.
+The Recommendation anticipates that application of the proposed costing methods will lead to stable copper access prices within a band between €8 and €10 (net of all taxes) expressed in 2012 prices.  
+Overall, we share the aim of achieving stable copper prices during a period of technological change. Like the Commission, we see an environment of relatively stable copper prices as likely to be conducive to efficient investment in NGA and to provide a safeguard to access seekers and ultimately consumers. We also agree with the Commission that copper networks will be replaced by fibre (NGA) networks and from a UK perspective an FTTC network is the network topology being implemented by BT. 
+The non-imposition of regulated wholesale prices on NGA networks (i.e. fibre networks)
+The Recommendation provides guidance on the conditions which need to be satisfied before NRAs can lift (or decide not to impose) strict wholesale pricing obligations on new NGA services. Regulators should decide not to impose, or to remove, pricing obligations on NGA wholesale inputs only when these inputs are subject to the EOI obligation and significant competitive constraints. 
+The current UK regulatory framework already results in an outcome which is consistent with the Commission’s recommended approach - BT’s NGA product (VULA) is subject to the obligation of EOI, but not any pricing obligations.
+We agree with the Commission that (wholesale) pricing flexibility has an important role to play in investment in new technology, as it enables operators to trial different pricing arrangements in the early (uncertain) period of such investments.  However the Recommendation goes further and stresses that such pricing flexibility is particularly important when, in addition to the competitive constraints, SMP operators have also implemented EOI effectively. While we recognise the strength of this argument, pricing and non-discrimination obligations affect the market in different ways and therefore are not necessarily substitutable. However, the text of the Recommendation is sufficiently flexible that, should competitive safeguards fail to constrain the wholesale price of new NGA services, NRAs could still consider the imposition of pricing obligations even where EOI was in place
+SCRUTINY HISTORY
+This is a new Recommendation and so there is no prior scrutiny history.
+However, the Recommendation is adopted as part of a wider package which includes the Proposal for a Regulation laying down measures concerning the European single market for electronic communications and to achieve a Connected Continent, COM (2013) 627 final – 13555/13, which has just been tabled for consideration by the European Council and Parliament.  An Explanatory Memorandum for this proposed regulation is to be submitted on 10 October 2013.
+MINISTERIAL RESPONSIBILITY 
+The Secretary of State for Culture, Media and Sport has primary responsibility for the proposal.  In addition, the Secretary of State for Business, Innovation and Skills has an interest as a European single market measure.
+
+
+INTEREST OF THE DEVOLVED ADMINISTRATIONS
+Matters relating to the European single market and telecommunications are a reserved matter. However, the Devolved Administrations have been informed of the content of the Recommendation.
+LEGAL AND PROCEDURAL ISSUES
+
+Legal basis
+Article 19(1) of Directive 2002/21/EC of the European Parliament and of the Council of 7 March 2002 on a common regulatory framework for electronic communications networks and services (Framework Directive). The Framework Directive was made under Article 95 TEC (now Article 114 TFEU).
+European Parliament procedure
+Not applicable.
+Voting procedure
+Not applicable.
+Impact on UK law
+None.
+Application to Gibraltar
+Applies to Gibraltar
+Fundamental rights analysis
+There are no fundamental rights issues
+APPLICATION TO THE EUROPEAN ECONOMIC AREA
+The proposed Recommendation will be applicable in the EEA.
+SUBSIDIARITY
+N/A - Commission Recommendations are not binding and many of the proposals are already implemented in the current UK regulatory framework.
+CONSULTATION
+The Recommendation was widely discussed and considered during 2012 and 2013.  Ofcom responded to an initial Commission consultation in October 2011 (through BEREC) and BEREC provided a formal Opinion on the draft Recommendation at the end of March 2013.
+IMPACT ASSESSMENT
+N/A - Commission Recommendations are only to be ‘taken utmost account of’.   As many of the specific recommendations are already consistent with the way that Ofcom approaches issues of costing and non-discrimination in the UK, we do not think that this Recommendation would lead to the imposition of costs on business in the UK.  
+FINANCIAL IMPLICATIONS
+As many of the proposals are already consistent with the approach of the UK NRA Ofcom, there is not expected to be any financial impact on the UK government. 
+ TIMETABLE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Recommendation was adopted at the July COCOM meeting.  It will not be considered by the Council.  
+
+
+
+
+
+
+
+Ed Vaizey
+
+Minister for Culture, Communications and Creative Industries
+
+Department for Culture, Media and Sport
