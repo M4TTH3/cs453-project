@@ -2,11 +2,30 @@
 name = "cs453-entropy"
 version = "0.1.0"
 description = "Detecting ransomware through file entropy"
-requires-python = ">=3.12"
+requires-python = ">=3.14"
 dependencies = [
+    "cryptography>=50.0.2",
+    "loguru>=0.7.3",
     "numpy>=2.0",
     "py7zr>=0.21",
 ]
 
-[tool.uv]
-package = false
+[dependency-groups]
+dev = ["ruff>=0.8"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/cs453_entropy"]
+
+[tool.ruff]
+line-length = 100
+src = ["src"]
+
+[tool.pyright]
+venvPath = "."
+venv = ".venv"
+pythonVersion = "3.14"
+extraPaths = ["src"]

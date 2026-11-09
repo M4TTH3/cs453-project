@@ -1,11 +1,10 @@
 compose := "docker compose -f docker/compose.yaml"
 
+export UID := `id -u`
+export GID := `id -g`
+
 default:
     @just --list
-
-# build the testing image
-build:
-    {{compose}} build
 
 # start the container and sync python deps
 up:
@@ -20,6 +19,11 @@ down:
 # interactive shell in the running container
 shell:
     {{compose}} exec dev bash
+
+# format and lint-fix with ruff
+fmt:
+    {{compose}} exec dev ruff format .
+    {{compose}} exec dev ruff check --fix .
 
 # run a command inside the container; quote the whole thing
 # e.g. just run 'python3 -c "import numpy; print(numpy.__version__)"'

@@ -5,6 +5,8 @@ services:
     build: .
     image: cs453-entropy
     container_name: cs453-entropy
+    # run as the host user so .venv and outputs aren't root-owned
+    user: "${UID:-1000}:${GID:-1000}"
     # paths are relative to this file, so ../ is the repo root
     volumes:
       - ../:/work

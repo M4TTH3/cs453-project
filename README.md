@@ -9,6 +9,18 @@ Members:
 - Alex Serban
 - Daniel Cao
 
+## Setup
+
+I recommend installing `just`
+
+```bash
+just up # starts the docker container
+just down # stops the docker container
+just shell # enter the container
+```
+
+Once you run just up, the .venv should be in the project root to use as the python env
+
 ## Dataset
 
 The corpus under `data/` is drawn from **NapierOne**, a mixed-file dataset built by the School of Computing at Edinburgh Napier University in 2021.
