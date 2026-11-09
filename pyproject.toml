@@ -1,0 +1,12 @@
+[project]
+name = "cs453-entropy"
+version = "0.1.0"
+description = "Detecting ransomware through file entropy"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.0",
+    "py7zr>=0.21",
+]
+
+[tool.uv]
+package = false

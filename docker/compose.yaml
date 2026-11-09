@@ -1,0 +1,12 @@
+name: cs453
+
+services:
+  dev:
+    build: .
+    image: cs453-entropy
+    container_name: cs453-entropy
+    # paths are relative to this file, so ../ is the repo root
+    volumes:
+      - ../:/work
+    working_dir: /work
+    command: sleep infinity
