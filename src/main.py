@@ -8,7 +8,7 @@ from exception import FileNotInDataError, NotInDockerError
 from encrypt import Encrypter
 from simulation import Detector, FileMutator, Simulator
 from detectors import WriteBurstDetector
-from file_mutator import ReadOnlyMutator, ReverseMutator
+from file_mutator import NoMutation, ReadOnlyMutator, ReverseMutator
 
 
 def parse_args() -> argparse.Namespace:
@@ -48,6 +48,7 @@ def main():
     simulations: list[tuple[Detector, FileMutator]] = [
         (WriteBurstDetector(), ReverseMutator()),
         (WriteBurstDetector(), ReadOnlyMutator()),
+        (WriteBurstDetector(), NoMutation()),
     ]
 
     simulator = Simulator(args.data_dir)

@@ -60,3 +60,10 @@ class ReadOnlyMutator(FileMutator):
 
             log(f"read {fp}")
             await asyncio.sleep(0)
+
+
+class NoMutation(FileMutator):
+    "Does nothing, so the detector only sees the unmodified data"
+
+    async def start(self, syscall: SysCall, safe_path: Path, log: Log) -> None:
+        log("no mutation")
