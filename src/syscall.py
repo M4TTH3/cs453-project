@@ -9,7 +9,7 @@ from enum import StrEnum
 from pathlib import Path
 
 from loguru import logger
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 
 
 class Op(StrEnum):
@@ -43,6 +43,9 @@ class TraceEvent(BaseModel):
     error: str | None = None
     extra: Extra = {}
 
+    "Bytes written, kept in memory only. Not part of the dump or the JSON"
+    data: bytes | None = Field(default=None, exclude=True, repr=False)
+
 
 class SysCall:
     "Traced file operations. Uses raw fds so each call maps to one syscall"
@@ -52,11 +55,20 @@ class SysCall:
     pid: int | None
     log: bool
 
+    "Keep the bytes of each write on its event"
+    capture: bool
+
     __paths: dict[int, Path]
 
-    def __init__(self, pid: int | None = None, log: bool = False) -> None:
+    def __init__(
+        self,
+        pid: int | None = None,
+        log: bool = False,
+        capture: bool = True,
+    ) -> None:
         "pid is stamped on every event, defaults to os.getpid()"
         self.pid = pid
+        self.capture = capture
         self.events = []
         self.listeners = []
         self.log = log
@@ -110,7 +122,14 @@ class SysCall:
         except OSError as exc:
             self.__fail(Op.WRITE, exc, fd=fd, path=self.__path(fd))
             raise
-        self.__record(Op.WRITE, fd=fd, path=self.__path(fd), nbytes=written, offset=offset)
+        self.__record(
+            Op.WRITE,
+            fd=fd,
+            path=self.__path(fd),
+            nbytes=written,
+            offset=offset,
+            data=self.__captured(data, written),
+        )
         return written
 
     def seek(self, fd: int, offset: int, whence: int = os.SEEK_SET) -> int:
@@ -169,6 +188,7 @@ class SysCall:
         ok: bool = True,
         error: str | None = None,
         extra: Extra | None = None,
+        data: bytes | None = None,
     ) -> TraceEvent:
         event = TraceEvent(
             seq=len(self.events),
@@ -182,6 +202,7 @@ class SysCall:
             ok=ok,
             error=error,
             extra=extra or {},
+            data=data,
         )
         self.events.append(event)
         if self.log:
@@ -201,6 +222,13 @@ class SysCall:
     ) -> None:
         error = f"{type(exc).__name__}: {exc}"
         self.__record(op, path=path, fd=fd, ok=False, error=error, extra=extra)
+
+    def __captured(self, data: bytes, written: int) -> bytes | None:
+        "The part of data to keep on the event"
+        if not self.capture:
+            return None
+
+        return data if written == len(data) else data[:written]
 
     def __path(self, fd: int) -> str | None:
         p = self.__paths.get(fd)
