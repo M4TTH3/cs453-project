@@ -2,6 +2,9 @@ FROM ubuntu:24.04
 
 ENV DEBIAN_FRONTEND=noninteractive
 
+# main.py exits unless this is true
+ENV DOCKER_ENV=true
+
 # 7z + unzip for the NapierOne archives; python itself comes from uv
 RUN apt-get update && apt-get install -y --no-install-recommends \
         p7zip-full \

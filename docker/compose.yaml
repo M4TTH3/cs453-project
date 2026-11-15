@@ -10,5 +10,7 @@ services:
     # paths are relative to this file, so ../ is the repo root
     volumes:
       - ../:/work
+      # run logs, gitignored
+      - ../results:/results
     working_dir: /work
     command: sleep infinity

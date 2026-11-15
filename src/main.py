@@ -1,18 +1,24 @@
 import argparse
+import asyncio
+import os
 from pathlib import Path
 from loguru import logger
 
-from exception import FileNotInDataError
+from exception import FileNotInDataError, NotInDockerError
 from encrypt import Encrypter
+from simulation import Detector, FileMutator, Simulator
+from detectors import WriteBurstDetector
+from file_mutator import ReadOnlyMutator, ReverseMutator
 
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(prog="detector", description="Entropy detector and utilities")
-    subparsers = parser.add_subparsers(dest="command", required=True)
-
-    key_gen = subparsers.add_parser("key-gen", help="Generate an encryption key and save it")
-    key_gen.add_argument("fp", type=Path, help="Path to write the key to")
-    key_gen.add_argument("-f", "--force", action="store_true", help="Overwrite the key file")
+    parser.add_argument(
+        "--data-dir", type=Path, default=Path("data/"), help="Directory to run simulations on"
+    )
+    parser.add_argument(
+        "--results-dir", type=Path, default=Path("results/"), help="Directory to save run logs to"
+    )
 
     return parser.parse_args()
 
@@ -23,36 +29,29 @@ def allowed_files(data_dir: Path) -> set[Path]:
 
     return {p for p in data_dir.rglob("*") if p.is_file()}
 
-
-def key_gen(fp: Path, force: bool):
-    if fp.exists() and not force:
-        raise FileExistsError(f"{fp} already exists, pass --force to overwrite it")
-
-    # Create dir
-    fp.parent.mkdir(parents=True, exist_ok=True)
-
-    # Generate key
-    key = Encrypter.generate_key()
-    Encrypter.save_key(fp, key)
-    logger.info(f"Saved key to {fp}")
+async def run_simulations(
+    simulator: Simulator, simulations: list[tuple[Detector, FileMutator]], results_dir: Path
+) -> None:
+    for detector, mutator in simulations:
+        name = f"{type(detector).__name__}-with-{type(mutator).__name__}"
+        result = await simulator.run(detector, mutator, log_path=results_dir / f"{name}.log")
+        logger.info(f"{name}: {result}")
 
 
 @logger.catch(reraise=True)
 def main():
+    if os.environ.get("DOCKER_ENV") != "true":
+        raise NotInDockerError()
+
     args = parse_args()
 
-    # data_dir = Path("data/")
-    # allowed = allowed_files(data_dir)
+    simulations: list[tuple[Detector, FileMutator]] = [
+        (WriteBurstDetector(), ReverseMutator()),
+        (WriteBurstDetector(), ReadOnlyMutator()),
+    ]
 
-    # e_opts = Encrypter.Options(every_kb=None, allowed=allowed)
-    # key = Encrypter.generate_key()
-    # encrypter = Encrypter(key, e_opts)
-
-    # print(encrypter.key)
-
-    match args.command:
-        case "key-gen":
-            key_gen(args.fp, args.force)
+    simulator = Simulator(args.data_dir)
+    asyncio.run(run_simulations(simulator, simulations, args.results_dir))
 
 
 if __name__ == "__main__":
