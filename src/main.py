@@ -5,9 +5,15 @@ from pathlib import Path
 
 from loguru import logger
 
-from detectors import WriteBurstDetector
+from detectors import FineTunedHoneyPotDetector, HoneyPotDetector, WriteBurstDetector
 from exception import FileNotInDataError, NotInDockerError
-from file_mutator import NoMutation, ReadOnlyMutator, ReverseMutator
+from file_mutator import (
+    BasicSymmetricEncryptionOverwrite,
+    NoMutation,
+    PypdfReaderMutator,
+    ReadOnlyMutator,
+    ReverseMutator,
+)
 from simulation import Detector, FileMutator, Simulator
 
 
@@ -50,6 +56,10 @@ def main():
         (WriteBurstDetector(), ReverseMutator()),
         (WriteBurstDetector(), ReadOnlyMutator()),
         (WriteBurstDetector(), NoMutation()),
+        (HoneyPotDetector(), PypdfReaderMutator()),
+        (HoneyPotDetector(), BasicSymmetricEncryptionOverwrite()),
+        (FineTunedHoneyPotDetector(), PypdfReaderMutator()),
+        (FineTunedHoneyPotDetector(), BasicSymmetricEncryptionOverwrite()),
     ]
 
     simulator = Simulator(args.data_dir)

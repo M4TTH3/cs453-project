@@ -55,24 +55,17 @@ class WriteBurstDetector(Detector):
 
 class HoneyPotDetector(Detector):
     """
-    Plants a decoy PDF in safe_path and detects the first operation on it.
-
-    Only modifying operations count by default so benign readers are not flagged. With
-    include_reads any read counts too.
+    Plants a decoy PDF in safe_path and detects the first write, truncate, unlink or rename
+    of it. Reads never count, so benign readers are not flagged.
     """
 
     MUTATING_OPS: ClassVar[frozenset[Op]] = frozenset({Op.WRITE, Op.TRUNCATE, Op.UNLINK, Op.RENAME})
 
     NAME: ClassVar[str] = "winnie_the_pooh.pdf"
 
-    ops: frozenset[Op]
-
     "Paths being watched, one for now"
     honeypots: set[str]
     hit: asyncio.Future[TraceEvent]
-
-    def __init__(self, include_reads: bool = False) -> None:
-        self.ops = (self.MUTATING_OPS | {Op.READ}) if include_reads else self.MUTATING_OPS
 
     def setup(self, syscall: SysCall, safe_path: Path, log: Log) -> None:
         self.hit = asyncio.get_running_loop().create_future()
@@ -83,11 +76,11 @@ class HoneyPotDetector(Detector):
         fp.write_bytes(minimal_pdf("Winnie the Pooh"))
         self.honeypots.add(str(fp))
 
-        watched = ", ".join(sorted(self.ops))
+        watched = ", ".join(sorted(self.MUTATING_OPS))
         log(f"planted honeypot {fp}, watching {watched}")
 
     def on_event(self, event: TraceEvent) -> None:
-        if event.op in self.ops and event.path in self.honeypots and not self.hit.done():
+        if event.op in self.MUTATING_OPS and event.path in self.honeypots and not self.hit.done():
             self.hit.set_result(event)
 
     async def start(self, syscall: SysCall, safe_path: Path, log: Log) -> Result:
@@ -112,9 +105,6 @@ class FineTunedHoneyPotDetector(HoneyPotDetector):
     dead_zone: range
     log: Log
 
-    def __init__(self) -> None:
-        super().__init__(include_reads=False)
-
     def setup(self, syscall: SysCall, safe_path: Path, log: Log) -> None:
         self.hit = asyncio.get_running_loop().create_future()
         self.log = log
@@ -131,7 +121,7 @@ class FineTunedHoneyPotDetector(HoneyPotDetector):
         if event.path not in self.honeypots or self.hit.done():
             return
 
-        if event.op in self.ops:
+        if event.op in self.MUTATING_OPS:
             self.hit.set_result(event)
         elif event.op == Op.READ and self.__in_dead_zone(event):
             self.log(f"read {event.nbytes} bytes at {event.offset} touched the dead zone")
