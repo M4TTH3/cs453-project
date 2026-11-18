@@ -108,6 +108,9 @@ class BasicSymmetricEncryptionOverwrite(FileMutator):
             await asyncio.sleep(0)
 
 
+# The following three simulations are motivated by Zhao et al., "ERW-Radar" (NDSS 2025),
+# which discusses process splitting, partial encryption, and low-entropy padding.
+# https://www.ndss-symposium.org/wp-content/uploads/2025-349-paper.pdf
 class SplitProcessEncryption(FileMutator):
     "Encrypts all files, but one simulated process only reads and another only writes"
 
