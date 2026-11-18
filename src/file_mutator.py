@@ -4,8 +4,10 @@ file_mutator.py provides FileMutator implementations, all file work goes through
 
 import asyncio
 import os
+import random
 from pathlib import Path
 
+from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes
 from cryptography.hazmat.primitives.ciphers.aead import AESGCM
 from pypdf import PdfReader
 
@@ -103,6 +105,96 @@ class BasicSymmetricEncryptionOverwrite(FileMutator):
                 syscall.close(fd)
 
             log(f"read and encrypted {fp}")
+            await asyncio.sleep(0)
+
+
+class SplitProcessEncryption(FileMutator):
+    "Encrypts all files, but one simulated process only reads and another only writes"
+
+    def __init__(self):
+        self.key = AESGCM.generate_key(bit_length=256)
+
+    async def start(self, syscall: SysCall, safe_path: Path, log: Log) -> None:
+        reader_pid, writer_pid = random.sample(range(2, 2**22), 2)
+        reader = syscall.as_pid(reader_pid)
+        writer = syscall.as_pid(writer_pid)
+
+        for fp in files_in(safe_path):
+            fd = reader.open(fp, os.O_RDONLY)
+            try:
+                data = read_all(reader, fd)
+            finally:
+                reader.close(fd)
+
+            nonce = os.urandom(12)
+            out = nonce + AESGCM(self.key).encrypt(nonce, data, None)
+
+            fd = writer.open(fp, os.O_WRONLY)
+            try:
+                writer.truncate(fd, 0)
+                write_all(writer, fd, out)
+            finally:
+                writer.close(fd)
+
+            log(f"pid {reader_pid} read, pid {writer_pid} encrypted {fp}")
+            await asyncio.sleep(0)
+
+
+class PartialEncryption(FileMutator):
+    "Encrypts only the first `ratio` of each file in place. The rest is never read or written"
+
+    def __init__(self, ratio: float = 0.5):
+        self.ratio = ratio
+        self.key = os.urandom(32)
+
+    async def start(self, syscall: SysCall, safe_path: Path, log: Log) -> None:
+        for fp in files_in(safe_path):
+            n = int(fp.stat().st_size * self.ratio)
+
+            fd = syscall.open(fp, os.O_RDWR)
+            try:
+                head = b""
+                while len(head) < n and (chunk := syscall.read(fd, min(CHUNK, n - len(head)))):
+                    head += chunk
+
+                # CTR keeps the length, so the ciphertext fits back in place
+                cipher = Cipher(algorithms.AES(self.key), modes.CTR(os.urandom(16)))
+                out = cipher.encryptor().update(head)
+
+                syscall.seek(fd, 0)
+                write_all(syscall, fd, out)
+            finally:
+                syscall.close(fd)
+
+            log(f"encrypted first {n} bytes of {fp}")
+            await asyncio.sleep(0)
+
+
+class PaddedEncryption(FileMutator):
+    "Encrypts all files, with `pad` zero bytes after every ciphertext byte to lower entropy"
+
+    def __init__(self, pad: int = 2):
+        self.pad = pad
+        self.key = AESGCM.generate_key(bit_length=256)
+
+    async def start(self, syscall: SysCall, safe_path: Path, log: Log) -> None:
+        for fp in files_in(safe_path):
+            fd = syscall.open(fp, os.O_RDWR)
+            try:
+                data = read_all(syscall, fd)
+                nonce = os.urandom(12)
+                ct = nonce + AESGCM(self.key).encrypt(nonce, data, None)
+
+                padded = bytearray(len(ct) * (self.pad + 1))
+                padded[:: self.pad + 1] = ct
+
+                syscall.seek(fd, 0)
+                syscall.truncate(fd, 0)
+                write_all(syscall, fd, bytes(padded))
+            finally:
+                syscall.close(fd)
+
+            log(f"encrypted and padded {fp}")
             await asyncio.sleep(0)
 
 

@@ -78,6 +78,13 @@ class SysCall:
         "Call fn for every new event"
         self.listeners.append(fn)
 
+    def as_pid(self, pid: int) -> SysCall:
+        """Return a handle that records events in the same trace under a simulated PID."""
+        other = SysCall(pid=pid, log=self.log, capture=self.capture)
+        other.events = self.events
+        other.listeners = self.listeners
+        return other
+
     def clear(self) -> None:
         self.events.clear()
 

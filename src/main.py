@@ -5,15 +5,8 @@ from pathlib import Path
 
 from loguru import logger
 
-from detectors import FineTunedHoneyPotDetector, HoneyPotDetector, WriteBurstDetector
 from exception import FileNotInDataError, NotInDockerError
-from file_mutator import (
-    BasicSymmetricEncryptionOverwrite,
-    NoMutation,
-    PypdfReaderMutator,
-    ReadOnlyMutator,
-    ReverseMutator,
-)
+from scenarios import SCENARIOS, default_simulations
 from simulation import Detector, FileMutator, Simulator
 
 
@@ -24,6 +17,11 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--results-dir", type=Path, default=Path("results/"), help="Directory to save run logs to"
+    )
+    parser.add_argument(
+        "--detector",
+        choices=[detector.__name__ for detector in SCENARIOS],
+        help="Run only the scenarios configured for this detector",
     )
 
     return parser.parse_args()
@@ -52,17 +50,8 @@ def main():
 
     args = parse_args()
 
-    simulations: list[tuple[Detector, FileMutator]] = [
-        (WriteBurstDetector(), ReverseMutator()),
-        (WriteBurstDetector(), ReadOnlyMutator()),
-        (WriteBurstDetector(), NoMutation()),
-        (HoneyPotDetector(), PypdfReaderMutator()),
-        (HoneyPotDetector(), BasicSymmetricEncryptionOverwrite()),
-        (FineTunedHoneyPotDetector(), PypdfReaderMutator()),
-        (FineTunedHoneyPotDetector(), BasicSymmetricEncryptionOverwrite()),
-    ]
-
     simulator = Simulator(args.data_dir)
+    simulations = default_simulations(args.detector)
     asyncio.run(run_simulations(simulator, simulations, args.results_dir))
 
 
