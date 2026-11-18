@@ -43,7 +43,7 @@ class TraceEvent(BaseModel):
     error: str | None = None
     extra: Extra = {}
 
-    "Bytes written, kept in memory only. Not part of the dump or the JSON"
+    "Bytes transferred by a read or write, kept in memory only"
     data: bytes | None = Field(default=None, exclude=True, repr=False)
 
 
@@ -55,7 +55,7 @@ class SysCall:
     pid: int | None
     log: bool
 
-    "Keep the bytes of each write on its event"
+    "Keep the bytes transferred by each read or write on its event"
     capture: bool
 
     __paths: dict[int, Path]
@@ -111,7 +111,14 @@ class SysCall:
         except OSError as exc:
             self.__fail(Op.READ, exc, fd=fd, path=self.__path(fd))
             raise
-        self.__record(Op.READ, fd=fd, path=self.__path(fd), nbytes=len(data), offset=offset)
+        self.__record(
+            Op.READ,
+            fd=fd,
+            path=self.__path(fd),
+            nbytes=len(data),
+            offset=offset,
+            data=data if self.capture else None,
+        )
         return data
 
     def write(self, fd: int, data: bytes) -> int:
