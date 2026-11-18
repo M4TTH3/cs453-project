@@ -3,23 +3,22 @@ ransomware.py provides ransomware stuff
 """
 
 import io
-
-from cryptography.fernet import Fernet
 from pathlib import Path
 
-from loguru import logger
-
-from exception import FileNotInDataError
+from cryptography.fernet import Fernet
 from pydantic import BaseModel
 
+from exception import FileNotInDataError
 
 """
 Encryption utility for test data to test our entropy detector
 """
-class Encrypter:
 
+
+class Encrypter:
     class Options(BaseModel):
         "Encrypt every other {every_kb} block in the file"
+
         every_kb: int | None
 
         "Allowed paths"
@@ -52,7 +51,7 @@ class Encrypter:
         """
         if fp not in self.options.allowed:
             raise FileNotInDataError()
-        
+
         if fp.is_dir():
             for p in fp.iterdir():
                 self.encrypt(p)
@@ -63,7 +62,7 @@ class Encrypter:
             with open(fp, "rb") as f:
                 counter = 0
                 while True:
-                    if (tmp := f.read(self.options.every_kb)):
+                    if tmp := f.read(self.options.every_kb):
                         enc_chunk = self.fernet.encrypt(tmp)
                         data.write(enc_chunk if counter % 2 == 0 else tmp)
                     else:
@@ -95,7 +94,7 @@ class Encrypter:
             with open(fp, "rb") as f:
                 counter = 0
                 while True:
-                    if (tmp := f.read(self.options.every_kb)):
+                    if tmp := f.read(self.options.every_kb):
                         enc_chunk = self.fernet.decrypt(tmp)
                         data.write(enc_chunk if counter % 2 == 0 else tmp)
                     else:

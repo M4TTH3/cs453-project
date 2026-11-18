@@ -2,13 +2,13 @@ import argparse
 import asyncio
 import os
 from pathlib import Path
+
 from loguru import logger
 
-from exception import FileNotInDataError, NotInDockerError
-from encrypt import Encrypter
-from simulation import Detector, FileMutator, Simulator
 from detectors import WriteBurstDetector
+from exception import FileNotInDataError, NotInDockerError
 from file_mutator import NoMutation, ReadOnlyMutator, ReverseMutator
+from simulation import Detector, FileMutator, Simulator
 
 
 def parse_args() -> argparse.Namespace:
@@ -28,6 +28,7 @@ def allowed_files(data_dir: Path) -> set[Path]:
         raise FileNotInDataError()
 
     return {p for p in data_dir.rglob("*") if p.is_file()}
+
 
 async def run_simulations(
     simulator: Simulator, simulations: list[tuple[Detector, FileMutator]], results_dir: Path

@@ -6,6 +6,8 @@ import asyncio
 import os
 from pathlib import Path
 
+from cryptography.hazmat.primitives.ciphers.aead import AESGCM
+
 from simulation import FileMutator, Log
 from syscall import SysCall
 
@@ -59,6 +61,30 @@ class ReadOnlyMutator(FileMutator):
                 syscall.close(fd)
 
             log(f"read {fp}")
+            await asyncio.sleep(0)
+
+
+class BasicSymmetricEncryptionOverwrite(FileMutator):
+    "Encrypts all files with a symmetric algorithm"
+
+    def __init__(self):
+        self.key = AESGCM.generate_key(bit_length=256)
+
+    async def start(self, syscall: SysCall, safe_path: Path, log: Log) -> None:
+        for fp in files_in(safe_path):
+            fd = syscall.open(fp, os.O_RDONLY)
+            try:
+                data = read_all(syscall, fd)
+                syscall.seek(fd, 0)
+                syscall.truncate(fd, 0)
+
+                nonce = os.urandom(12)
+                out = nonce + AESGCM(self.key).encrypt(nonce, data, None)
+                syscall.write(fd, out)
+            finally:
+                syscall.close(fd)
+
+            log(f"read and encrypted {fp}")
             await asyncio.sleep(0)
 
 

@@ -12,7 +12,7 @@ from pathlib import Path
 
 from pydantic import BaseModel
 
-from syscall import SysCall
+from syscall import SysCall, TraceEvent
 
 
 class Result(BaseModel):
@@ -32,7 +32,7 @@ class RunLog:
     def __init__(self) -> None:
         self.lines = []
 
-    def bind(self, name: str) -> "Log":
+    def bind(self, name: str) -> Log:
         "Log that prefixes its lines with `name: `"
         return Log(self, name)
 
@@ -42,7 +42,7 @@ class RunLog:
 
 
 class Log:
-    "log(\"msg\") appends `name: msg` to the run log"
+    'log("msg") appends `name: msg` to the run log'
 
     __run: RunLog
     __name: str
@@ -58,13 +58,27 @@ class Log:
 class Detector(ABC):
     "Decides if file activity is an attack. Returns once it has a verdict"
 
+    def setup(self, syscall: SysCall, safe_path: Path, log: Log) -> None:
+        """
+        Runs once before the detector or mutator start, so before any task is created.
+        Does nothing by default.
+        """
+
+    def on_event(self, event: TraceEvent) -> None:
+        """
+        Called synchronously for every syscall as it happens, starting before the mutator
+        runs, so no event is missed even with finish_mutator_first. Keep it quick and set
+        state for start() to act on. Does nothing by default.
+        """
+
     @abstractmethod
     async def start(self, syscall: SysCall, safe_path: Path, log: Log) -> Result:
         """
-        Can subscribe to syscall, poll safe_path, etc.
+        Waits for a verdict, using state built up in setup() and on_event(), or polls
+        safe_path, etc.
 
-        With finish_mutator_first the mutator is already done, so syscall.events has the
-        full trace and safe_path the final state.
+        With finish_mutator_first the mutator is already done, so on_event has seen the
+        full trace and safe_path is the final state.
         """
 
 
@@ -114,7 +128,11 @@ class Simulator:
                 sim_log(f"safe_path={safe_path} pid={syscall.pid} grace={self.grace}")
                 sim_log(f"finish_mutator_first={finish_mutator_first}")
 
-                det_coro = detector.start(syscall, safe_path, runlog.bind("detector"))
+                det_log = runlog.bind("detector")
+                detector.setup(syscall, safe_path, det_log)
+                syscall.subscribe(detector.on_event)
+
+                det_coro = detector.start(syscall, safe_path, det_log)
                 mut_coro = mutator.start(syscall, safe_path, runlog.bind("mutator"))
                 start = time.perf_counter()
 
@@ -162,7 +180,7 @@ class Simulator:
             det.cancel()
             await asyncio.gather(det, return_exceptions=True)
 
-    async def __verdict(self, det: "asyncio.Task[Result]", start: float) -> Result:
+    async def __verdict(self, det: asyncio.Task[Result], start: float) -> Result:
         "Detector Result, or not detected after `grace` seconds"
         try:
             return await asyncio.wait_for(det, self.grace)
