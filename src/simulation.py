@@ -59,23 +59,15 @@ class Detector(ABC):
     "Decides if file activity is an attack. Returns once it has a verdict"
 
     def setup(self, syscall: SysCall, safe_path: Path, log: Log) -> None:
-        """
-        Runs once before the detector or mutator start, so before any task is created.
-        Does nothing by default.
-        """
+        "Runs once before the mutator and detector start. Does nothing by default"
 
     def on_event(self, event: TraceEvent) -> None:
-        """
-        Called synchronously for every syscall as it happens, starting before the mutator
-        runs, so no event is missed even with finish_mutator_first. Keep it quick and set
-        state for start() to act on. Does nothing by default.
-        """
+        "Called for every syscall as it happens. Does nothing by default"
 
     @abstractmethod
     async def start(self, syscall: SysCall, safe_path: Path, log: Log) -> Result:
         """
-        Waits for a verdict, using state built up in setup() and on_event(), or polls
-        safe_path, etc.
+        Can wait on state set by on_event, poll safe_path, etc.
 
         With finish_mutator_first the mutator is already done, so on_event has seen the
         full trace and safe_path is the final state.

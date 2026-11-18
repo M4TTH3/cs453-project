@@ -8,6 +8,7 @@ from collections import deque
 from pathlib import Path
 from typing import ClassVar
 
+from pdf import dead_zone_pdf, minimal_pdf
 from simulation import Detector, Log, Result
 from syscall import Op, SysCall, TraceEvent
 
@@ -52,46 +53,17 @@ class WriteBurstDetector(Detector):
         )
 
 
-def minimal_pdf(text: str) -> bytes:
-    "A valid one page PDF showing `text`. Built by hand, no PDF library needed"
-    stream = f"BT /F1 24 Tf 72 720 Td ({text}) Tj ET".encode()
-    objects = [
-        b"<< /Type /Catalog /Pages 2 0 R >>",
-        b"<< /Type /Pages /Kids [3 0 R] /Count 1 >>",
-        b"<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R",
-        b" /Resources << /Font << /F1 5 0 R >> >> >>",
-        b"<< /Length %d >>\nstream\n%s\nendstream" % (len(stream), stream),
-        b"<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>",
-    ]
-
-    out = b"%PDF-1.4\n"
-    offsets: list[int] = []
-    for num, body in enumerate(objects, start=1):
-        offsets.append(len(out))
-        out += b"%d 0 obj\n%s\nendobj\n" % (num, body)
-
-    # The xref table lists the byte offset of every object
-    xref = len(out)
-    out += b"xref\n0 %d\n0000000000 65535 f \n" % (len(objects) + 1)
-    out += b"".join(b"%010d 00000 n \n" % off for off in offsets)
-    out += b"trailer\n<< /Size %d /Root 1 0 R >>\nstartxref\n%d\n%%%%EOF\n" % (
-        len(objects) + 1,
-        xref,
-    )
-    return out
-
-
 class HoneyPotDetector(Detector):
     """
-    Plants a decoy PDF in safe_path that nothing legitimate touches and detects the first
-    operation on it.
+    Plants a decoy PDF in safe_path and detects the first operation on it.
 
-    By default only operations that modify a honeypot count, so a benign reader (backup,
-    scanner) is not flagged. With include_reads a plain read counts too, which detects
-    earlier but flags those readers.
+    Only modifying operations count by default so benign readers are not flagged. With
+    include_reads any read counts too.
     """
 
     MUTATING_OPS: ClassVar[frozenset[Op]] = frozenset({Op.WRITE, Op.TRUNCATE, Op.UNLINK, Op.RENAME})
+
+    NAME: ClassVar[str] = "winnie_the_pooh.pdf"
 
     ops: frozenset[Op]
 
@@ -106,8 +78,8 @@ class HoneyPotDetector(Detector):
         self.hit = asyncio.get_running_loop().create_future()
         self.honeypots = set()
 
-        # Directly under safe_path. Plain file I/O, not syscall, so planting is not traced.
-        fp = safe_path / "winnie_the_pooh.pdf"
+        # Plain file I/O, not syscall, so planting is not traced
+        fp = safe_path / self.NAME
         fp.write_bytes(minimal_pdf("Winnie the Pooh"))
         self.honeypots.add(str(fp))
 
@@ -127,3 +99,49 @@ class HoneyPotDetector(Detector):
             duration=time.perf_counter() - start,
             message=f"{event.op} on honeypot {event.path}",
         )
+
+
+class FineTunedHoneyPotDetector(HoneyPotDetector):
+    """
+    Honeypot PDF with a big dead zone that viewers never read.
+
+    Any modification counts, but a read only counts if it touches the dead zone. So a viewer
+    is not flagged but something reading the whole file, like ransomware, is.
+    """
+
+    dead_zone: range
+    log: Log
+
+    def __init__(self) -> None:
+        super().__init__(include_reads=False)
+
+    def setup(self, syscall: SysCall, safe_path: Path, log: Log) -> None:
+        self.hit = asyncio.get_running_loop().create_future()
+        self.log = log
+
+        pdf, self.dead_zone = dead_zone_pdf("Winnie the Pooh")
+        fp = safe_path / self.NAME
+        fp.write_bytes(pdf)
+        self.honeypots = {str(fp)}
+
+        zone = self.dead_zone
+        log(f"planted honeypot {fp}, {len(pdf)} bytes with dead zone [{zone.start}, {zone.stop})")
+
+    def on_event(self, event: TraceEvent) -> None:
+        if event.path not in self.honeypots or self.hit.done():
+            return
+
+        if event.op in self.ops:
+            self.hit.set_result(event)
+        elif event.op == Op.READ and self.__in_dead_zone(event):
+            self.log(f"read {event.nbytes} bytes at {event.offset} touched the dead zone")
+            self.hit.set_result(event)
+
+    # Private
+
+    def __in_dead_zone(self, event: TraceEvent) -> bool:
+        if event.offset is None or not event.nbytes:  # nothing read, e.g. at EOF
+            return False
+
+        zone = self.dead_zone
+        return event.offset < zone.stop and event.offset + event.nbytes > zone.start
