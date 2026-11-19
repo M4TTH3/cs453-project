@@ -1,10 +1,6 @@
 """
 score_dataset.py writes the Shannon entropy and DAA score of every file in a data directory to a
 CSV, one row per file
-
-The encrypted samples are 7z archives, which start with a fixed 32-byte header that is not
-encrypted. DAA skips that header on any file with the 7z signature so those samples are scored on
-their encrypted content. calculate_daa itself always scores from byte 0.
 """
 
 import argparse
@@ -15,10 +11,7 @@ from loguru import logger
 
 from entropy_analysis import calculate_daa, calculate_shannon
 
-FIELDS = ["category", "file", "size", "shannon", "daa", "daa_offset"]
-
-SEVEN_ZIP_SIGNATURE = b"7z\xbc\xaf\x27\x1c"
-SEVEN_ZIP_HEADER = 32
+FIELDS = ["category", "file", "size", "shannon", "daa"]
 
 
 def parse_args() -> argparse.Namespace:
@@ -37,14 +30,12 @@ def parse_args() -> argparse.Namespace:
 
 def score(fp: Path) -> dict[str, object]:
     data = fp.read_bytes()
-    skip = SEVEN_ZIP_HEADER if data.startswith(SEVEN_ZIP_SIGNATURE) else 0
     return {
         "category": fp.parent.name,
         "file": fp.name,
         "size": len(data),
         "shannon": calculate_shannon(data),
-        "daa": calculate_daa(data[skip:]),
-        "daa_offset": skip,
+        "daa": calculate_daa(data),
     }
 
 
