@@ -1,7 +1,15 @@
 """Default detector and workload pairings."""
 
-from detectors import FineTunedHoneyPotDetector, HoneyPotDetector, WriteBurstDetector
+from detectors import (
+    CompositeDetector,
+    FileTypeChangeDetector,
+    FileVelocityDetector,
+    FineTunedHoneyPotDetector,
+    HoneyPotDetector,
+    WriteBurstDetector,
+)
 from file_mutator import (
+    ArchiveMutator,
     BasicSymmetricEncryptionOverwrite,
     NoMutation,
     PaddedEncryption,
@@ -10,6 +18,7 @@ from file_mutator import (
     ReadOnlyMutator,
     ReverseMutator,
     SplitProcessEncryption,
+    UserEditMutator,
 )
 from running_entropy_detector import RunningEntropyDetector
 from simulation import Detector, FileMutator
@@ -30,6 +39,29 @@ SCENARIOS: dict[type[Detector], tuple[type[FileMutator], ...]] = {
         SplitProcessEncryption,
         PartialEncryption,
         PaddedEncryption,
+    ),
+    FileVelocityDetector: (
+        BasicSymmetricEncryptionOverwrite,
+        ReverseMutator,
+        ReadOnlyMutator,
+        ArchiveMutator,
+        UserEditMutator,
+    ),
+    FileTypeChangeDetector: (
+        BasicSymmetricEncryptionOverwrite,
+        ReverseMutator,
+        PartialEncryption,
+        PaddedEncryption,
+        ReadOnlyMutator,
+        ArchiveMutator,
+        UserEditMutator,
+    ),
+    CompositeDetector: (
+        BasicSymmetricEncryptionOverwrite,
+        PartialEncryption,
+        ReadOnlyMutator,
+        ArchiveMutator,
+        UserEditMutator,
     ),
 }
 

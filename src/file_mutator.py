@@ -3,8 +3,10 @@ file_mutator.py provides FileMutator implementations, all file work goes through
 """
 
 import asyncio
+import io
 import os
 import random
+import zipfile
 from pathlib import Path
 
 from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes
@@ -206,3 +208,47 @@ class NoMutation(FileMutator):
 
     async def start(self, syscall: SysCall, safe_path: Path, log: Log) -> None:
         log("no mutation")
+
+
+class ArchiveMutator(FileMutator):
+    "Reads every file and writes one backup.zip"
+
+    async def start(self, syscall: SysCall, safe_path: Path, log: Log) -> None:
+        files = files_in(safe_path)
+        buf = io.BytesIO()
+        with zipfile.ZipFile(buf, "w", compression=zipfile.ZIP_DEFLATED) as zf:
+            for fp in files:
+                fd = syscall.open(fp, os.O_RDONLY)
+                try:
+                    zf.writestr(fp.relative_to(safe_path).as_posix(), read_all(syscall, fd))
+                finally:
+                    syscall.close(fd)
+                log(f"archived {fp}")
+                await asyncio.sleep(0)
+
+        out = safe_path / "backup.zip"
+        fd = syscall.open(out, os.O_WRONLY | os.O_CREAT | os.O_TRUNC)
+        try:
+            write_all(syscall, fd, buf.getvalue())
+        finally:
+            syscall.close(fd)
+        log(f"wrote {out}")
+
+
+class UserEditMutator(FileMutator):
+    "Appends a line to a few text files, pausing between them"
+
+    def __init__(self, count: int = 5, delay: float = 0.5) -> None:
+        self.count = count
+        self.delay = delay
+
+    async def start(self, syscall: SysCall, safe_path: Path, log: Log) -> None:
+        files = [fp for fp in files_in(safe_path) if fp.suffix.lower() in {".csv", ".txt"}]
+        for fp in files[: self.count]:
+            fd = syscall.open(fp, os.O_WRONLY | os.O_APPEND)
+            try:
+                write_all(syscall, fd, b"\nedited\n")
+            finally:
+                syscall.close(fd)
+            log(f"edited {fp}")
+            await asyncio.sleep(self.delay)
