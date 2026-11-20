@@ -38,7 +38,7 @@ async def run_simulations(
     simulator: Simulator, simulations: list[tuple[Detector, FileMutator]], results_dir: Path
 ) -> None:
     for detector, mutator in simulations:
-        name = f"{type(detector).__name__}-with-{type(mutator).__name__}"
+        name = f"{type(detector).__name__}-with-{mutator.label}"
         result = await simulator.run(detector, mutator, log_path=results_dir / f"{name}.log")
         logger.info(f"{name}: {result}")
 

@@ -65,16 +65,22 @@ class HoneyPotDetector(Detector):
 
     NAME: ClassVar[str] = "winnie_the_pooh.pdf"
 
+    "Decoy filename, which decides where in a sorted traversal the attacker reaches it"
+    name: str
+
     "Paths being watched, one for now"
     honeypots: set[str]
     hit: asyncio.Future[TraceEvent]
+
+    def __init__(self, name: str = NAME) -> None:
+        self.name = name
 
     def setup(self, syscall: SysCall, safe_path: Path, log: Log) -> None:
         self.hit = asyncio.get_running_loop().create_future()
         self.honeypots = set()
 
         # Plain file I/O, not syscall, so planting is not traced
-        fp = safe_path / self.NAME
+        fp = safe_path / self.name
         fp.write_bytes(minimal_pdf("Winnie the Pooh"))
         self.honeypots.add(str(fp))
 
@@ -112,7 +118,7 @@ class FineTunedHoneyPotDetector(HoneyPotDetector):
         self.log = log
 
         pdf, self.dead_zone = dead_zone_pdf("Winnie the Pooh")
-        fp = safe_path / self.NAME
+        fp = safe_path / self.name
         fp.write_bytes(pdf)
         self.honeypots = {str(fp)}
 
@@ -137,6 +143,24 @@ class FineTunedHoneyPotDetector(HoneyPotDetector):
 
         zone = self.dead_zone
         return event.offset < zone.stop and event.offset + event.nbytes > zone.start
+
+
+"Sorts before real files, so a traversal in sorted order reaches the decoy first"
+EARLY_NAME = "0000-invoice.pdf"
+
+
+class EarlyHoneyPotDetector(HoneyPotDetector):
+    "HoneyPotDetector with the decoy at the front of the traversal instead of the end"
+
+    def __init__(self, name: str = EARLY_NAME) -> None:
+        super().__init__(name)
+
+
+class EarlyFineTunedHoneyPotDetector(FineTunedHoneyPotDetector):
+    "FineTunedHoneyPotDetector with the decoy at the front of the traversal"
+
+    def __init__(self, name: str = EARLY_NAME) -> None:
+        super().__init__(name)
 
 
 type Combine = Callable[[list[tuple[float, float]]], float]

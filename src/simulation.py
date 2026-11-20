@@ -12,7 +12,51 @@ from pathlib import Path
 
 from pydantic import BaseModel
 
-from syscall import SysCall, TraceEvent
+from syscall import Op, SysCall, TraceEvent
+
+"Ops that destroy or move file contents. Reads and opens leave the data intact"
+DESTRUCTIVE_OPS = frozenset({Op.WRITE, Op.TRUNCATE, Op.UNLINK, Op.RENAME})
+
+
+def damage(events: list[TraceEvent], trigger_seq: int | None) -> tuple[int, int]:
+    """
+    Distinct files destroyed and operations traced up to and including `trigger_seq`, or over
+    the whole trace when there was no trigger. An event's seq is its index in the trace.
+    """
+    upto = events if trigger_seq is None else events[: trigger_seq + 1]
+    succeeded = [e for e in upto if e.ok]
+    modified = {e.path for e in succeeded if e.op in DESTRUCTIVE_OPS and e.path is not None}
+
+    return len(modified), len(succeeded)
+
+
+class TriggerWatch:
+    """
+    Records where in the trace the detector reached its verdict, so damage can be counted up to
+    that operation and no further.
+
+    The detector resolves its verdict synchronously inside on_event but does not resume to
+    return it until the mutator next yields, and the mutator keeps working in between. Watching
+    for the verdict here keeps the detectors out of it: every one of them parks on a `hit` Event
+    or Future that it resolves at the moment it decides, so that is what gets checked.
+    """
+
+    def __init__(self, detector: Detector) -> None:
+        self.detector = detector
+        self.seq: int | None = None
+
+    def on_event(self, event: TraceEvent) -> None:
+        if self.seq is None and self.__decided():
+            self.seq = event.seq
+
+    def __decided(self) -> bool:
+        hit = getattr(self.detector, "hit", None)
+        if isinstance(hit, asyncio.Event):
+            return hit.is_set()
+        if isinstance(hit, asyncio.Future):
+            return hit.done()
+
+        return False
 
 
 class Result(BaseModel):
@@ -22,6 +66,15 @@ class Result(BaseModel):
     duration: float
 
     message: str
+
+    "Index in the trace of the event that triggered the verdict, None if nothing did"
+    trigger_seq: int | None = None
+
+    "Distinct files the mutator had destroyed by the triggering event"
+    files_modified: int = 0
+
+    "Operations traced up to and including the triggering event"
+    ops: int = 0
 
 
 class RunLog:
@@ -77,6 +130,11 @@ class Detector(ABC):
 class FileMutator(ABC):
     "Does file work in safe_path. Should go through syscall so it is traced"
 
+    @property
+    def label(self) -> str:
+        "Name used for result logs. Overridden where the parameters matter to the result"
+        return type(self).__name__
+
     @abstractmethod
     async def start(self, syscall: SysCall, safe_path: Path, log: Log) -> None: ...
 
@@ -87,9 +145,13 @@ class Simulator:
     "Seconds the detector gets once the mutator is done"
     grace: float
 
-    def __init__(self, data_path: Path, grace: float = 1.0) -> None:
+    "Keep the bytes of every read and write on its trace event. Off saves a lot of memory"
+    capture: bool
+
+    def __init__(self, data_path: Path, grace: float = 1.0, capture: bool = True) -> None:
         self.data_path = data_path
         self.grace = grace
+        self.capture = capture
 
     async def run(
         self,
@@ -116,13 +178,17 @@ class Simulator:
                 safe_path = Path(tmp) / self.data_path.name
                 shutil.copytree(self.data_path, safe_path)
 
-                syscall = SysCall(pid=random.randint(2, 2**22))
+                syscall = SysCall(pid=random.randint(2, 2**22), capture=self.capture)
                 sim_log(f"safe_path={safe_path} pid={syscall.pid} grace={self.grace}")
                 sim_log(f"finish_mutator_first={finish_mutator_first}")
 
                 det_log = runlog.bind("detector")
                 detector.setup(syscall, safe_path, det_log)
                 syscall.subscribe(detector.on_event)
+
+                # After the detector, so it sees the verdict on the operation that caused it
+                watch = TriggerWatch(detector)
+                syscall.subscribe(watch.on_event)
 
                 det_coro = detector.start(syscall, safe_path, det_log)
                 mut_coro = mutator.start(syscall, safe_path, runlog.bind("mutator"))
@@ -133,6 +199,14 @@ class Simulator:
                 else:
                     result = await self.__concurrent(det_coro, mut_coro, start)
 
+                files_modified, ops = damage(syscall.events, watch.seq)
+                result = result.model_copy(
+                    update={
+                        "trigger_seq": watch.seq,
+                        "files_modified": files_modified,
+                        "ops": ops,
+                    }
+                )
                 sim_log(f"result: {result}")
                 sim_log(f"{len(syscall.events)} syscalls traced")
                 return result
