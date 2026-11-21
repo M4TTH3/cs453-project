@@ -203,6 +203,54 @@ class PaddedEncryption(FileMutator):
             await asyncio.sleep(0)
 
 
+class StagedEncryption(FileMutator):
+    """
+    Encrypts in batches, reading a whole batch before writing any of it back, so a
+    read-triggered detector can fire while that batch is still intact. `batch_size` 1 matches
+    BasicSymmetricEncryptionOverwrite, 0 reads the whole corpus before the first write.
+    """
+
+    def __init__(self, batch_size: int = 0):
+        self.batch_size = batch_size
+        self.key = AESGCM.generate_key(bit_length=256)
+
+    @property
+    def label(self) -> str:
+        return f"StagedEncryption-batch{self.batch_size or 'all'}"
+
+    async def start(self, syscall: SysCall, safe_path: Path, log: Log) -> None:
+        files = files_in(safe_path)
+        size = self.batch_size or len(files)
+        log(f"batch_size={size} over {len(files)} files")
+
+        for start in range(0, len(files), size):
+            batch = files[start : start + size]
+            plaintexts: dict[Path, bytes] = {}
+
+            for fp in batch:
+                fd = syscall.open(fp, os.O_RDONLY)
+                try:
+                    plaintexts[fp] = read_all(syscall, fd)
+                finally:
+                    syscall.close(fd)
+
+                log(f"read {fp}")
+                await asyncio.sleep(0)
+
+            for fp in batch:
+                fd = syscall.open(fp, os.O_RDWR)
+                try:
+                    syscall.truncate(fd, 0)
+                    nonce = os.urandom(12)
+                    out = nonce + AESGCM(self.key).encrypt(nonce, plaintexts.pop(fp), None)
+                    write_all(syscall, fd, out)
+                finally:
+                    syscall.close(fd)
+
+                log(f"encrypted {fp}")
+                await asyncio.sleep(0)
+
+
 class NoMutation(FileMutator):
     "Does nothing, so the detector only sees the unmodified data"
 
