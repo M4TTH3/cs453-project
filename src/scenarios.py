@@ -21,6 +21,7 @@ from file_mutator import (
     UserEditMutator,
 )
 from running_entropy_detector import RunningEntropyDetector
+from context_detectors.fileType import EnglTxtDetector
 from simulation import Detector, FileMutator
 
 SCENARIOS: dict[type[Detector], tuple[type[FileMutator], ...]] = {
@@ -63,6 +64,17 @@ SCENARIOS: dict[type[Detector], tuple[type[FileMutator], ...]] = {
         ArchiveMutator,
         UserEditMutator,
     ),
+    EnglTxtDetector: (
+        ArchiveMutator,
+        BasicSymmetricEncryptionOverwrite,
+        PaddedEncryption,
+        PartialEncryption,
+        ReadOnlyMutator,
+        ReverseMutator,
+        SplitProcessEncryption,
+        UserEditMutator,
+        NoMutation,
+        )
 }
 
 
